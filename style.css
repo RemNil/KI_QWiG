@@ -69,21 +69,33 @@ pre code {
     font-size: 40px;
  }
  
- /* Make the sidebar image double the previous size and responsive */
+.book-summary .book-logo {
+  padding: 0;
+  margin: 0 auto 1em auto;
+  text-align: center;
+}
+
+.book-summary .book-logo img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  display: block;
+  margin: 0 auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+}
 .sidebar-logo {
-  width: 260%;           /* Was 80% */
-  max-width: 900px;      /* Was 350px */
+  width: 100%;
+  max-width: none;
   height: auto;
   display: block;
-  margin: 2vw auto 2vw auto;
+  margin: 0 auto 1.5em auto;  /* spacing below the logo */
   border-radius: 6px;
   box-shadow: 0 2px 12px rgba(0,0,0,0.12);
-  transition: width 0.3s;
 }
 
 @media (max-width: 600px) {
   .sidebar-logo {
-    width: 290%;         /* Was 95% */
-    max-width: 600px;    /* Was 180px */
+    max-width: 220px;
   }
 }

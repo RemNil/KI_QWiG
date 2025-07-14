@@ -1,11 +1,7 @@
 bookdown::gitbook:
-  includes:
-    in_header: [hypothesis.html]
-    #before_body: open_review_block.html
-    #after_body: [call_to_action_block.html]
-    after_body: open_review_block.html
-  css: style.css
+  css: style.css  # <-- This is the key
   config:
+    logo: images/logo.png
     toc:
       collapse: subsection
       before: |
@@ -32,6 +28,11 @@ bookdown::gitbook:
       twitter: yes
       linkedin: yes
       all: ['facebook', 'twitter', 'linkedin']
+  # includes:
+  #   in_header: [hypothesis.html]
+  #   #before_body: open_review_block.html
+  #   #after_body: [call_to_action_block.html]
+  #   after_body: open_review_block.html
     bookdown::pdf_book:
       includes:
         in_header: [preamble.tex]

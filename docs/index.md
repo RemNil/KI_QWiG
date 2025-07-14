@@ -1,21 +1,21 @@
 ---
-title: "Knowledge Graph for German HTA reports"
+title: "Dossier-Graph: A Knowledge Graph for German HTA reports"
 author: "Merlin RemNil"
 date: "15.07.2025"
-description: Der Dossier-Graf.
+output: pdf_document
 github-repo: RemNil/remnil.github.io
 documentclass: book
-link-citations: yes
+link-citations: true
 bibliography: book.bib
 site: bookdown::bookdown_site
 biblio-style: chicago
-split_bib: no
+split_bib: false
 url: https://remnil.github.io/
-header-includes:
-  \usepackage{float}
+header-includes: \usepackage{float}
+description: "Der Dossier-Graf."
 ---
 
-# Project summary: Dossier-Graph {-}
+# Project summary {-}
 
 Dossier-Graph is an open-source, government-grade knowledge graph system designed for research and education, built on public data from transparent health technology assessments [@IQWiG2023]
 

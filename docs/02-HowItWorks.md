@@ -1,4 +1,4 @@
-# How it works and how its going so far
+# How it works and how its going
 
 ![](https://media.giphy.com/media/MJ6SslGZEYKhG/giphy.gif){width=250px}
 

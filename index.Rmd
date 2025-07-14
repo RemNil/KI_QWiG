@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Graph for German HTA reports"
+title: "Dossier-Graph: A Knowledge Graph for German HTA reports"
 author: "Merlin RemNil"
 date: "`r format(Sys.Date(), '%d.%m.%Y')`"
 output: pdf_document
@@ -15,7 +15,7 @@ header-includes: \usepackage{float}
 description: "Der Dossier-Graf."
 ---
 
-# Project summary: Dossier-Graph {-}
+# Project summary {-}
 
 Dossier-Graph is an open-source, government-grade knowledge graph system designed for research and education, built on public data from transparent health technology assessments [@IQWiG2023]
 
