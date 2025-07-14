@@ -9,7 +9,7 @@ bookdown::gitbook:
     toc:
       collapse: subsection
       before: |
-        <li style="text-align:center;">
+        <li style="text-align:left;">
           <img src="images/D_GRAF.png" class="sidebar-logo">
         </li>
         <li><a href="./">Dossier-Graph</a></li>
