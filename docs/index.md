@@ -15,8 +15,6 @@ header-includes:
   \usepackage{float}
 ---
 
-
-
 # Project summary: Dossier-Graph {-}
 
 Dossier-Graph is an open-source, government-grade knowledge graph system designed for research and education, built on public data from transparent health technology assessments [@IQWiG2023]
@@ -35,7 +33,7 @@ Its mission: transform a vast archive of dossier evaluations into a live, search
 
 - Flexible, Traceable Linking:
 
-  - Connects dossiers, addenda, tables, sections, and more—including complex conceptual relationships.
+  - Connects dossiers, addenda, tables, sections, and more complex conceptual relationships.
 
   - Ensures both human-readable and machine-consumable navigation paths.
 
@@ -45,14 +43,8 @@ Its mission: transform a vast archive of dossier evaluations into a live, search
 
   - Users ask questions in natural language and receive comprehensive, cross-document answers instantly.
 
-- Security & Scalability:
-
-  - Fully internal and compliant with data protection standards.
-
-  - Open-source and cost-effective, with effortless expansion as new documents are added.
-
 ### Why it matters {-}
-Clinical development of new medicinal products is different from many other business models in that it critically depends on voluntary or even [altruistic](https://onlinelibrary.wiley.com/doi/abs/10.1353/hcr.0.0164) [@jansen2009ethics] research participation and hence on [public trust](https://academic.oup.com/bjps/advance-article-abstract/doi/10.1093/bjps/axz023/5524669?redirectedFrom=fulltext). *"Information gain per unit of accepted research burden"* is a useful concept [introduced](https://www.youtube.com/watch?v=5ECTE0gbwFU=0m52s) to think about how the current regulatory oversight system learns from past [clinical R&D efforts](https://www.ema.europa.eu/en/documents/other/laboratory-patient-journey-centrally-authorised-medicine_en.pdf) -- a prerequisite of earning public trust. Information cannot only be gained from performing clinical research but throughout the entire regulatory process including post-marketing health technology assessment. Hence, research responsibilities to make most out of the available information extends far beyond the publishing study results. 
+Clinical development of new medicines differs from many business models because it relies critically on voluntary, even  [altruistic](https://onlinelibrary.wiley.com/doi/abs/10.1353/hcr.0.0164) [@jansen2009ethics] research participation and hence on [public trust](https://academic.oup.com/bjps/advance-article-abstract/doi/10.1093/bjps/axz023/5524669?redirectedFrom=fulltext). *"Information gain per unit of accepted research burden"* is a useful concept [introduced](https://www.youtube.com/watch?v=5ECTE0gbwFU=0m52s) to think about how regulatory oversight learns from past [clinical R&D efforts](https://www.ema.europa.eu/en/documents/other/laboratory-patient-journey-centrally-authorised-medicine_en.pdf) -- a prerequisite of earning public trust. Information is gained not only from conducting clinical research but throughout the entire regulatory process, including post-marketing health technology assessment. Therefore, research responsibilities to maximize available information extend well beyond publishing study results. 
 
 In this spirit, the Dossier-Graph knowledge graph is designed to transform post-marketing health technology assessment data into actionable insights, honoring the contributions of the many patients involved in current research.
 
