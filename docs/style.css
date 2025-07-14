@@ -1,3 +1,10 @@
+.book-summary img {
+  display: block;
+  margin: 20px auto 10px auto;
+  max-width: 120px;
+  border-radius: 8px;
+}
+
 p.caption {
   color: #777;
   margin-top: 10px;
@@ -61,3 +68,22 @@ pre code {
     bottom: 0px;
     font-size: 40px;
  }
+ 
+ /* Make the sidebar image double the previous size and responsive */
+.sidebar-logo {
+  width: 260%;           /* Was 80% */
+  max-width: 900px;      /* Was 350px */
+  height: auto;
+  display: block;
+  margin: 2vw auto 2vw auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.12);
+  transition: width 0.3s;
+}
+
+@media (max-width: 600px) {
+  .sidebar-logo {
+    width: 290%;         /* Was 95% */
+    max-width: 600px;    /* Was 180px */
+  }
+}

@@ -9,14 +9,18 @@ bookdown::gitbook:
     toc:
       collapse: subsection
       before: |
-        <li><a href="./">Test. Learn. Repeat.</a></li>
+        <li style="text-align:center;">
+          <img src="images/D_GRAF.png" class="sidebar-logo">
+        </li>
+        <li><a href="./">Dossier-Graph</a></li>
       after: |
-        <li><a href="https://remnil.github.io/" target=RemNil</a></li>
+        <li><a href="https://remnil.github.io/" target=BIH QUEST Center</a></li>
     toolbar:
       position: fixed
     edit : null
     download: ["bookdown-start.pdf", "bookdown-start.epub"]
     search: yes
+    keep_files: ["images"]
     split_by: chapter
     split_bib: yes
     fontsettings:
@@ -27,7 +31,7 @@ bookdown::gitbook:
       github: yes
       twitter: yes
       linkedin: yes
-      all: ['twitter', 'linkedin']
+      all: ['facebook', 'twitter', 'linkedin']
     bookdown::pdf_book:
       includes:
         in_header: [preamble.tex]

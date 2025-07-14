@@ -1,11 +1,10 @@
 book_filename: "Dossier-Graph"
 # chapter_name:  "Chapter "
-repo: https://github.com/RemNil/bookdown-start
+repo: https://github.com/RemNil/KI_QWiG
 output_dir: docs
 rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-HowItWorks.Rmd", "99-References.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
-#  "01-Introduction.Rmd", "02-Translation.Rmd", "03-Justification.Rmd","04-MCDA.Rmd", "05-Learning.Rmd", "06-DataQuality.Rmd", "07-Use_cases.Rmd", "99-References.Rmd"
 
 
 # library(bookdown)
