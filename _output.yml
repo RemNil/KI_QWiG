@@ -27,7 +27,7 @@ bookdown::gitbook:
       github: yes
       twitter: yes
       linkedin: yes
-      all: ['facebook', 'twitter', 'linkedin']
+      all: ['twitter', 'linkedin']
     bookdown::pdf_book:
       includes:
         in_header: [preamble.tex]
