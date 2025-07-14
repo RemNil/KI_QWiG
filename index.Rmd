@@ -8,7 +8,7 @@ documentclass: book
 link-citations: yes
 bibliography: book.bib
 site: bookdown::bookdown_site
-biblio-style: apalike
+biblio-style: numeric
 split_bib: no
 url: https://remnil.github.io/
 header-includes:

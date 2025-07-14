@@ -11,7 +11,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Test. Learn. Repeat.</a></li>
       after: |
-        <li><a href="https://remnil.github.io/" target=BIH QUEST Center</a></li>
+        <li><a href="https://remnil.github.io/" target=RemNil</a></li>
     toolbar:
       position: fixed
     edit : null
