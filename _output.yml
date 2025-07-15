@@ -23,16 +23,18 @@ bookdown::gitbook:
       theme: white
       family: sans
       size: 2
+    number_sections: true
+    number_depth: 2  # Only level 1 and 2 headings (e.g., 1, 1.1) get numbers
     sharing:
       github: yes
       twitter: yes
       linkedin: yes
-      all: ['facebook', 'twitter', 'linkedin']
-  # includes:
-  #   in_header: [hypothesis.html]
-  #   #before_body: open_review_block.html
-  #   #after_body: [call_to_action_block.html]
-  #   after_body: open_review_block.html
+      all: ['twitter', 'linkedin']
+  includes:
+    in_header: [hypothesis.html]
+    #before_body: open_review_block.html
+    #after_body: [call_to_action_block.html]
+    after_body: open_review_block.html
     bookdown::pdf_book:
       includes:
         in_header: [preamble.tex]

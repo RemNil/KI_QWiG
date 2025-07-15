@@ -1,5 +1,7 @@
 # How it works and how its going
 
+Veritas filia temporis.
+
 ![](https://media.giphy.com/media/MJ6SslGZEYKhG/giphy.gif){width=250px}
 
 <style>

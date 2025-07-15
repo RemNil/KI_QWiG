@@ -17,19 +17,12 @@ description: "Der Dossier-Graf."
 
 # Project summary {-}
 
-Dossier-Graph is an open-source, government-grade knowledge graph system designed for research and education, built on public data from transparent health technology assessments [@IQWiG2023]
+Dossier-Graph is an open-source and free knowledge graph system designed for research and education, built on public data from transparent health technology assessments [@IQWiG2023].
 
 Its mission: transform a vast archive of dossier evaluations into a live, searchable database using AI.
 
 ### Key Features {-}
 
-- Document & Data Storage:
-
-  - MongoDB manages metadata and hierarchical structures.
-
-  - Qdrant powers fast vector search via Llama embeddings.
-
-  - SuperDuper adds an orchestration layer for seamless operations.
 
 - Flexible, Traceable Linking:
 
@@ -46,7 +39,7 @@ Its mission: transform a vast archive of dossier evaluations into a live, search
 ### Why it matters {-}
 Clinical development of new medicines differs from many business models because it relies critically on voluntary, even  [altruistic](https://onlinelibrary.wiley.com/doi/abs/10.1353/hcr.0.0164) [@jansen2009ethics] research participation and hence on [public trust](https://academic.oup.com/bjps/advance-article-abstract/doi/10.1093/bjps/axz023/5524669?redirectedFrom=fulltext). *"Information gain per unit of accepted research burden"* is a useful concept [introduced](https://www.youtube.com/watch?v=5ECTE0gbwFU=0m52s) to think about how regulatory oversight learns from past [clinical R&D efforts](https://www.ema.europa.eu/en/documents/other/laboratory-patient-journey-centrally-authorised-medicine_en.pdf) -- a prerequisite of earning public trust. Information is gained not only from conducting clinical research but throughout the entire regulatory process, including post-marketing health technology assessment. Therefore, research responsibilities to maximize available information extend well beyond publishing study results. 
 
-In this spirit, the Dossier-Graph knowledge graph is designed to transform post-marketing health technology assessment data into actionable insights, honoring the contributions of the many patients involved in current research.
+In this spirit, the Dossier-Graph knowledge graph is designed to transform post-marketing health technology assessment data into actionable insights, honoring the contributions of the many patients involved in the underlying research.
 
 By integrating state-of-the-art information technology throughout the drug development and regulatory lifecycle, this project advances the actionable use of critical research information.
 
