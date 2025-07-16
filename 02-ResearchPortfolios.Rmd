@@ -81,7 +81,8 @@ trsf %>%
   tally(wt=value) -> dat 
 
 streamgraph(data= na.omit(dat), key="indication", value="n", date="year", 
-            top = 20, right = 10, bottom = 30, left = 30,
+                        width = "100%",   # Key setting for responsiveness
+            height = 400,
             interactive=TRUE, order=("inside-out"), interpolate = "cardinal-open") %>%
   sg_axis_x(2, "year", "%Y") %>%
   sg_fill_brewer("YlOrRd")# "OrRd" "Spectral", "RdYlGn", "RdYlBu", "RdGy", "RdBu", "PiYG", "PRGn", "PuOr", "BrBG" "PuOr""
@@ -147,7 +148,8 @@ streamgraph(data = dat,
             key = "category",
             value = "count",
             date = "year",
-            top = 20, right = 10, bottom = 30, left = 30,
+            width = "100%",   # Key setting for responsiveness
+            height = 400,
             interactive = TRUE,
             order = "inside-out",
             interpolate = "cardinal-open") %>%
