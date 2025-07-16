@@ -1,0 +1,205 @@
+# Clinical Trial Portfolio Analysis 
+
+Ethical justification for the burdens placed on clinical research participants extends well beyond rigorous trial design. Modern scholarship stresses that trials should form part of an aligned **research portfolio**, where each study fills knowledge gaps and builds on prior evidence, contributing to a coherent, cumulative understanding of therapeutic questions. This portfolio approach is central for generating social value and ethically justifying participant burdens, as research efforts that are strategically linked offer a far greater return on participant contribution than isolated studies [@london2019clinical; @kimmelman2017drug; @kimmelman2015structure].
+
+Evaluating clinical research from a **bird’s eye perspective**, particularly after drug approval, produces two key benefits:
+
+1. **Improving Future Trials**: Analyses of existing research portfolios can highlight recurring challenges or risks; these insights directly inform the design, oversight, and safety of subsequent studies. For example, patterns identified at the portfolio level can help investigators anticipate methodological pitfalls or ethical concerns [@BittlingerPeppercornKimmelman2022].
+
+2. **Revealing Research Gaps**: Only by viewing groups of related trials together do unmet needs and new research questions rise to the surface—questions invisible to single-study analysis, but crucial for continuous improvement and targeted innovation [@kimmelman2017drug; @london2019clinical].
+
+#### 1. **Contextualizing Research Within the Scientific Continuum** {-}
+
+- **Interdependence of Questions**: Each study should not exist in isolation. Instead, it should build upon previous findings and lay the groundwork for subsequent inquiry. This continuity ensures that research is not a series of disconnected efforts, but a tapestry of knowledge where each thread informs and supports the others.
+- **Cumulative Value of Evidence**: The justification for involving participants must consider how the current research contributes to a growing body of evidence. Studies should be positioned to fill genuine knowledge gaps, refine existing understanding, or resolve uncertainties left by prior trials.
+
+#### 2. **Strategic Question Selection and Research Prioritization** {-}
+
+- **Meaningful Sequencing**: What we choose to ask next matters. The process of formulating research questions must be deliberate, ensuring they are timely, necessary, and logically connected to what has been already established. This sequencing maximizes the efficiency and impact of participant commitments.
+- **Avoiding Redundancy and Waste**: By coordinating research agendas and sharing data openly, the field can prevent unnecessary replication and avoid subjecting participants to studies of limited incremental value.
+
+#### 3. **Ethical Stewardship: Participant Burden in Perspective** {-}
+
+- **Value Amplification**: When research questions are interconnected and aligned towards elucidating a coherent "bigger picture," the societal value gained for each participant’s sacrifice increases. Their contributions are part of a collective effort, not a solitary, potentially obscure, experiment.
+- **Transparency and Trust**: Clearly articulating how each study fits within the broader research mission fosters public trust, honors participant altruism, and reinforces the legitimacy of the research burden.
+
+#### 4. **Cultivating a Healthy Research Culture** {-}
+
+- **Interdisciplinary Collaboration**: Encouraging collaboration across disciplines and institutions ensures that research priorities are shaped by a diversity of perspectives and pressing clinical realities.
+- **Vision and Foresight**: Healthy research ecosystems invest in horizon scanning—anticipating future questions and challenges—to guide present study designs and ethical considerations.
+
+
+
+## Trial Portfolios and Research Trajectories
+
+Let us examine some examples using [EMA data](https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx) from the [EMA website](https://www.ema.europa.eu/en/medicines/download-medicine-data#medicines-69047). On the x-axis we plot time (years) and on the y-axis we plot the "volume" (counts) of EMA approvals per category (therapeutic areas). We do so using a [stream graph](https://hrbrmstr.github.io/streamgraph/) [@byron2008stacked], where the volume of individual streams (i.e. number of approvals per year and therapeutic area) is proportional to the values in each category.
+
+
+<style>
+div.blue {
+  background-color: #e6f0ff;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 10px; /* adds vertical space below the box */
+}
+</style>
+
+<div class = "blue">
+  <h4>Key features of stream graphs</h4>
+  <ul>
+    <li><strong>Trends Over Time:</strong> Easily see rises and falls in activity for different categories (e.g., trial phases, therapeutic areas).</li>
+    <li><strong>Relative Volumes:</strong> The thickness of each stream at a given time denotes the volume (number of trials or approvals) for that category.</li>
+    <li><strong>Research Shifts:</strong> Highlight when attention moves from one research area to another, or when new categories emerge.</li>
+  </ul>
+</div>
+
+It's particularly powerful for showing the *temporal development* of research portfolios, such as how the number of clinical trials in different indications expand, contract, or shift across years.
+
+```{r  fig.width=9, fig.height=6, eval=TRUE, include=TRUE, results=TRUE, echo=FALSE, warning=FALSE, error=FALSE, message=FALSE}
+# devtools::install_github("hrbrmstr/streamgraph")
+library(streamgraph)
+library(readxl)
+library(caret)
+library(plotly)
+library(dplyr)
+
+# "Medicines_output_european_public_assessment_reports.xlsx"
+epar <- read.csv("epar_genus_proximum.csv", sep = ";", stringsAsFactors=FALSE, check.names = FALSE)
+names(epar)[1:2] <- c("year", "indication")
+
+epar$year <- as.numeric(epar$year)
+
+dmy <- dummyVars(" ~ .", data = epar)
+trsf <- data.frame(predict(dmy, newdata = epar))
+
+colnames(trsf) <- c("year", substring(colnames(trsf), 11,60)[2:453])
+names(trsf) <- gsub("[.]", " ", names(trsf)) 
+
+trsf %>%  
+  tidyr::gather(indication, value, -year)  %>% 
+  group_by(year, indication) %>%
+  tally(wt=value) -> dat 
+
+streamgraph(data= na.omit(dat), key="indication", value="n", date="year", 
+            top = 20, right = 10, bottom = 30, left = 30,
+            interactive=TRUE, order=("inside-out"), interpolate = "cardinal-open") %>%
+  sg_axis_x(2, "year", "%Y") %>%
+  sg_fill_brewer("YlOrRd")# "OrRd" "Spectral", "RdYlGn", "RdYlBu", "RdGy", "RdBu", "PiYG", "PRGn", "PuOr", "BrBG" "PuOr""
+```
+
+This plot visually presents "trends" in approval rate per therapeutic area over time. 
+
+- The *width* of each category’s stream fluctuates, letting us spot certain observations (e.g., surges in lung cancer trials after pembrolizumab’s first lung approval).
+
+- Events like regulatory approvals or new indication launches appear as "bursts."
+
+- Declining or "sunset" indications shrink and eventually disappear, providing a living map of the research focus over time as described in the reference example
+
+```{r  fig.width=9, fig.height=6, eval=TRUE, include=TRUE, results=TRUE, echo=FALSE, warning=FALSE, error=FALSE, message=FALSE}
+library(readxl)
+library(dplyr)
+library(tidyr)
+library(caret)
+
+# Step 1: Read Excel skipping the top 8 rows (adjust if needed)
+raw_data <- read_excel("medicines_output_medicines_en.xlsx", skip = 8)
+
+# Step 2: Rename AF to 'year' and extract columns Q to Y (i.e., columns 17 to 25)
+# Note: Use `names(raw_data)` to check actual column names if unsure
+# # Assuming column AF is at position 32
+clean_data <- raw_data %>%
+  filter(Category == "Human") %>%  # move this to the top before select
+  select("Marketing authorisation date",
+         "PRIME: priority medicine", "Accelerated assessment", 
+         "Additional monitoring", "Advanced therapy", 
+         "Biosimilar", "Conditional approval", 
+         "Generic or hybrid", "Orphan medicine") %>%
+mutate(year = as.numeric(format(as.Date(`Marketing authorisation date`, format = "%d/%m/%Y"), "%Y")))  %>%
+  filter(!is.na(year))
+
+# Step 4: One-hot encode if not already binary/logical
+# If these are already 1/0 or TRUE/FALSE, we can proceed
+# If they are character (e.g., "Yes"/"No"), convert to binary
+raw_data[2:10] <- lapply(raw_data[2:10], function(x) as.numeric(tolower(x) %in% c("yes", "1", "true")))
+
+# Step 5: Reshape to long format
+dat <- clean_data %>%
+  pivot_longer(
+    cols = -c(year, `Marketing authorisation date`),
+    names_to = "EMA approval category",
+    values_to = "value"
+  ) %>%
+  mutate(value = as.numeric(tolower(as.character(value)) %in% c("yes", "1", "true"))) %>%
+  group_by(year, `EMA approval category`) %>%
+  summarise(n = sum(value, na.rm = TRUE), .groups = "drop")
+
+# Step 6: Streamgraph visualization
+library(streamgraph)
+
+dat <- dat %>%
+  rename(
+    category = `EMA approval category`,
+    count = n
+  )
+
+
+streamgraph(data = dat,
+            key = "category",
+            value = "count",
+            date = "year",
+            top = 20, right = 10, bottom = 30, left = 30,
+            interactive = TRUE,
+            order = "inside-out",
+            interpolate = "cardinal-open") %>%
+  sg_axis_x(2, "year", "%Y") %>%
+  sg_fill_brewer("Blues")
+
+```
+
+This streamgraph visualizes trends in EMA regulatory approval categories from the early 2000s to 2024. Each colored stream represents one category, with the stream’s thickness indicating the number of medicines approved under that category each year.
+
+#### Interpretation by Category: {-}
+
+- **Additional monitoring (largest stream):**
+This category has grown substantially since 2012, peaking in 2022. It reflects increased post-market surveillance requirements for newer medicines, possibly due to evolving safety monitoring standards.
+
+- **Generic or hybrid:**
+Steady presence over the years, with moderate peaks around 2009–2012 and a strong resurgence from 2021–2024. This suggests growing availability and approval of off-patent medicines or new combinations/formulations.
+
+- **Orphan medicine:**
+Consistent upward trend, especially post-2018, reflecting EMA’s ongoing support for therapies targeting rare diseases.
+
+- **Biosimilar:**
+Emerging around 2010 and slowly gaining momentum. The rise in recent years aligns with the expiration of patents on major biologics.
+
+- **Accelerated assessment, Advanced therapy, Conditional approval, PRIME: priority medicine:**
+These smaller streams show limited but increasing use, indicating selective but strategic application of fast-track or specialized pathways for innovative or high-need treatments.
+
+In sum, the graph shows that regulatory pathways tailored for innovation, safety, and patient access have become more prominent. Particularly, Additional monitoring and Orphan medicine categories have seen major growth, while generics and biosimilars reflect market maturity and cost-containment policies.
+
+#### Applications {-}
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+- **Portfolio Review:** See if resources align with evolving scientific opportunities.
+- **Ethical Justification:** Ensure new studies fill real knowledge gaps (not redundant with past research).
+- **Gap Analysis:** Identify under-studied areas or indications ripe for new trials.
+</div>
+
+## Limitations of hitorical data analysis 
+
+- **Data Relevance and Timeliness:** Historical data may not reflect recent changes in the environment, such as technological advancements, market disruptions, or shifts in consumer behavior. This can make insights obsolete or misleading.
+
+- **Quality and Completeness Issues:** Historical datasets can suffer from inaccuracies, incompleteness, or inconsistent formats, reducing the reliability of any conclusions drawn.
+
+- **Survivorship Bias:**  The data might be affected by biases, such as focusing on entities that have survived or succeeded while ignoring those that have failed, leading to skewed interpretations (also known as survivorship bias).
+
+- **Limited Predictive Power:**  Historical patterns do not always guarantee future outcomes, especially in volatile environments or during unprecedented events. Unexpected disruptions (like the COVID-19 pandemic) often break with historical trends.
+
+- **Overfitting:**  There is a risk of creating models that fit historical data too closely but fail to generalize accurately to new situations or data—a problem especially in complex statistical modeling.
+
+- **Stifling Innovation:**  Exclusive reliance on past data can limit creativity, making organizations less likely to explore new approaches or adapt to novel circumstances.
+
+- **Cultural and Contextual Shifts:**  Societal, regulatory, or industry-specific changes can render historical data less useful for contemporary analysis, potentially leading to misaligned strategies

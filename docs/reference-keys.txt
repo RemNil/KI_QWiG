@@ -1,3 +1,5 @@
 introduction
-useful-tools
+clinical-trial-portfolio-analysis
+trial-portfolios-and-research-trajectories
+limitations-of-hitorical-data-analysis
 how-it-works-and-how-its-going

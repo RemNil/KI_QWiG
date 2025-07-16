@@ -1,7 +1,7 @@
 ---
 title: "Dossier-Graph: A Knowledge Graph for German HTA reports"
 author: "Merlin RemNil"
-date: "15.07.2025"
+date: "16.07.2025"
 output: pdf_document
 github-repo: RemNil/remnil.github.io
 documentclass: book
