@@ -2,7 +2,7 @@ book_filename: "Dossier-Graph"
 # chapter_name:  "Chapter "
 repo: https://github.com/RemNil/KI_QWiG
 output_dir: docs
-rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-ResearchPortfolios.Rmd", "03-HowItWorks.Rmd", "99-References.Rmd"]
+rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-ResearchPortfolios.Rmd", "03-Knowledge-Graph.Rmd", "04-Questioneering.Rmd", "05-HandsOn.Rmd", "98-HowItWorks.Rmd", "99-References.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
 
