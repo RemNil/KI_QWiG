@@ -1,7 +1,7 @@
 # Comprehensive Documention: Dossier-Graph
 
 
-![](images/D_GRAF.png){width=250px}
+![](images/D_GRAF.png){width=350px; heigh=450px}
 
 ### Implementation steps
 

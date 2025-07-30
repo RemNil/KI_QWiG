@@ -1,5 +1,7 @@
 # Knowledge Graph
 
+If we trust the data, we should use it.
+
 <style>
 div.blue {
   background-color: #e6f0ff;
@@ -11,13 +13,16 @@ div.blue {
 <div class = "blue">
   <h4>Key features of Knowledge Graphs</h4>
   <ul>
-    <li> Makin it easier to reason across complex topics by connecting related information</li>
+    <li> Making it easier to reason across complex topics by connecting related information</li>
     <li> Bridging large datasets and multiple data sources (e.g., IQWIG benefit assessments, EMA EPARs, G-BA "Tragende Gründe" etc.).</li>
     <li> Facilitate easy information retrieval using Retrieval-Augmented Generation (RAG). </li>
   </ul>
 </div>
 
-#### 1. **Data sources** {-}
+So, yada, yada.
+
+## Data sources
+
 Data is in the public domain and can be webscraped for academic/educational noncommercial use (https://github.com/RemNil/Dossier-Graph)
 
 However, all source data is publish as PDF files. PDFs are difficult to work with because they store visual layout rather than structured content. Unlike Word or HTML, PDFs lack semantic tags like headings, paragraphs, or tables—they simply position text on a page. This makes it hard to extract meaningful data, especially from tables or multi-column layouts, since there's no inherent reading order or logical structure. In contrast, formats like `.docx`, HTML, or JSON are designed for structured content and are far easier to parse programmatically.
@@ -37,8 +42,10 @@ div.red {
   </ul>
 </div>
 
+Exactly?
 
-#### 2. **Data processing** {-}
+
+## Data processing
 
 Parsing complex scientific documents like IQWiG reports requires more than generic PDF extraction — especially when dealing with long text passages, dense tabular data, and nuanced medical terminology. Unlike journal articles that often follow a typical standardized structure (Abstract, Methods, Results, etc.), IQWiG reports follow their own template-based structure, with institution-specific conventions, recurring section types, and domain-specific vocabulary. This necessitates a tailored but flexible, hybrid processing pipeline that combines layout-aware extraction with semantic parsing and structured data representation.
 
@@ -50,22 +57,23 @@ Given the volume and complexity publicly available IQWiG or G-BA corpora — 1,5
 
 Key features of the processing pipeline:
 
-##### **Metadata Extraction:** {-}
+### Metadata Extraction
 
 Each document should be parsed to extract bibliographic and structural metadata into a consistent JSON schema — including document title, project code, report type, section labels, page ranges, and table/figure references.
 
-##### **Concept Annotation:** {-}
+### Concept Annotation
 
 Leveraging either spaCy (with medical or German-language models) or a domain-adapted LLM, key concepts such as medical terms, study identifiers, clinical endpoints, and IQWiG-evaluative language ("Hinweis", "Beleg", etc.) can be tagged. These annotations serve as candidates for a downstream knowledge graph.
 
-##### **Abbreviation List Extraction:** {-}
+### Abbreviation List Extraction
 
 A glossary of abbreviations should be built by automatically detecting and parsing abbreviation-definition pairs from designated sections and table footnotes, aggregating terms across documents into a unified dictionary.
 
-##### **Structural Hierarchy Preservation:** {-}
+### Structural Hierarchy Preservation
+
 Despite lacking standard journal layout, IQWiG reports do follow a templated structure, often with consistent headings and expected subtopics. The pipeline should use rule-based or ML-aided logic to detect section boundaries and maintain the document’s semantic hierarchy. This is crucial for maintaining links between a given table and the explanatory text surrounding it, as well as connecting conclusions with referenced studies or findings.
 
-##### **Semantic Integration of Tables and Text:** {-}
+### Semantic Integration of Tables and Text
 
 Tables in these documents are not standalone — they are tightly linked to claims, evidence categories, and footnote-based qualifiers. The PDF processing should be able to identify these cross-references, potentially through heuristics (e.g., detecting references like “siehe Tabelle 4”) or embedding-based similarity matching between tabular rows and narrative mentions.
 
@@ -101,8 +109,8 @@ iqwig_pdf_pipeline/
 └── config.yaml                   # Pipeline configs (paths, thresholds, etc.)
 ```
 
-#### 3. **Graph development** {-}
+## Graph development
 
-#### 4. **Quality Assurance** {-}
+## Quality Assurance
 
-#### 5. **Model deployment** {-}
+## Model deployment

@@ -1,4 +1,4 @@
-# Concept development leveraging large empirical data
+# Concept development and empirical data
 
 ## Rationale
 Traditional concept development in research ethics involves the systematic analysis and refinement of ethical principles that guide the conduct of research involving human and animal subjects. Rooted in philosophical inquiry and bioethics, this approach typically focuses on foundational concepts such as autonomy, beneficence, non-maleficence, and justice. Scholars use conceptual analysis to clarify the meaning, scope, and application of these principles, often drawing from case studies, historical precedents, and normative ethical theories. The goal is to establish clear, coherent, and universally applicable ethical standards that inform research policies, institutional review board (IRB) guidelines, and the ethical training of researchers.

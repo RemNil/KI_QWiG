@@ -30,7 +30,7 @@
   
   
 <link rel="prev" href="clinical-trial-portfolio-analysis.html"/>
-<link rel="next" href="concept-development-leveraging-large-empirical-data.html"/>
+<link rel="next" href="concept-development-and-empirical-data.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -120,7 +120,10 @@ div.csl-indent {
 <li class="chapter" data-level="2.1" data-path="clinical-trial-portfolio-analysis.html"><a href="clinical-trial-portfolio-analysis.html#trial-portfolios-and-research-trajectories"><i class="fa fa-check"></i><b>2.1</b> Trial Portfolios and Research Trajectories</a></li>
 <li class="chapter" data-level="2.2" data-path="clinical-trial-portfolio-analysis.html"><a href="clinical-trial-portfolio-analysis.html#limitations-of-hitorical-data-analysis"><i class="fa fa-check"></i><b>2.2</b> Limitations of hitorical data analysis</a></li>
 </ul></li>
-<li class="chapter" data-level="3" data-path="knowledge-graph.html"><a href="knowledge-graph.html"><i class="fa fa-check"></i><b>3</b> Knowledge Graph</a></li>
+<li class="chapter" data-level="3" data-path="knowledge-graph.html"><a href="knowledge-graph.html"><i class="fa fa-check"></i><b>3</b> Knowledge Graph</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="knowledge-graph.html"><a href="knowledge-graph.html#data-sources"><i class="fa fa-check"></i><b>3.1</b> Data sources</a></li>
+</ul></li>
 <li class="divider"></li>
 <li><a href="https://remnil.github.io/" target=BIH QUEST Center</a></li>
 
@@ -143,6 +146,7 @@ div.csl-indent {
             <section class="normal" id="section-">
 <div id="knowledge-graph" class="section level1 hasAnchor" number="3">
 <h1><span class="header-section-number">3</span> Knowledge Graph<a href="knowledge-graph.html#knowledge-graph" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>If we trust the data, we should use it.</p>
 <style>
 div.blue {
   background-color: #e6f0ff;
@@ -157,7 +161,7 @@ Key features of Knowledge Graphs
 </h4>
 <ul>
 <li>
-Makin it easier to reason across complex topics by connecting related information
+Making it easier to reason across complex topics by connecting related information
 </li>
 <li>
 Bridging large datasets and multiple data sources (e.g., IQWIG benefit assessments, EMA EPARs, G-BA “Tragende Gründe” etc.).
@@ -167,8 +171,9 @@ Facilitate easy information retrieval using Retrieval-Augmented Generation (RAG)
 </li>
 </ul>
 </div>
-<div id="data-sources" class="section level4 unnumbered hasAnchor">
-<h4>1. <strong>Data sources</strong><a href="knowledge-graph.html#data-sources" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>So, yada, yada.</p>
+<div id="data-sources" class="section level2 hasAnchor" number="3.1">
+<h2><span class="header-section-number">3.1</span> Data sources<a href="knowledge-graph.html#data-sources" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Data is in the public domain and can be webscraped for academic/educational noncommercial use (<a href="https://github.com/RemNil/Dossier-Graph" class="uri">https://github.com/RemNil/Dossier-Graph</a>)</p>
 <p>However, all source data is publish as PDF files. PDFs are difficult to work with because they store visual layout rather than structured content. Unlike Word or HTML, PDFs lack semantic tags like headings, paragraphs, or tables—they simply position text on a page. This makes it hard to extract meaningful data, especially from tables or multi-column layouts, since there’s no inherent reading order or logical structure. In contrast, formats like <code>.docx</code>, HTML, or JSON are designed for structured content and are far easier to parse programmatically.</p>
 <style>
@@ -188,31 +193,32 @@ Key limitations
 <strong>TL;DR:</strong> PDFs are designed for layout and visual fidelity, not structured data. That makes them painful to parse, especially when dealing with things like tables, multi-column layouts, footnotes, or inconsistent fonts. li&gt;
 </ul>
 </div>
-<div id="data-processing" class="section level4 unnumbered hasAnchor">
-<h4>2. <strong>Data processing</strong><a href="knowledge-graph.html#data-processing" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>Exactly?</p>
+<div id="data-processing" class="section level2 hasAnchor" number="3.2">
+<h2><span class="header-section-number">3.2</span> Data processing<a href="knowledge-graph.html#data-processing" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Parsing complex scientific documents like IQWiG reports requires more than generic PDF extraction — especially when dealing with long text passages, dense tabular data, and nuanced medical terminology. Unlike journal articles that often follow a typical standardized structure (Abstract, Methods, Results, etc.), IQWiG reports follow their own template-based structure, with institution-specific conventions, recurring section types, and domain-specific vocabulary. This necessitates a tailored but flexible, hybrid processing pipeline that combines layout-aware extraction with semantic parsing and structured data representation.</p>
 <p>IQWiG reports typically span dozens of pages (often 80+), and blend narrative analysis, evaluation of clinical trials, and formal assessments with dense tabular data, footnotes, and abbreviations. Off-the-shelf tools like GROBID — while excellent for standardized scientific literature — might be too rigid for such documents, as they assume a publication layout seen in PubMed or conference papers. Making GROBID adaptable to custom headings, IQWiG-specific terminologies like “Beleg” or “Hinweis”, or non-standard section structures is non-trivial.</p>
 <p>Instead, a hybrid strategy appears far more promising. Tools like pdfplumber and PyMuPDF offer reliable access to the visual structure of each page, allowing precise control over table extraction, bounding box analysis, and text block sequencing (with non-trivial fine tuning demands as well for messy tabular content etc). Meanwhile, unstructured.io provides high-level chunking capabilities, converting narrative content into semantically tagged elements such as NarrativeText, Title, List, or Table. This dual approach allows the processing to be tailored per content type: text-heavy sections can be routed to semantic analysis, while table-heavy pages can be extracted, cleaned, and converted to structured formats like CSV or JSON.</p>
 <p>Given the volume and complexity publicly available IQWiG or G-BA corpora — 1,500 to up to 5,000 PDFs — a modular pipeline architecture is essential. The strategy should begin by segmenting each document into page-level or section-level units, identifying which parts contain predominantly tabular data, and which contain explanatory or evaluative text. This content-type segmentation allows for targeted processing: table pages can be handled using pdfplumber or camelot with post-processing to normalize headers and cell values, while text sections are parsed with unstructured.io, producing rich, metadata-tagged chunks suitable for indexing, embedding, or further NLP.</p>
 <p>Key features of the processing pipeline:</p>
-<div id="metadata-extraction" class="section level5 unnumbered hasAnchor">
-<h5><strong>Metadata Extraction:</strong><a href="knowledge-graph.html#metadata-extraction" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<div id="metadata-extraction" class="section level3 hasAnchor" number="3.2.1">
+<h3><span class="header-section-number">3.2.1</span> Metadata Extraction<a href="knowledge-graph.html#metadata-extraction" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Each document should be parsed to extract bibliographic and structural metadata into a consistent JSON schema — including document title, project code, report type, section labels, page ranges, and table/figure references.</p>
 </div>
-<div id="concept-annotation" class="section level5 unnumbered hasAnchor">
-<h5><strong>Concept Annotation:</strong><a href="knowledge-graph.html#concept-annotation" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<div id="concept-annotation" class="section level3 hasAnchor" number="3.2.2">
+<h3><span class="header-section-number">3.2.2</span> Concept Annotation<a href="knowledge-graph.html#concept-annotation" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Leveraging either spaCy (with medical or German-language models) or a domain-adapted LLM, key concepts such as medical terms, study identifiers, clinical endpoints, and IQWiG-evaluative language (“Hinweis”, “Beleg”, etc.) can be tagged. These annotations serve as candidates for a downstream knowledge graph.</p>
 </div>
-<div id="abbreviation-list-extraction" class="section level5 unnumbered hasAnchor">
-<h5><strong>Abbreviation List Extraction:</strong><a href="knowledge-graph.html#abbreviation-list-extraction" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<div id="abbreviation-list-extraction" class="section level3 hasAnchor" number="3.2.3">
+<h3><span class="header-section-number">3.2.3</span> Abbreviation List Extraction<a href="knowledge-graph.html#abbreviation-list-extraction" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>A glossary of abbreviations should be built by automatically detecting and parsing abbreviation-definition pairs from designated sections and table footnotes, aggregating terms across documents into a unified dictionary.</p>
 </div>
-<div id="structural-hierarchy-preservation" class="section level5 unnumbered hasAnchor">
-<h5><strong>Structural Hierarchy Preservation:</strong><a href="knowledge-graph.html#structural-hierarchy-preservation" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<div id="structural-hierarchy-preservation" class="section level3 hasAnchor" number="3.2.4">
+<h3><span class="header-section-number">3.2.4</span> Structural Hierarchy Preservation<a href="knowledge-graph.html#structural-hierarchy-preservation" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Despite lacking standard journal layout, IQWiG reports do follow a templated structure, often with consistent headings and expected subtopics. The pipeline should use rule-based or ML-aided logic to detect section boundaries and maintain the document’s semantic hierarchy. This is crucial for maintaining links between a given table and the explanatory text surrounding it, as well as connecting conclusions with referenced studies or findings.</p>
 </div>
-<div id="semantic-integration-of-tables-and-text" class="section level5 unnumbered hasAnchor">
-<h5><strong>Semantic Integration of Tables and Text:</strong><a href="knowledge-graph.html#semantic-integration-of-tables-and-text" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<div id="semantic-integration-of-tables-and-text" class="section level3 hasAnchor" number="3.2.5">
+<h3><span class="header-section-number">3.2.5</span> Semantic Integration of Tables and Text<a href="knowledge-graph.html#semantic-integration-of-tables-and-text" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Tables in these documents are not standalone — they are tightly linked to claims, evidence categories, and footnote-based qualifiers. The PDF processing should be able to identify these cross-references, potentially through heuristics (e.g., detecting references like “siehe Tabelle 4”) or embedding-based similarity matching between tabular rows and narrative mentions.</p>
 <p>Overall, the goal is not just extraction, but understanding — to transform complex, long-form PDF reports into structured, semantically enriched data that supports both human and machine reasoning. This requires precision, modularity, and a pipeline that is aware of the domain’s unique characteristics.</p>
 <p>The true challenge is using a hybrid strategy: 1) layout-first tools for precision (like pdfplumber), and 2) semantic-aware chunkers (like unstructured.io) and breaking down the worklfow into specialized processing flows for text, tables, metadata, and glossary content.</p>
@@ -243,14 +249,14 @@ Key limitations
 └── config.yaml                   # Pipeline configs (paths, thresholds, etc.)</code></pre>
 </div>
 </div>
-<div id="graph-development" class="section level4 unnumbered hasAnchor">
-<h4>3. <strong>Graph development</strong><a href="knowledge-graph.html#graph-development" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<div id="graph-development" class="section level2 hasAnchor" number="3.3">
+<h2><span class="header-section-number">3.3</span> Graph development<a href="knowledge-graph.html#graph-development" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 </div>
-<div id="quality-assurance" class="section level4 unnumbered hasAnchor">
-<h4>4. <strong>Quality Assurance</strong><a href="knowledge-graph.html#quality-assurance" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<div id="quality-assurance" class="section level2 hasAnchor" number="3.4">
+<h2><span class="header-section-number">3.4</span> Quality Assurance<a href="knowledge-graph.html#quality-assurance" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 </div>
-<div id="model-deployment" class="section level4 unnumbered hasAnchor">
-<h4>5. <strong>Model deployment</strong><a href="knowledge-graph.html#model-deployment" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<div id="model-deployment" class="section level2 hasAnchor" number="3.5">
+<h2><span class="header-section-number">3.5</span> Model deployment<a href="knowledge-graph.html#model-deployment" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 
 </div>
 <div class = rmdreview>
@@ -262,7 +268,7 @@ Key limitations
         </div>
       </div>
 <a href="clinical-trial-portfolio-analysis.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="concept-development-leveraging-large-empirical-data.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="concept-development-and-empirical-data.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -314,7 +320,7 @@ gitbook.start({
     "position": "fixed"
   },
   "keep_files": "images",
-  "split_by": "chapter",
+  "split_by": "rmd",
   "split_bib": true,
   "number_sections": true,
   "number_depth": 2

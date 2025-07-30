@@ -1,4 +1,4 @@
-# Clinical Trial Portfolio Analysis 
+# Clinical Trial Portfolio Analysis
 
 Ethical justification for the burdens placed on clinical research participants extends well beyond rigorous trial design. Modern scholarship stresses that trials should form part of an aligned **research portfolio**, where each study fills knowledge gaps and builds on prior evidence, contributing to a coherent, cumulative understanding of therapeutic questions. This portfolio approach is central for generating social value and ethically justifying participant burdens, as research efforts that are strategically linked offer a far greater return on participant contribution than isolated studies [@london2019clinical; @kimmelman2017drug; @kimmelman2015structure].
 
