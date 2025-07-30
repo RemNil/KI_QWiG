@@ -1,6 +1,7 @@
 # Comprehensive Documention: Dossier-Graph
 
-! [Caption for the image](https://github.com/RemNil/KI_QWiG/blob/master/images/D_GRAF.png)
+
+![](images/D_GRAF.png){width=250px}
 
 ### Implementation steps
 
