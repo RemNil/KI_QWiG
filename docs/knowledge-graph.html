@@ -123,7 +123,28 @@ div.csl-indent {
 <li class="chapter" data-level="3" data-path="knowledge-graph.html"><a href="knowledge-graph.html"><i class="fa fa-check"></i><b>3</b> Knowledge Graph</a>
 <ul>
 <li class="chapter" data-level="3.1" data-path="knowledge-graph.html"><a href="knowledge-graph.html#data-sources"><i class="fa fa-check"></i><b>3.1</b> Data sources</a></li>
+<li class="chapter" data-level="3.2" data-path="knowledge-graph.html"><a href="knowledge-graph.html#data-processing"><i class="fa fa-check"></i><b>3.2</b> Data processing</a>
+<ul>
+<li class="chapter" data-level="3.2.1" data-path="knowledge-graph.html"><a href="knowledge-graph.html#metadata-extraction"><i class="fa fa-check"></i><b>3.2.1</b> Metadata Extraction</a></li>
+<li class="chapter" data-level="3.2.2" data-path="knowledge-graph.html"><a href="knowledge-graph.html#concept-annotation"><i class="fa fa-check"></i><b>3.2.2</b> Concept Annotation</a></li>
+<li class="chapter" data-level="3.2.3" data-path="knowledge-graph.html"><a href="knowledge-graph.html#abbreviation-list-extraction"><i class="fa fa-check"></i><b>3.2.3</b> Abbreviation List Extraction</a></li>
+<li class="chapter" data-level="3.2.4" data-path="knowledge-graph.html"><a href="knowledge-graph.html#structural-hierarchy-preservation"><i class="fa fa-check"></i><b>3.2.4</b> Structural Hierarchy Preservation</a></li>
+<li class="chapter" data-level="3.2.5" data-path="knowledge-graph.html"><a href="knowledge-graph.html#semantic-integration-of-tables-and-text"><i class="fa fa-check"></i><b>3.2.5</b> Semantic Integration of Tables and Text</a></li>
 </ul></li>
+<li class="chapter" data-level="3.3" data-path="knowledge-graph.html"><a href="knowledge-graph.html#graph-development"><i class="fa fa-check"></i><b>3.3</b> Graph development</a></li>
+<li class="chapter" data-level="3.4" data-path="knowledge-graph.html"><a href="knowledge-graph.html#quality-assurance"><i class="fa fa-check"></i><b>3.4</b> Quality Assurance</a></li>
+<li class="chapter" data-level="3.5" data-path="knowledge-graph.html"><a href="knowledge-graph.html#model-deployment"><i class="fa fa-check"></i><b>3.5</b> Model deployment</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="concept-development-and-empirical-data.html"><a href="concept-development-and-empirical-data.html"><i class="fa fa-check"></i><b>4</b> Concept development and empirical data</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="concept-development-and-empirical-data.html"><a href="concept-development-and-empirical-data.html#rationale"><i class="fa fa-check"></i><b>4.1</b> Rationale</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="comprehensive-documention-dossier-graph.html"><a href="comprehensive-documention-dossier-graph.html"><i class="fa fa-check"></i><b>5</b> Comprehensive Documention: Dossier-Graph</a>
+<ul>
+<li class="chapter" data-level="5.0.1" data-path="comprehensive-documention-dossier-graph.html"><a href="comprehensive-documention-dossier-graph.html#implementation-steps"><i class="fa fa-check"></i><b>5.0.1</b> Implementation steps</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="how-it-works-and-how-its-going.html"><a href="how-it-works-and-how-its-going.html"><i class="fa fa-check"></i><b>6</b> How it works and how its going</a></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
 <li><a href="https://remnil.github.io/" target=BIH QUEST Center</a></li>
 
@@ -190,10 +211,15 @@ Key limitations
 </h4>
 <ul>
 <li>
-<strong>TL;DR:</strong> PDFs are designed for layout and visual fidelity, not structured data. That makes them painful to parse, especially when dealing with things like tables, multi-column layouts, footnotes, or inconsistent fonts. li&gt;
+<strong>TL;DR:</strong> PDFs are designed for layout and visual fidelity, not structured data.
+</li>
+<li>
+That makes them painful to parse, especially when dealing with things like tables, multi-column layouts, footnotes, or inconsistent fonts.
+</li>
 </ul>
 </div>
 <p>Exactly?</p>
+</div>
 <div id="data-processing" class="section level2 hasAnchor" number="3.2">
 <h2><span class="header-section-number">3.2</span> Data processing<a href="knowledge-graph.html#data-processing" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Parsing complex scientific documents like IQWiG reports requires more than generic PDF extraction — especially when dealing with long text passages, dense tabular data, and nuanced medical terminology. Unlike journal articles that often follow a typical standardized structure (Abstract, Methods, Results, etc.), IQWiG reports follow their own template-based structure, with institution-specific conventions, recurring section types, and domain-specific vocabulary. This necessitates a tailored but flexible, hybrid processing pipeline that combines layout-aware extraction with semantic parsing and structured data representation.</p>
@@ -258,6 +284,7 @@ Key limitations
 <div id="model-deployment" class="section level2 hasAnchor" number="3.5">
 <h2><span class="header-section-number">3.5</span> Model deployment<a href="knowledge-graph.html#model-deployment" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 
+</div>
 </div>
 <div class = rmdreview>
 <br><font size="2">This book is in <b><a href="http://www.openreviewtoolkit.org/">Open Review</a></b>. I want your feedback to make the book better for you and other readers. To add your annotation, <span style="background-color: #3297FD; color: white">select some text</span> and then click the <i class="h-icon-annotate"></i> on the pop-up menu. To see the annotations of others, click the <i class="h-icon-chevron-left"></i> in the upper right hand corner of the page <i class="fa fa-arrow-circle-right  fa-rotate-215" aria-hidden="true"></i></font>
