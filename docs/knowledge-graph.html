@@ -121,16 +121,6 @@ div.csl-indent {
 <li class="chapter" data-level="2.2" data-path="clinical-trial-portfolio-analysis.html"><a href="clinical-trial-portfolio-analysis.html#limitations-of-hitorical-data-analysis"><i class="fa fa-check"></i><b>2.2</b> Limitations of hitorical data analysis</a></li>
 </ul></li>
 <li class="chapter" data-level="3" data-path="knowledge-graph.html"><a href="knowledge-graph.html"><i class="fa fa-check"></i><b>3</b> Knowledge Graph</a></li>
-<li class="chapter" data-level="4" data-path="concept-development-leveraging-large-empirical-data.html"><a href="concept-development-leveraging-large-empirical-data.html"><i class="fa fa-check"></i><b>4</b> Concept development leveraging large empirical data</a>
-<ul>
-<li class="chapter" data-level="4.1" data-path="concept-development-leveraging-large-empirical-data.html"><a href="concept-development-leveraging-large-empirical-data.html#rationale"><i class="fa fa-check"></i><b>4.1</b> Rationale</a></li>
-</ul></li>
-<li class="chapter" data-level="5" data-path="comprehensive-documention-dossier-graph.html"><a href="comprehensive-documention-dossier-graph.html"><i class="fa fa-check"></i><b>5</b> Comprehensive Documention: Dossier-Graph</a>
-<ul>
-<li class="chapter" data-level="5.0.1" data-path="comprehensive-documention-dossier-graph.html"><a href="comprehensive-documention-dossier-graph.html#implementation-steps"><i class="fa fa-check"></i><b>5.0.1</b> Implementation steps</a></li>
-</ul></li>
-<li class="chapter" data-level="6" data-path="how-it-works-and-how-its-going.html"><a href="how-it-works-and-how-its-going.html"><i class="fa fa-check"></i><b>6</b> How it works and how its going</a></li>
-<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
 <li><a href="https://remnil.github.io/" target=BIH QUEST Center</a></li>
 
@@ -167,40 +157,45 @@ Key features of Knowledge Graphs
 </h4>
 <ul>
 <li>
-<strong>A:</strong> Bridging large datasets and multiple data sources (e.g., IQWIG benefit assessments, EMA EPARs, G-BA “Tragende Gründe” etc.).
+Makin it easier to reason across complex topics by connecting related information
 </li>
 <li>
-<strong>B:</strong> Facilitate easy information retrieval using Retrieval-Augmented Generation (RAG).
+Bridging large datasets and multiple data sources (e.g., IQWIG benefit assessments, EMA EPARs, G-BA “Tragende Gründe” etc.).
 </li>
 <li>
-<strong>C:</strong> Make it easier to reason across complex topics by connecting related information
+Facilitate easy information retrieval using Retrieval-Augmented Generation (RAG).
 </li>
 </ul>
 </div>
 <div id="data-sources" class="section level4 unnumbered hasAnchor">
 <h4>1. <strong>Data sources</strong><a href="knowledge-graph.html#data-sources" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <p>Data is in the public domain and can be webscraped for academic/educational noncommercial use (<a href="https://github.com/RemNil/Dossier-Graph" class="uri">https://github.com/RemNil/Dossier-Graph</a>)</p>
+<p>However, all source data is publish as PDF files. PDFs are difficult to work with because they store visual layout rather than structured content. Unlike Word or HTML, PDFs lack semantic tags like headings, paragraphs, or tables—they simply position text on a page. This makes it hard to extract meaningful data, especially from tables or multi-column layouts, since there’s no inherent reading order or logical structure. In contrast, formats like <code>.docx</code>, HTML, or JSON are designed for structured content and are far easier to parse programmatically.</p>
 <style>
-div.blue {
+div.red {
   background-color: #FFE6F0;
   border-radius: 5px;
   padding: 20px;
   margin-bottom: 10px; /* adds vertical space below the box */
 }
 </style>
-<div class="blue">
+<div class="red">
 <h4>
 Key limitations
 </h4>
 <ul>
 <li>
-<strong>TL;DR: PDFs are designed for layout and visual fidelity, not structured data. That makes them painful to parse, especially when dealing with things like tables, multi-column layouts, footnotes, or inconsistent fonts.</strong>
-</li>
+<strong>TL;DR:</strong> PDFs are designed for layout and visual fidelity, not structured data. That makes them painful to parse, especially when dealing with things like tables, multi-column layouts, footnotes, or inconsistent fonts. li&gt;
 </ul>
-</div>
 </div>
 <div id="data-processing" class="section level4 unnumbered hasAnchor">
 <h4>2. <strong>Data processing</strong><a href="knowledge-graph.html#data-processing" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<ul>
+<li>Metadata extraction: JSON</li>
+<li>Concept annotations: important concepts like medical terms, clincial trial vocabulary, study names, common endpoint categories and operationalizations, IQWiG-specific language “Beleg”, “Hinweis”, “Anhaltspunkt” with core defintion.</li>
+<li>Abbreviation lists: unified glossary of all abbreviations from all tables across all projects</li>
+<li>Hierarchical structure mapping: common sections with content expectations (template), semantic relationships between tabular data, text sections, footnotes etc.</li>
+</ul>
 </div>
 <div id="graph-development" class="section level4 unnumbered hasAnchor">
 <h4>3. <strong>Graph development</strong><a href="knowledge-graph.html#graph-development" class="anchor-section" aria-label="Anchor link to header"></a></h4>
@@ -211,7 +206,6 @@ Key limitations
 <div id="model-deployment" class="section level4 unnumbered hasAnchor">
 <h4>5. <strong>Model deployment</strong><a href="knowledge-graph.html#model-deployment" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 
-</div>
 </div>
 <div class = rmdreview>
 <br><font size="2">This book is in <b><a href="http://www.openreviewtoolkit.org/">Open Review</a></b>. I want your feedback to make the book better for you and other readers. To add your annotation, <span style="background-color: #3297FD; color: white">select some text</span> and then click the <i class="h-icon-annotate"></i> on the pop-up menu. To see the annotations of others, click the <i class="h-icon-chevron-left"></i> in the upper right hand corner of the page <i class="fa fa-arrow-circle-right  fa-rotate-215" aria-hidden="true"></i></font>
