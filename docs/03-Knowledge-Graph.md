@@ -38,8 +38,7 @@ div.red {
 <div class = "red">
   <h4>Key limitations</h4>
   <ul>
-    <li><strong>TL;DR:</strong> PDFs are designed for layout and visual fidelity, not structured data. </li>
-    <li>That makes them painful to parse, especially when dealing with things like tables, multi-column layouts, footnotes, or inconsistent fonts. </li>
+    <li><strong>TL;DR:</strong> PDFs are designed for layout and visual fidelity, not structured data. That makes them painful to parse, especially when dealing with things like tables, multi-column layouts, footnotes, or inconsistent fonts. </li>
   </ul>
 </div>
 
