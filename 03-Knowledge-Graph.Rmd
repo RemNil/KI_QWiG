@@ -67,37 +67,39 @@ Despite lacking standard journal layout, IQWiG reports do follow a templated str
 
 ##### **Semantic Integration of Tables and Text:** {-}
 
-Tables in these documents are not standalone — they are tightly linked to claims, evidence categories, and footnote-based qualifiers. Your processing pipeline should be able to identify these cross-references, potentially through heuristics (e.g., detecting references like “siehe Tabelle 4”) or embedding-based similarity matching between tabular rows and narrative mentions.
+Tables in these documents are not standalone — they are tightly linked to claims, evidence categories, and footnote-based qualifiers. The PDF processing should be able to identify these cross-references, potentially through heuristics (e.g., detecting references like “siehe Tabelle 4”) or embedding-based similarity matching between tabular rows and narrative mentions.
 
 Overall, the goal is not just extraction, but understanding — to transform complex, long-form PDF reports into structured, semantically enriched data that supports both human and machine reasoning. This requires precision, modularity, and a pipeline that is aware of the domain’s unique characteristics.
 
-By using a hybrid strategy — layout-first tools for precision (like pdfplumber), and semantic-aware chunkers (like unstructured.io) — and by breaking down the documents into specialized processing flows for text, tables, metadata, and glossary content, your system can scale effectively across a large corpus while respecting the nuance of each report.
+The true challenge is using a hybrid strategy: 1) layout-first tools for precision (like pdfplumber), and 2) semantic-aware chunkers (like unstructured.io) and breaking down the worklfow into specialized processing flows for text, tables, metadata, and glossary content.
 
+```plaintext
 iqwig_pdf_pipeline/
 ├── data/
-│ ├── raw_pdfs/ # Your original IQWiG PDFs here
-│ ├── extracted_tables/ # JSON/CSV tables extracted per PDF
-│ ├── extracted_text_chunks/ # Semantic text chunks (JSON)
-│ └── metadata/ # Metadata JSON files
+│   ├── raw_pdfs/                  # Your original IQWiG PDFs here
+│   ├── extracted_tables/          # JSON/CSV tables extracted per PDF
+│   ├── extracted_text_chunks/     # Semantic text chunks (JSON)
+│   └── metadata/                  # Metadata JSON files
 │
 ├── notebooks/
-│ └── exploration.ipynb # For prototyping parsing ideas
+│   └── exploration.ipynb          # For prototyping parsing ideas
 │
 ├── scripts/
-│ ├── pdf_splitter.py # Identify table vs text pages, split PDFs
-│ ├── table_extractor.py # Extract & clean tables (pdfplumber/camelot)
-│ ├── text_chunker.py # Chunk narrative text (unstructured.io)
-│ ├── abbreviation_extractor.py # Detect and unify abbreviation lists
-│ ├── concept_annotator.py # Annotate medical terms, IQWiG vocab etc.
-│ ├── metadata_extractor.py # Extract metadata to JSON
-│ └── pipeline_runner.py # Master script that runs all modules
+│   ├── pdf_splitter.py            # Identify table vs text pages, split PDFs
+│   ├── table_extractor.py         # Extract & clean tables (pdfplumber/camelot)
+│   ├── text_chunker.py            # Chunk narrative text (unstructured.io)
+│   ├── abbreviation_extractor.py  # Detect and unify abbreviation lists
+│   ├── concept_annotator.py       # Annotate medical terms, IQWiG vocab etc.
+│   ├── metadata_extractor.py      # Extract metadata to JSON
+│   └── pipeline_runner.py         # Master script that runs all modules
 │
 ├── models/
-│ └── spacy_models/ # Domain-adapted spaCy or custom NER models
+│   └── spacy_models/              # Domain-adapted spaCy or custom NER models
 │
-├── requirements.txt # Python dependencies
+├── requirements.txt               # Python dependencies
 ├── README.md
-└── config.yaml # Pipeline configs (paths, thresholds, etc.)
+└── config.yaml                   # Pipeline configs (paths, thresholds, etc.)
+```
 
 #### 3. **Graph development** {-}
 
