@@ -2,4 +2,9 @@ introduction
 clinical-trial-portfolio-analysis
 trial-portfolios-and-research-trajectories
 limitations-of-hitorical-data-analysis
+knowledge-graph
+concept-development-leveraging-large-empirical-data
+rationale
+comprehensive-documention-dossier-graph
+implementation-steps
 how-it-works-and-how-its-going
