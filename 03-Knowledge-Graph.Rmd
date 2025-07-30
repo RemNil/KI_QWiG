@@ -40,11 +40,29 @@ div.red {
 
 #### 2. **Data processing** {-}
 
-- Metadata extraction: JSON
-- Concept annotations: important concepts like medical terms, clincial trial vocabulary, study names, common endpoint categories and operationalizations, IQWiG-specific language "Beleg", "Hinweis", "Anhaltspunkt" with core defintion.
-- Abbreviation lists: unified glossary of all abbreviations from all tables across all projects
-- Hierarchical structure mapping: common sections with content expectations (template), semantic relationships between tabular data, text sections, footnotes etc.
+Parsing complex scientific documents like IQWiG reports requires more than generic PDF extraction — especially when dealing with long-form clinical evaluations, dense tabular data, and nuanced medical terminology. Unlike typical journal articles that follow a standardized structure (Abstract, Methods, Results, etc.), IQWiG reports are semi-structured, with institution-specific conventions, recurring section types, and domain-specific vocabulary. These characteristics necessitate a tailored, hybrid processing pipeline that combines layout-aware extraction with semantic parsing and structured data representation.
 
+IQWiG reports typically span dozens of pages (often 80+), and blend narrative analysis, evaluation of clinical trials, and formal assessments with dense tables, footnotes, and abbreviations. Off-the-shelf tools like GROBID — while excellent for standardized scientific literature — are too rigid for these documents, as they assume a publication layout seen in PubMed or conference papers. GROBID is not easily adaptable to custom headings, IQWiG-specific terminologies like “Beleg” or “Hinweis”, or non-standard section structures.
+
+Instead, a hybrid strategy proves far more effective. Tools like pdfplumber and PyMuPDF offer reliable low-level access to the visual structure of each page, allowing precise control over table extraction, bounding box analysis, and text block sequencing. Meanwhile, unstructured.io provides high-level chunking capabilities, converting narrative content into semantically tagged elements such as NarrativeText, Title, List, or Table. This dual approach allows the processing to be tailored per content type: text-heavy sections can be routed to semantic analysis, while table-heavy pages can be extracted, cleaned, and converted to structured formats like CSV or JSON.
+
+Given the volume and complexity of your corpus — 1,500 IQWiG PDFs — a modular pipeline architecture is essential. The strategy should begin by segmenting each document into page-level or section-level units, identifying which parts contain predominantly tabular data, and which contain explanatory or evaluative text. This content-type segmentation allows for targeted processing: table pages can be handled using pdfplumber or camelot with post-processing to normalize headers and cell values, while text sections are parsed with unstructured.io, producing rich, metadata-tagged chunks suitable for indexing, embedding, or further NLP.
+
+Your key processing goals define the pipeline’s features:
+
+    Accurate Metadata Extraction: Each document should be parsed to extract bibliographic and structural metadata into a consistent JSON schema — including document title, project code, report type, section labels, page ranges, and table/figure references.
+
+    Concept Annotation: Leveraging either spaCy (with medical or German-language models) or a domain-adapted LLM, key concepts such as medical terms, study identifiers, clinical endpoints, and IQWiG-evaluative language ("Hinweis", "Beleg", etc.) can be tagged. These annotations serve as candidates for a downstream knowledge graph.
+
+    Abbreviation List Extraction: A glossary of abbreviations should be built by automatically detecting and parsing abbreviation-definition pairs from designated sections and table footnotes, aggregating terms across documents into a unified dictionary.
+
+    Structural Hierarchy Preservation: Despite lacking standard journal layout, IQWiG reports do follow a templated structure, often with consistent headings and expected subtopics. The pipeline should use rule-based or ML-aided logic to detect section boundaries and maintain the document’s semantic hierarchy. This is crucial for maintaining links between a given table and the explanatory text surrounding it, as well as connecting conclusions with referenced studies or findings.
+
+    Semantic Integration of Tables and Text: Tables in these documents are not standalone — they are tightly linked to claims, evidence categories, and footnote-based qualifiers. Your processing pipeline should be able to identify these cross-references, potentially through heuristics (e.g., detecting references like “siehe Tabelle 4”) or embedding-based similarity matching between tabular rows and narrative mentions.
+
+Overall, the goal is not just extraction, but understanding — to transform complex, long-form PDF reports into structured, semantically enriched data that supports both human and machine reasoning. This requires precision, modularity, and a pipeline that is aware of the domain’s unique characteristics.
+
+By using a hybrid strategy — layout-first tools for precision (like pdfplumber), and semantic-aware chunkers (like unstructured.io) — and by breaking down the documents into specialized processing flows for text, tables, metadata, and glossary content, your system can scale effectively across a large corpus while respecting the nuance of each report.
 
 #### 3. **Graph development** {-}
 
