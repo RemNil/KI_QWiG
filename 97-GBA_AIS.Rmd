@@ -1,9 +1,11 @@
 # G-BA Nutzenbewertungen - Übersichtsbericht
 
-**Generiert am:** 01.08.2025 16:05
+*Dieser Bericht wurde automatisch aus G-BA [XML-Daten](https://www.g-ba.de/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/ais/) generiert. Die Kategorisierung basiert auf den offiziellen Beschlüssen des Gemeinsamen Bundesausschusses zur Nutzenbewertung von Arzneimitteln mit neuen Wirkstoffen nach § 35a SGB V.*
+
+**Generiert am:** 01.08.2025 23:05
 **Datenstand:** XML-Export vom 2025-07-30
 
-## Zusammenfassung
+## English Summary
 
 The G-BA XML schema defines a structured format for benefit assessment decisions but notably lacks fields for clinical trial details, pharmaceutical company names, or IQWiG project references (like "A25-45"). Instead, it captures drug names, active substances, ATC codes, assessment outcomes with benefit ratings and certainty levels, patient group information with indications and ICD codes, regulatory flags for orphan drugs and ATMPs, and simplified endpoint results shown as symbols. While the schema includes URLs linking to full G-BA decision documents and a summary field (ZSF_TRG) that might contain brief evidence mentions, the actual clinical evidence base, manufacturer information, and IQWiG assessment details would only be found by following these links to access the complete PDF documents, where the "Tragende Gründe" (supporting reasons) sections typically cite the underlying studies and IQWiG reports that informed each decision.
 
@@ -60628,4 +60630,4 @@ sg
 - &Oslash; Es liegen keine Daten vor*
 ---
 
-*Dieser Bericht wurde automatisch aus G-BA XML-Daten generiert. Die Kategorisierung basiert auf den offiziellen Beschlüssen des Gemeinsamen Bundesausschusses zur Nutzenbewertung von Arzneimitteln mit neuen Wirkstoffen nach § 35a SGB V.*
+
