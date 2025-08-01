@@ -5,6 +5,8 @@
 
 ## Zusammenfassung
 
+The G-BA XML schema defines a structured format for benefit assessment decisions but notably lacks fields for clinical trial details, pharmaceutical company names, or IQWiG project references (like "A25-45"). Instead, it captures drug names, active substances, ATC codes, assessment outcomes with benefit ratings and certainty levels, patient group information with indications and ICD codes, regulatory flags for orphan drugs and ATMPs, and simplified endpoint results shown as symbols. While the schema includes URLs linking to full G-BA decision documents and a summary field (ZSF_TRG) that might contain brief evidence mentions, the actual clinical evidence base, manufacturer information, and IQWiG assessment details would only be found by following these links to access the complete PDF documents, where the "Tragende Gründe" (supporting reasons) sections typically cite the underlying studies and IQWiG reports that informed each decision.
+
 ### Gesamtübersicht
 
 - **Anzahl Beschlüsse:** 923
@@ -33,15 +35,64 @@
 
 ### Zeitliche Entwicklung
 
-Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre wie folgt entwickelt:
+```{r  fig.width=9, fig.height=6, eval=TRUE, include=TRUE, results=TRUE, echo=FALSE, warning=FALSE, error=FALSE, message=FALSE}
+library(streamgraph)
+library(dplyr)
+library(readr)
+library(htmlwidgets)
+library(htmltools)
 
-| Jahr | Gesamt | Erheblich | Beträchtlich | Gering | Nicht quantifizierbar | Kein Zusatznutzen |
-|------|--------|-----------|--------------|--------|----------------------|-------------------|
-| 2025 | 109 | 1 | 9 | 8 | 14 | 64 |
-| 2024 | 155 | 3 | 11 | 9 | 32 | 94 |
-| 2023 | 167 | 0 | 11 | 17 | 19 | 116 |
-| 2022 | 197 | 4 | 21 | 17 | 22 | 120 |
-| 2021 | 198 | 7 | 19 | 17 | 27 | 126 |
+# For bookdown, you might want to use relative paths
+# Adjust the path based on your bookdown directory structure
+data_path <- "gba_streamgraph_data_long.csv"
+
+# Read the processed data
+dat <- read_csv(data_path, show_col_types = FALSE)
+
+# Define colors matching the benefit categories
+colors <- c(
+  "Erheblicher Zusatznutzen" = "#2E7D32",      # Dunkelgrün
+  "Beträchtlicher Zusatznutzen" = "#43A047",   # Mittelgrün
+  "Geringer Zusatznutzen" = "#66BB6A",          # Hellgrün
+  "Zusatznutzen gilt als belegt" = "#81C784",  # Sehr hellgrün
+  "Zusatznutzen nicht quantifizierbar" = "#FFC107", # Gelb
+  "Kein Zusatznutzen belegt" = "#EF5350",      # Hellrot
+  "Geringerer Nutzen" = "#C62828"              # Dunkelrot
+)
+
+# Force character category
+dat$category <- as.character(dat$category)
+
+# Check and warn if mismatched
+missing_colors <- setdiff(unique(dat$category), names(colors))
+if (length(missing_colors) > 0) {
+  warning("Missing colors for: ", paste(missing_colors, collapse = ", "))
+}
+
+
+# Assign default color for any unmatched categories
+if (length(missing_colors) > 0) {
+  colors <- c(colors, setNames(rep("#999999", length(missing_colors)), missing_colors))
+}
+
+# Create the streamgraph
+sg <- streamgraph(data = dat,
+                  key = "category",
+                  value = "count",
+                  date = "year",
+                  width = "100%",
+                  height = 450,
+                  interactive = TRUE,
+                  order = "inside-out",
+                  interpolate = "cardinal",
+                  offset = "silhouette") %>%  # This centers the stream
+  sg_axis_x(tick_format = "%Y") %>%
+  sg_fill_manual(values = colors) %>%
+  sg_legend(show = TRUE, label = "Kategorie: ")
+
+# Display the widget
+sg
+```
 
 ---
 
