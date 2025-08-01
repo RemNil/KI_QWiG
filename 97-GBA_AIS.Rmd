@@ -18,7 +18,8 @@ The G-BA XML schema defines a structured format for benefit assessment decisions
 ### Verteilung der Nutzenbewertungen
 
 | Kategorie | Anzahl | Details |
-|-----------|--------|---------|n| **Erheblicher Zusatznutzen** | 17 | erheblich: 17 |
+|-----------|--------|---------|
+| **Erheblicher Zusatznutzen** | 17 | erheblich: 17 |
 | **Beträchtlicher Zusatznutzen** | 172 | beträchtlich: 172 |
 | **Geringer Zusatznutzen** | 162 | gering: 162 |
 | **Zusatznutzen gilt als belegt** | 34 | gilt als belegt: 34 |
@@ -29,7 +30,8 @@ The G-BA XML schema defines a structured format for benefit assessment decisions
 ### Aussagesicherheit der Bewertungen
 
 | Aussagesicherheit | Anzahl | Anteil |
-|-------------------|--------|--------|n| Anhaltspunkt | 343 | 68.6% |
+|-------------------|--------|--------|
+| Anhaltspunkt | 343 | 68.6% |
 | Hinweis | 147 | 29.4% |
 | Beleg | 10 | 2.0% |
 
