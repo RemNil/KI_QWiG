@@ -18,7 +18,7 @@ The G-BA XML schema defines a structured format for benefit assessment decisions
 ### Verteilung der Nutzenbewertungen
 
 | Kategorie | Anzahl | Details |
-|-----------|--------|---------|
+|:----------|:-------|:--------|
 | **Erheblicher Zusatznutzen** | 17 | erheblich: 17 |
 | **Beträchtlicher Zusatznutzen** | 172 | beträchtlich: 172 |
 | **Geringer Zusatznutzen** | 162 | gering: 162 |
@@ -30,7 +30,7 @@ The G-BA XML schema defines a structured format for benefit assessment decisions
 ### Aussagesicherheit der Bewertungen
 
 | Aussagesicherheit | Anzahl | Anteil |
-|-------------------|--------|--------|
+|:------------------|:-------|:-------|
 | Anhaltspunkt | 343 | 68.6% |
 | Hinweis | 147 | 29.4% |
 | Beleg | 10 | 2.0% |
@@ -87,8 +87,8 @@ sg <- streamgraph(data = dat,
                   interactive = TRUE,
                   order = "inside-out",
                   interpolate = "cardinal",
-                  offset = "silhouette") %>%  # This centers the stream
-  sg_axis_x(tick_format = "%Y") %>%
+                  offset = "wiggle") %>%  # Changed from "silhouette" to "wiggle"
+  sg_axis_x(tick_format = "%Y", tick_interval = 1) %>%  # Added tick_interval = 1
   sg_fill_manual(values = colors) %>%
   sg_legend(show = TRUE, label = "Kategorie: ")
 
