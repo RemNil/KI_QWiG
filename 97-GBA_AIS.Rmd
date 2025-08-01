@@ -1,6 +1,6 @@
 # G-BA Nutzenbewertungen - Übersichtsbericht
 
-**Generiert am:** 01.08.2025 13:29
+**Generiert am:** 01.08.2025 13:47
 **Datenstand:** XML-Export vom 2025-07-30
 
 ## Zusammenfassung
@@ -569,10 +569,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Gefitinib oder Erlotinib oder − Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) unter Beachtung des Zulassungsstatus oder − Carboplatin in Kombination mit einem Drittgenerationszytostatikum (nur für Patienten mit erhöhtem Risiko für Cisplatin-induzierte Nebenwirkungen im Rahmen einer Kombinationstherapie; vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen Dyspnoe, Husten, Brustschmerzen, Haarausfall, Fatigue sowie Übelkeit und Erbrechen; Nachteile in den Symptomskalen Mundschmerzen, Schluckbeschwerden und Diarrhö.)
+- Lebensqualität: &uarr; (Vorteil in der Funktionsskala körperliche Funktion.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevante Unterschied.)
 
 ---
 
@@ -586,10 +586,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Gefitinib oder Erlotinib oder − Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) unter Beachtung des Zulassungsstatus oder − Carboplatin in Kombination mit einem Drittgenerationszytostatikum (nur für Patienten mit erhöhtem Risiko für Cisplatin-induzierte Nebenwirkungen im Rahmen einer Kombinationstherapie; vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen Dyspnoe, Husten, Brustschmerzen, Haarausfall, Fatigue, Appetitverlust sowie Übelkeit und Erbrechen; Nachteile in den Symptomskalen Mundschmerzen, Schluckbeschwerden und Diarrhö.)
+- Lebensqualität: &uarr; (Vorteil in der Funktionsskala körperliche Funktion.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -601,6 +601,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** − Gefitinib oder Erlotinib oder − Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) unter Beachtung des Zulassungsstatus oder − Carboplatin in Kombination mit einem Drittgenerationszytostatikum (nur für Patienten mit erhöhtem Risiko für Cisplatin-induzierte Nebenwirkungen im Rahmen einer Kombinationstherapie; vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -614,10 +620,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Gefitinib oder Erlotinib oder − Monotherapie mit Gemcitabin oder Vinorelbin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -631,10 +637,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Gefitinib oder Erlotinib oder − Docetaxel oder Pemetrexed
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -646,6 +652,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Docetaxel
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -659,10 +671,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -688,10 +700,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel oder Pemetrexed oder Ceritinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Vorteile in den Symptomskalen Diarrhoe und Alopezie; Nachteil in der Symptomskala Verstopfung.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr; (Vorteil im Endpunkt schwere unerwünschte Ereignisse (CTCAE-Grad ≥ 3).)
 
 ---
 
@@ -705,10 +717,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -722,10 +734,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Crizotinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteil im Endpunkt Zeit bis zum ZNS-Progress.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede. Im Detail Vor- und Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -739,10 +751,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle postoperative (adjuvante) systemischer Chemotherapie unter Auswahl von Cisplatin in Kombination mit Vinorelbin und Cisplatin in Kombination mit Pemetrexed unter Berücksichtigung des Allgemeinzustandes.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in den Endpunkten Rezidivraten und krankheitsfreies Überleben.)
+- Lebensqualität: &harr; (Insgesamt kein für die Nutzenbewertung relevanter Unterschied. Vorteil im psychischen Summenscore des SF-36 nur zu Woche 12.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten SUE, schweren UE (CTCAE-Grad ≥ 3) und Therapieabbrüche aufgrund von UE. Im Detail Vor- und Nachteile bei spezifischen UE.)
 
 ---
 
@@ -756,10 +768,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -784,6 +796,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Die Wirkstoffe Carboplatin und Paclitaxel stellen geeignete Komparatoren für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach ärztlicher Maßgabe dar. Diese Arzneimittel sind jedoch in dem vorliegenden Anwendungsgebiet nicht zugelassen.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1925
@@ -796,10 +814,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Carboplatin + Paclitaxel
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Morbidität: &harr; (Vorteil in der Symptomskala Kribbel- / Taubheitsgefühl in FIGO-Stadium IV. Insgesamt keine relevanten Unterschiede vor.)
+- Lebensqualität: &uarr; (Vorteile in den Funktionsskalen soziale Funktion und Rollenfunktion)
+- Nebenwirkungen: &harr; (Nachteil bei schweren UEs in FIGO-Stadium III. Im Detail Vor- und Nachteile bei spezifischen UEs. Insgesamt keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -813,10 +831,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Carboplatin + Paclitaxel
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &harr; (Es liegen keine für die Nutzenbewertung relevanten Unterschiede vor.)
+- Lebensqualität: &uarr; (Vorteile in den Funktionsskalen „soziale Funktion“ und „Rollenfunktion“.)
+- Nebenwirkungen: &harr; (Es liegen keine für die Nutzenbewertung relevanten Unterschiede vor. Im Detail Vor- und Nachteile bei spezifischen UEs.)
 
 ---
 
@@ -842,10 +860,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil im BMI z-Score, sowie Vorteile unter Berücksichtigung der Ergebnisse bei Patienten ab 12 Jahren.)
+- Lebensqualität: &uarr; (Vorteile unter Berücksichtigung der Ergebnisse bei Patienten ab 12 Jahren.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede. Daten zu SUE nicht verwertbar.)
 
 ---
 
@@ -859,10 +877,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile in der Atmungssystems-Symptomatik.)
+- Lebensqualität: &uarr; (Vorteile im körperlichen Wohlbefinden, sowie in der Vitalität und in der subjektiven Gesundheitseinschätzung bei Patienten mit FEV1< 70 % zu Studienbeginn.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede. Daten zu SUE nicht verwertbar.)
 
 ---
 
@@ -876,10 +894,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating-Mutation)
+- Morbidität: &uarr; (Vorteile unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating-Mutation)
+- Lebensqualität: &uarr; (Vorteile unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating-Mutation)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating-Mutation)
 
 ---
 
@@ -893,10 +911,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating Mutation.)
+- Morbidität: &uarr; (Vorteile unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating Mutation.)
+- Lebensqualität: &uarr; (Vorteile unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating Mutation.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating Mutation.)
 
 ---
 
@@ -910,10 +928,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Berücksichtigung der Ergebnisse bei Patienten mit einer G551D-Mutation ab 12 Jahren.)
+- Morbidität: &uarr; (Vorteile unter Berücksichtigung der Ergebnisse bei Patienten mit einer G551D-Mutation ab 12 Jahren.)
+- Lebensqualität: &uarr; (Vorteile unter Berücksichtigung der Ergebnisse bei Patienten mit einer G551D-Mutation ab 12 Jahren.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede. Daten zu SUE nicht verwertbar, unter Berücksichtigung der Ergebnisse bei Patienten mit einer G551D-Mutation ab 12 Jahren.)
 
 ---
 
@@ -927,10 +945,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Lumacaftor/Ivacaftor
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -944,10 +962,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von Patienten ≥ 18 Jahren mit R117H-Mutation.)
+- Morbidität: &uarr; (Vorteile unter Evidenzübertragung der Ergebnisse von Patienten ≥ 18 Jahren mit R117H-Mutation.)
+- Lebensqualität: &uarr; (Vorteile unter Evidenzübertragung der Ergebnisse von Patienten ≥ 18 Jahren mit R117H-Mutation.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Berücksichtigung der Ergebnisse von Patienten ≥ 6 Monate - < 6 Jahre mit Gating Mutationen.)
 
 ---
 
@@ -961,10 +979,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile unter Berücksichtigung der Ergebnisse von Patienten ≥ 18 Jahren mit R117H-Mutation.)
+- Lebensqualität: &uarr; (Vorteile unter Berücksichtigung der Ergebnisse von Patienten ≥ 18 Jahren mit R117H-Mutation.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -978,10 +996,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Morbidität: &uarr; (Vorteile im Endpunkt pulmonale Exazerbationen, Hospitalisierung wegen pulmonaler Exazerbationen, sowie in den Domänen des CFQ-R Atmungssystem und Gewichtsprobleme)
+- Lebensqualität: &uarr; (Vorteile in allen Domänen des CFQ-R in der Kategorie Lebensqualität)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
 
 ---
 
@@ -995,10 +1013,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Lumacaftor/Ivacaftor oder Tezacaftor/Ivacaftor in Kombination mit Ivacaftor
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteile in den Endpunkten pulmonale Exazerbationen sowie den Domänen Atmungssystem und Gewichtsprobleme des CFQ-R)
+- Lebensqualität: &uarr;&uarr; (Vorteile in den Domänen körperliches Wohlbefinden, Vitalität, Rollenfunktion, Therapiebelastung und subjektive Gesundheits-einschätzung des CFQ-R)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -1012,10 +1030,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating-Mutation.)
+- Morbidität: &uarr; (Vorteile unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating-Mutation.)
+- Lebensqualität: &uarr; (Vorteile unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating-Mutation.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating-Mutation.)
 
 ---
 
@@ -1029,10 +1047,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von Patienten ≥ 18 Jahren mit R117H-Mutation)
+- Morbidität: &uarr; (Vorteile unter Evidenzübertragung der Ergebnisse von Patienten ≥ 18 Jahren mit R117H-Mutation)
+- Lebensqualität: &uarr; (Vorteile unter Evidenzübertragung der Ergebnisse von Patienten ≥ 18 Jahren mit R117H-Mutation)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Berücksichtigung der Ergebnisse von Patienten 4 bis < 6 Monaten mit Gating-Mutationen)
 
 ---
 
@@ -1045,6 +1063,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Lumacaftor/Ivacaftor
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1015
@@ -1055,6 +1079,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -1067,6 +1097,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ivacaftor
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1156
@@ -1077,6 +1113,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Tezacaftor/Ivacaftor in Kombination mit Ivacaftor
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -1090,10 +1132,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1107,10 +1149,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
+- Morbidität: &Oslash; (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
 
 ---
 
@@ -1124,10 +1166,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating Mutation.)
+- Morbidität: &uarr; (Vorteile unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating Mutation.)
+- Lebensqualität: &uarr; (Vorteile unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating Mutation.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von Patienten ≥ 12 Jahren mit G551D Gating Mutation.)
 
 ---
 
@@ -1141,10 +1183,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile in der Atmungssystems-Symptomatik.)
+- Lebensqualität: &uarr; (Vorteile in der Gefühlslage und in der Vitalität.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -1158,10 +1200,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr;&uarr; (Vorteile in den Endpunkten pulmonale Exazerbationen, LCI2,5, BMI und BMI-z-Score sowie den Domänen Atmungssystem und gastrointestinale Symptome des CFQ-R)
+- Lebensqualität: &uarr;&uarr; (Vorteile in den Domänen soziale Einschränkungen des CFQ-R.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede in den Endpunkten SUEs und Abbruch wegen UE; im Detail Vorteil im Endpunkt Abdominalschmerz.)
 
 ---
 
@@ -1175,10 +1217,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Lumacaftor/Ivacaftor oder Tezacaftor/Ivacaftor in Kombination mit Ivacaftor
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede, auch unter Berücksichtigung der Ergebnisse bei Patientinnen und Patienten ab 12 Jahren.)
+- Morbidität: &uarr; (Vorteile in den Endpunkten pulmonale Exazerbationen sowie den Domänen Atmungssystem und Gewichtsprobleme des CFQ-R unter Berücksichtigung der Ergebnisse bei Patientinnen und Patienten ab 12 Jahren.)
+- Lebensqualität: &uarr; (Vorteile in den Domänen körperliches Wohlbefinden, Vitalität, Rollenfunktion, Therapiebelastung und subjektive Gesundheits-einschätzung des CFQ-R unter Berücksichtigung der Ergebnisse bei Patientinnen und Patienten ab 12 Jahren.)
+- Nebenwirkungen: &harr; (keine für die Nutzenbewertung relevanten Unterschiede, auch unter Berücksichtigung der Ergebnisse bei Patientinnen und Patienten ab 12 Jahren.)
 
 ---
 
@@ -1192,10 +1234,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ivacaftor
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1209,10 +1251,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Tezacaftor/Ivacaftor in Kombination mit Ivacaftor
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1226,10 +1268,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1255,10 +1297,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine zytotoxische Chemotherapie nach Maßgabe des Arztes (unter Beachtung des Zulassungsstatus in Verbindung mit der Verordnungsfähigkeit vonArzneimitteln in Off-Label-Indikationen gemäß Anlage VI der Arzneimittel-Richtlinie) oder gegebenenfalls Best-Supportive-Care für Patienten, die bereits eine zytotoxische Chemotherapie erhalten haben als Alternative für eine weitere zytotoxische Chemotherapie
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen Fatigue, Übelkeit und Erbrechen, Dyspnoe, Alopezie und Schmerzen (Brust). Nachteil in der Symptomskala Diarrhö.)
+- Lebensqualität: &uarr; (Vorteile in den Funktionsskalen körperliche Funktion, Rollenfunktion, kognitive Funktion und soziale Funktion sowie in der Skala zum globalen Gesundheitszustand.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten SUE und schwere UE (CTCAE-Grad ≥ 3).)
 
 ---
 
@@ -1272,10 +1314,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Afatinib oder Gefitinib oder Erlotinib
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil in der Symptomskala Alopezie.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten schwere UE (CTCAE Grad ≥ 3) und Therapieabbrüche wegen UE. Im Detail Vorteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -1289,10 +1331,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine patientenindividuelle Therapie in Abhängigkeit von der aktivierenden EGFR-Mutation unter Auswahl von: − Afatinib, Gefitinib, Erlotinib, − Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed), − Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) (vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie), − Carboplatin in Kombination mit nab-Paclitaxel, und − Monotherapie mit Gemcitabin oder Vinorelbin (nur für Patienten mit ECOG-Performance-Status 2 als Alternative zur Platin-basierten Kombinationsbehandlung).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1306,10 +1348,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1322,6 +1364,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Docetaxel oder Pemetrexed (Pemetrexed: außer bei überwiegend plattenepithelialer Histologie) oder − Gefitinib oder Erlotinib (nur für Patienten mit aktivierenden EGFR-Mutationen, die noch nicht mit Gefitinib oder Erlotinib vorbehandelt wurden)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 424
@@ -1333,6 +1381,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Gefitinib oder Erlotinib oder Afatinib (nur für Patienten mit aktivierenden EGFR-Mutationen) oder - Patienten mit ECOG-Performance-Status 0, 1 oder 2: • Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder • Docetaxel oder Paclitaxel oder Pemetrexed) unter Beachtung des Zulassungsstatus oder • Carboplatin in Kombination mit einem Drittgenerationszytostatikum (nur für Patienten mit erhöhtem Risiko für Cisplatin-induzierte Nebenwirkungen im Rahmen einer Kombinationstherapie; vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie) Patienten mit ECOG-Performance-Status 2: − alternativ zur platinbasierten Kombinationsbehandlung: Monotherapie mit Gemcitabin oder Vinorelbin
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 425
@@ -1343,6 +1397,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -1356,10 +1416,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Afatinib (nur für Patientinnen und Patienten mit der aktivierenden EGFR-Mutation Deletion im Exon 19) oder - Osimertinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Nebenwirkungen: &darr;&darr; (Nachteile in schweren UEs, SUEs und Abbruch wegen UEs. Im Detail Nachteile bei einzelnen spezifischen UEs.)
 
 ---
 
@@ -1373,10 +1433,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von beobachtendes Abwarten (nur für Patientinnen und Patienten im Stadium IB) und postoperative (adjuvanter) systemischer Chemotherapie unter Auswahl von Cisplatin in Kombination mit Vinorelbin und Cisplatin in Kombination mit Pemetrexed unter Berücksichtigung des Tumorstadiums und des Allgemeinzustands.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1390,10 +1450,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr; (Vorteile beim Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteile in den Endpunkten Rezidivraten und krankheitsfreies Überleben.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwere UE (CTCAE-Grad≥ 3), Therapieabbrüche aufgrund von UE sowie im Detail bei spezifischen UE.)
 
 ---
 
@@ -1406,6 +1466,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Durvalumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2188
@@ -1416,6 +1482,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -1441,10 +1513,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine patientenindividuell ausgerichtete Behandlung Die Angaben in den jeweiligen Fachinformationen der zur Behandlung eingesetzten Arzneimittel sind zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil bei vollständige/nahezu vollständige Rückbildung der sichtbaren Komponente des Zielhämangioms in Woche 24, unter Berücksichtigung der Daten zu Patientinnen und Patienten mit höherem Schweregrad.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch Verringerung schwerwiegender Nebenwirkungen, die durch eine Glukokorticoid-Behandlung hervorgerufen werden.)
 
 ---
 
@@ -1458,10 +1530,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine patientenindividuell ausgerichtete Behandlung Die Angaben in den jeweiligen Fachinformationen der zur Behandlung eingesetzten Arzneimittel sind zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteil bei vollständiger/nahezu vollständiger Rückbildung der sichtbaren Komponente des Zielhämangioms in Woche 24.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; im Detail Nachteile in spezifischen UE.)
 
 ---
 
@@ -1487,10 +1559,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Capecitabin oder - Eribulin oder - Vinorelbin oder - eine Anthrazyklin- oder Taxan-haltige Therapie (Nur für Patienten, die noch keine Anthrazyklin- und/oder Taxan-haltige Therapie erhalten haben oder die für eine erneute Anthrazyklin- oder Taxan-haltige Behandlung infrage kommen.)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile bei Fatigue, Schmerzen, Dyspnoe und Nachteil bei Diarrhö)
+- Lebensqualität: &uarr; (Vorteile bei körperlicher Funktion, Rollenfunktion und emotionaler Funktion)
+- Nebenwirkungen: &uarr; (Vorteil bei schwerwiegenden UE sowie im Detail Vor- und Nachteile bei spezifischen UE)
 
 ---
 
@@ -1504,10 +1576,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Capecitabin oder - Eribulin oder - Vinorelbin oder - eine Anthrazyklin- oder Taxan-haltige Therapie (nur für Patientinnen und Patienten, die noch keine Anthrazyklin- und/oder Taxan-haltige Therapie erhalten haben oder die für eine erneute Anthrazyklin- oder Taxan-haltige Behandlung infrage kommen.)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &uarr; (Vorteile (Fatigue, Schmerzen, Dyspnoe) und Nachteile (Diarrhö und Übelkeit und Erbrechen) in der Symptomatik und ein Vorteil im Gesundheitszustand)
+- Lebensqualität: &uarr; (Vorteile bei körperlicher, emotionaler und kognitiver Funktion, bei der Rollenfunktion und im globalen Gesundheitsstatus)
+- Nebenwirkungen: &darr;&darr; (Nachteil bei schweren UE sowie im Detail Vor- und Nachteile bei spezifischen UE)
 
 ---
 
@@ -1537,9 +1609,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung der Vortherapie; unter Auswahl von - Abirateron in Kombination mit Prednison oder Prednisolon, - Enzalutamid, - Cabazitaxel, - Olaparib (nur für Patienten mit einer BRCA 1/2 Mutation), - Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &uarr; (Vorteil bei der Rückenmarkskompression und Notwendigkeit einer Strahlentherapie zur Linderung von Knochenschmerzen)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteile in SUEs. Im Detail Vor- und Nachteile in einzelnen spezifischen UEs.)
 
 ---
 
@@ -1551,6 +1624,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung der Vortherapie; unter Auswahl von - Abirateron in Kombination mit Prednison oder Prednisolon, - Enzalutamid, - Cabazitaxel, - Olaparib (nur für Patienten mit einer BRCA 1/2 Mutation), - Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine Daten vor.)
 
 ---
 
@@ -1576,9 +1655,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Palliative Behandlung mit Dexamethason, Prednison, Prednisolon oder Methylprednisolon sowie "Best Supportive Care" (z.B. adäquate Schmerztherapie).
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile in den Endpunkten Zeit bis zur Schmerzprogression und Zeit bis zum ersten skelettalen Ereignis.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -1592,10 +1672,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel in Kombination mit Prednison oder Prednisolon (Docetaxel-Retherapie)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Die erforderlichen Nachweise wurden zum maßgeblichen Zeitpunkt nicht vollständig vorgelegt.)
+- Morbidität: &Oslash; (Die erforderlichen Nachweise wurden zum maßgeblichen Zeitpunkt nicht vollständig vorgelegt.)
+- Lebensqualität: &Oslash; (Die erforderlichen Nachweise wurden zum maßgeblichen Zeitpunkt nicht vollständig vorgelegt.)
+- Nebenwirkungen: &Oslash; (Die erforderlichen Nachweise wurden zum maßgeblichen Zeitpunkt nicht vollständig vorgelegt.)
 
 ---
 
@@ -1609,10 +1689,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Das abwartende Vorgehen unter Beibehaltung der bestehenden konventionellen Androgendeprivation oder gegebenenfalls die kombinierte, maximale Androgenblockade mit einem nichtsteroidalen Antiandrogen (Flutamid, Bicalutamid).
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteil im Endpunkt schwerer Schmerz)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
 
 ---
 
@@ -1626,10 +1706,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - die konventionelle Androgendeprivation, gegebenenfalls in Kombination mit einem nicht-steroidalen Antiandrogen (Flutamid oder Bicalutamid) oder - die konventionelle Androgendeprivation in Kombination mit Docetaxel und Prednison oder Prednisolon.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteil in den Endpunkten skelettbezogene Ereignisse, Fatigue und Schmerz.)
+- Lebensqualität: &uarr; (Vorteil in der krankheitsspezifischen Lebensqualität.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt schwere unerwünschte Ereignisse (CTCAE-Grad 3-4) und bei spezifischen unerwünschten Ereignissen vom CTCAE-Grad 3-4.)
 
 ---
 
@@ -1655,10 +1735,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dupilumab (ggf. in Kombination mit topischen Glukokortikoiden und/oder topischen Calcineurininhibitoren)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteile bei Remission (EASI 100; SCORAD 100), SCORAD 90 und patientenberichteter Symptomatik.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede. Im Detail Vor- und Nachteile bei den spezifischen UE.)
 
 ---
 
@@ -1670,6 +1750,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Dupilumab (ggf. in Kombination mit TCS und/oder TCI)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -1695,10 +1781,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Fludarabin in Kombination mit Cyclophosphamid und Rituximab (FCR)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1712,10 +1798,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Bendamustin in Kombination mit Rituximab oder Chlorambucil in Kombination mit Rituximab oder Obinutuzumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteil im EQ-5D VAS)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten schwere UEs (CTCAE-Grad ≥ 3) und Abbruch wegen UEs sowie im Detail bei spezifischen UEs)
 
 ---
 
@@ -1729,10 +1815,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ibrutinib
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1746,10 +1832,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Fludarabin in Kombination mit Cyclophosphamid und Rituximab (FCR)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1763,10 +1849,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Bendamustin in Kombination mit Rituximab oder Chlorambucil in Kombination mit Rituximab oder Obinutuzumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &darr; (Nachteil in der Symptomskala Diarrhö)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten schwere UEs (CTCAE-Grad ≥ 3) und Abbruch wegen UEs sowie im Detail überwiegend Vorteile bei spezifischen UEs)
 
 ---
 
@@ -1780,10 +1866,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ibrutinib
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1797,10 +1883,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine patientenindividuelle Therapie unter Auswahl von • Rituximab in Kombination mit Fludarabin und Cyclophosphamid (FCR), • Rituximab in Kombination mit Bendamustin (BR), • Venetoclax in Kombination mit Rituximab und • Rituximab in Kombination mit Chlorambucil (ClbR); unter Berücksichtigung der molekular-zytogenetischen Eigenschaften der Erkrankung, des Allgemeinzustandes sowie Erfolg und Verträglichkeit der Vortherapie
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied, im Detail Vorteile und ein Nachteil bei spezifischen unerwünschten Ereignissen.)
 
 ---
 
@@ -1814,10 +1900,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ˗ Ibrutinib oder ˗ Idelalisib in Kombination mit Rituximab oder ˗ Best-Supportive-Care (nur für Patienten, bei denen eine vorangehende Therapie mit Ibrutinib oder Idelalisib in Kombination mit Rituximab versagt hat)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten schwerwiegende unerwünschte Ereignisse, schwere unerwünschte Ereignisse (CTCAE-Grad ≥ 3), Therapieabbrüche aufgrund von unerwünschten Ereignissen sowie im Detail überwiegend Vorteile bei spezifischen unerwünschten Ereignissen)
 
 ---
 
@@ -1831,10 +1917,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ˗ eine patientenindividuelle Therapie unter Auswahl von • Ibrutinib, • Idelalisib in Kombination mit Rituximab, • Venetoclax in Kombination mit Rituximab, • Rituximab in Kombination mit Fludarabin und Cyclophosphamid (FCR), • Rituximab in Kombination mit Bendamustin (BR), • Rituximab in Kombination mit Chlorambucil (ClbR), • Ibrutinib in Kombination mit BR und • Best-Supportive-Care unter Berücksichtigung der molekular-zytogenetischen Eigenschaften der Erkrankung, des Allgemeinzustandes sowie Erfolg und Verträglichkeit der Vortherapie
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &darr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &darr; (Nachteile in den Symptomskalen Fatigue, Schmerzen und Schlaflosigkeit, Vorteil in der Symptomskala Übelkeit/Erbrechen)
+- Lebensqualität: &darr; (Nachteil in der Funktionsskala physische Funktion.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten schwerwiegende unerwünschte Ereignisse, schwere unerwünschte Ereignisse (CTCAE-Grad ≥ 3), Therapieabbrüche aufgrund von unerwünschten Ereignissen sowie im Detail überwiegend Vorteile bei spezifischen unerwünschten Ereignissen)
 
 ---
 
@@ -1847,6 +1933,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** eine patientenindividuelle Therapie unter Auswahl von • Rituximab in Kombination mit Fludarabin und Cyclophosphamid (FCR), • Rituximab in Kombination mit Bendamustin (BR), • Venetoclax in Kombination mit Rituximab und • Rituximab in Kombination mit Chlorambucil (ClbR); unter Berücksichtigung der molekular-zytogenetischen Eigenschaften der Erkrankung, des Allgemeinzustandes sowie Erfolg und Verträglichkeit der Vortherapie
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1216
@@ -1857,6 +1949,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** ˗ eine patientenindividuelle Therapie unter Auswahl von • Ibrutinib, • Idelalisib in Kombination mit Rituximab, • Venetoclax in Kombination mit Rituximab, • Rituximab in Kombination mit Fludarabin und Cyclophosphamid (FCR), • Rituximab in Kombination mit Bendamustin (BR), • Rituximab in Kombination mit Chlorambucil (ClbR), • Ibrutinib in Kombination mit BR und • Best-Supportive-Care unter Berücksichtigung der molekular-zytogenetischen Eigenschaften der Erkrankung, des Allgemeinzustandes sowie Erfolg und Verträglichkeit der Vortherapie
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -1882,10 +1980,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Langwirksame Beta-2-Sympathomimetika oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -1899,10 +1997,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Langwirksame Beta-2-Sympathomimetika oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteil beim Auftreten von Exazerbationen.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -1916,10 +2014,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Langwirksame Beta-2-Sympathomimetika oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1933,10 +2031,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Langwirksame Beta-2-Sympathomimetika oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen und zusätzlich inhalative Corticosteroide (ICS).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1962,10 +2060,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel oder Pemetrexed oder Nivolumab oder Pembrolizumab (Pemetrexed: außer bei überwiegend plattenepithelialer Histologie, Pembrolizumab: nur für Patienten mit PD-L1 exprimierenden Tumoren (TPS ≥ 1 %))
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen Übelkeit und Erbrechen, Diarrhö, Appetitverlust, Bluthusten, Schmerzen (Brust), Mundschmerzen, Schluckbeschwerden, periphere Neuropathie und Alopezie.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten SUE, schwere UE (CTCAE-Grad ≥ 3) und Abbruch wegen UE. Im Detail Vor- und Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -1979,10 +2077,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -1996,10 +2094,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Vinflunin oder • Eine erneute Cisplatin-basierte Chemotherapie (für Patienten die, abhängig von Krankheitsverlauf, Allgemeinzustand und Verträglichkeit der Erstlinientherapie, für eine solche in Frage kommen)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen Fatigue, Übelkeit und Erbrechen, Schlaflosigkeit und Verstopfung.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten schwerwiegende UE, schwere UE (CTCAE Grad ≥ 3) und Therapieabbruch aufgrund von UE; im Detail Vor- und Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -2013,8 +2111,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Chemotherapie nach Maßgabe des Arztes.
 
 **Hauptergebnisse:**
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -2028,10 +2128,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Pembrolizumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbare Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbare Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbare Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbare Daten vor.)
 
 ---
 
@@ -2045,10 +2145,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) oder • Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder • Carboplatin in Kombination mit nab-Paclitaxel oder • Pembrolizumab in Kombination mit Pemetrexed und Platin-Chemotherapie
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (kein statistisch signifikanter bzw. relevanter Unterschied)
+- Morbidität: &harr; (kein statistisch signifikanter bzw. relevanter Unterschied)
+- Lebensqualität: &harr; (kein statistisch signifikanter bzw. relevanter Unterschied)
+- Nebenwirkungen: &darr; (statistisch signifikante Nachteile bei schweren UEs (CTCAE-Grad 3-4))
 
 ---
 
@@ -2062,10 +2162,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Anthrazyklin- und/oder Taxan-haltige systemische Therapie unter Berücksichtigung der Zulassung der Arzneimittel.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &darr; (Nachteil in der Symptomskala Schmerz)
+- Lebensqualität: &harr; (Kein relevanter Unterschied)
+- Nebenwirkungen: &darr; (Nachteile in Abbruch wegen UEs und in spezifischen UEs)
 
 ---
 
@@ -2079,10 +2179,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Pembrolizumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es wurden keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Es wurden keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Es wurden keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Es wurden keine Daten vorgelegt.)
 
 ---
 
@@ -2094,6 +2194,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** • Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) unter Beachtung des Zulassungsstatus oder • Carboplatin in Kombination mit einem Drittgenerationszytostatikum (nur für Patienten mit erhöhtem Risiko für Cisplatin-induzierte Nebenwirkungen im Rahmen einer Kombinationstherapie; vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie) oder • Carboplatin in Kombination mit nab-Paclitaxel oder • Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patienten ohne EGFR- oder ALK-positive Tumormutationen)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Die vorgelegten Daten wurden nicht für die Nutzenbewertung herangezogen.)
+- Morbidität: Nicht bewertbar (Die vorgelegten Daten wurden nicht für die Nutzenbewertung herangezogen.)
+- Lebensqualität: Nicht bewertbar (Die vorgelegten Daten wurden nicht für die Nutzenbewertung herangezogen.)
+- Nebenwirkungen: Nicht bewertbar (Die vorgelegten Daten wurden nicht für die Nutzenbewertung herangezogen.)
 
 ---
 
@@ -2107,10 +2213,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sorafenib oder Lenvatinib
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben; In der Subgruppenanalyse zeigt sich eine Effektmodifikation in Abhängigkeit davon, ob eine virale oder nicht virale Ätiologie des HCC vorliegt: für die Patienten mit viraler Ätiologie zeigt sich ein Vorteil im Gesamtüberleben während sich für die Patienten mit nicht viraler Ätiologie kein Vorteil im Gesamtüberleben zeigt.)
+- Morbidität: &uarr;&uarr; (Vorteile in vielen Endpunkten der Symptomatik und im Endpunkt Gesundheitszustand)
+- Lebensqualität: &uarr;&uarr; (Vorteile in den Endpunkten Körperbild, Ernährung, Rollenfunktion, körperliche, emotionale, kognitive, soziale Funktion)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
 
 ---
 
@@ -2124,10 +2230,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -2141,10 +2247,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder - Carboplatin in Kombination mit nab-Paclitaxel oder - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Erwachsene mit nicht-plattenepithelialer Histologie) oder - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur für Erwachsene mit plattenepithelialer Histologie) oder - Monotherapie mit Gemcitabin oder Vinorelbin (nur für Erwachsene mit ECOG Performance-Status 2 als Alternative zur Platin-basierten Kombinationsbehandlung)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -2158,8 +2264,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Pembrolizumab als Monotherapie
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein Unterschied im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -2173,10 +2281,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Cisplatin und Etoposid oder • Carboplatin und Etoposid
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteile im Endpunkt Therapieabbrüche wegen UE sowie in einzelnen spezifischen UE.)
 
 ---
 
@@ -2190,10 +2298,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Pembrolizumab als Monotherapie oder Cemiplimab als Monotherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -2207,8 +2315,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Gemcitabin als Monotherapie oder Vinorelbin als Monotherapie
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile in den Endpunkten schwere UE (Im Detail Vorteile in spezifischen UE))
 
 ---
 
@@ -2222,10 +2332,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteil bei der Vermeidung von Rezidiven.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse (SUE) und Therapieabbruch aufgrund von UE. Im Detail Nachteile in spezifischen UE.)
 
 ---
 
@@ -2251,10 +2361,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Bevacizumab in Kombination mit Interferon alfa-2a oder − Nivolumab in Kombination mit Ipilimumab (nur für Patienten mit intermediärem Risikoprofil) oder − Monotherapie mit Pazopanib oder − Monotherapie mit Sunitinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &darr; (Nachteil in dem Endpunkt Therapieabbrüche aufgrund von UE; Vorteil und Nachteil in einzelnen spezifischen UE)
 
 ---
 
@@ -2268,10 +2378,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Nivolumab in Kombination mit Ipilimumab oder − Sunitinib oder − Temsirolimus
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
 
 ---
 
@@ -2285,10 +2395,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach Maßgabe des Arztes
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
 
 ---
 
@@ -2302,10 +2412,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile bei den schweren UE und im Detail überwiegend Nachteile bei den spezifischen UE.)
 
 ---
 
@@ -2331,7 +2441,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine symptomatische Therapie (Antipyretika, Antiphlogistika, Analgetika)
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -2345,9 +2458,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine antivirale Therapie (Oseltamivir oder Zanamivir)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
+- Morbidität: Nicht bewertbar (Es liegen für die relevante Gesamtpopulation keine bewertbaren Daten vor; für die Personen mit positivem Influenza-Nachweis (ergänzend dargestellt) liegen keine für die Nutzenbewertung relevanten Unterschiede vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
 
 ---
 
@@ -2361,10 +2475,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
+- Morbidität: &uarr;&uarr; (Vorteil beim Endpunkt „symptomatische Influenzainfektion“)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
 
 ---
 
@@ -2378,10 +2492,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine antivirale Therapie (Oseltamivir oder Zanamivir)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -2405,9 +2519,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ciclosporin in Kombination mit Corticosteroiden und Mycophenolatmofetil oder Tacrolimus in Kombination mit Corticosteroiden und Mycophenolatmofetil.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteil für Patienten mit Niereninsuffizienz im CKD-Stadium 4/5)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor. Für einen vorherigen Datenschnitt wurden keine für die Nutzenbewertung relevanten Unterschiede festgestellt.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; Vorteil in SUE für Patienten mit SCD-Transplantat)
 
 
 #### Belimumab
@@ -2431,10 +2546,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** optimierte Standardtherapie (Chloroquin/Hydroxychloroquin, nichtsteroidale Antirheumatika (NSAIDs), Glukokortikoide, Azathioprin, ggf. Cyclophosphamid) unter Berücksichtigung der zugelassenen Dosierungen und des jeweiligen Zulassungsstatus der Wirkstoffe.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteile in der Krankheitsaktivität und in der Reduktion von schweren Schüben.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -2448,8 +2563,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Berücksichtigung des jeweiligen Organbefalls, der Vortherapie und der Krankheitsaktivität und unter Auswahl von folgenden Therapien: - Hydroxychloroquin, Chloroquin - nichtsteroidale Antirheumatika (NSAIDs) - Glukokortikoide - Azathioprin
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: Nicht bewertbar (Es wurden keine für die Nutzenbewertung bewertbaren Daten vorgelegt.)
+- Lebensqualität: Nicht bewertbar (Es wurden keine für die Nutzenbewertung bewertbaren Daten vorgelegt.)
+- Nebenwirkungen: &uarr; (Vorteil bei den SUEs)
 
 ---
 
@@ -2474,6 +2591,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ceritinib oder Alectinib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 854
@@ -2486,10 +2609,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Crizotinib oder -Alectinib
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile in den Endpunkten Übelkeit und Erbrechen, Obstipation, Fatigue, Appetitverlust, Schmerzen (Arm / Schulter) und periphere Neuropathie)
+- Lebensqualität: &uarr; (Vorteile in den Endpunkten globaler Gesundheitszustand, emotionale Funktion und soziale Funktion)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -2503,10 +2626,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Crizotinib oder -Alectinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in den Endpunkten Übelkeit und Erbrechen, Obstipation, Fatigue, Appetitverlust, Schmerzen (Arm / Schulter) und periphere Neuropathie.)
+- Lebensqualität: &uarr; (Vorteile in den Endpunkten globaler Gesundheitszustand, emotionale Funktion und soziale Funktion.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -2531,10 +2654,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** -Tamoxifen (nur für prämenopausale Patientinnen, die in der vorausgegangenen (neo-)adjuvanten endokrinen Therapie kein Tamoxifen erhalten haben; nur für postmenopausale Patientinnen, wenn Aromatasehemmer nicht geeignet sind) oder -Letrozol oder -Exemestan (nur für Patientinnen mit Progress nach einer Antiöstrogen-Behandlung) oder - Anastrozol oder -Fulvestrant oder -Ribociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol) oder-Abemaciclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol) oder -Palbociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol) oder -Ribociclib in Kombination mit Fulvestrant oder -Abemaciclib in Kombination mit Fulvestrant oder -Palbociclib in Kombination mit Fulvestrant
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &darr; (Nachteil im Endpunkt Diarrhö.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied. Im Detail Nachteile bei den spezifischen UE.)
 
 ---
 
@@ -2548,10 +2671,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** -Tamoxifen oder-Palbociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -2565,10 +2688,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individualisierte Therapie unter Berücksichtigung eines Wechsels der endokrinen Therapie auf -Tamoxifen-Letrozol-Exemestan -Anastrozol-Fulvestrant -Everolimus in Kombination mit Exemestan (nur für Patientinnen ohne symptomatische viszerale Metastasierung, nachdem es zu einer Progression nach einem nicht-steroidalen Aromatasehemmer gekommen ist)-Ribociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol)-Abemaciclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol)-Palbociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol)-Ribociclib in Kombination mit Fulvestrant-Abemaciclib in Kombination mit Fulvestrant-Palbociclib in Kombination mit Fulvestrant
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &darr;&darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &darr;&darr; (Nachteile in den Endpunkten Appetitverlust, Diarrhö und Übelkeit und Erbrechen. Vorteil bei dem Endpunkt Verstopfung.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied. Nachteil in der sozialen Funktion.)
+- Nebenwirkungen: &darr;&darr; (Nachteil bei den schweren UE und im Detail Nachteile bei den spezifischen UE.)
 
 ---
 
@@ -2580,6 +2703,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Individualisierte Therapie unter Berücksichtigung eines Wechsels der endokrinen Therapie auf -Tamoxifen-Aromatasehemmer in Kombination mit einem GnRH-Analogon-Fulvestrant-Palbociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -2604,10 +2733,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -2621,10 +2750,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile bei der Hospitalisierung aufgrund von COVID-19 (Kohorte B) und bei symptomatischen SARS-CoV-2-Infektionen)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -2638,10 +2767,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -2655,10 +2784,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -2672,9 +2801,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
+- Mortalität: &uarr; (Vorteil in der Gesamtmortalität)
+- Morbidität: &uarr; (Vorteile bei der Hospitalisierung aufgrund von COVID-19 und beim Abklingen von COVID-19-Symptomen)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -2688,10 +2818,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -2716,6 +2846,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine systemische antineoplastische Therapie nach Maßgabe des Arztes
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Morbidität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Lebensqualität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Nebenwirkungen: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+
 ---
 
 ###### Patientengruppe 931
@@ -2728,10 +2864,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es wurden keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Es wurden keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Es wurden keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Es wurden keine Daten vorgelegt.)
 
 ---
 
@@ -2743,6 +2879,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Pembrolizumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -2756,7 +2898,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil beim klinischen Ansprechen)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -2768,6 +2913,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -2781,10 +2932,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Auswahl einer Monotherapie mit: - Nab-Paclitaxel - Vinorelbin - Ifosfamid - Topotecan - Pemetrexed - Irinotecan - Pembrolizumab (für Patientinnen mit PD-L1 positivem Zervixkarzinom)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil in den Symptomskalen Schmerzen, Übelkeit und Erbrechen und Appetitlosigkeit)
+- Lebensqualität: &uarr; (Vorteil in körperliche Funktion, Rollenfunktion und soziale Funktion.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil im Endpunkt schwere unerwünschte Ereignisse (schwere UE). Im Detail Vorteile in spezifischen UE.)
 
 ---
 
@@ -2798,10 +2949,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -2814,6 +2965,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Pembrolizumab als Monotherapie oder - Atezolizumab als Monotherapie oder - Cemiplimab als Monotherapie oder - Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem plattenepithelialen NSCLC) oder - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Atezolizumab in Kombination mit Bevacizumab, Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Atezolizumab in Kombination mit nab-Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (nicht bewertbar)
+- Morbidität: Nicht bewertbar (nicht bewertbar)
+- Lebensqualität: Nicht bewertbar (nicht bewertbar)
+- Nebenwirkungen: Nicht bewertbar (nicht bewertbar)
+
 ---
 
 ###### Patientengruppe 1847
@@ -2824,6 +2981,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem plattenepithelialen NSCLC) oder - Atezolizumab als Monotherapie (nur für Patientinnen und Patienten mit einer PD-L1-Expression ≥ 10 % bei tumorinfiltrierenden Immunzellen) oder - Atezolizumab in Kombination mit Bevacizumab, Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Atezolizumab in Kombination mit nab-Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie (nur für Patientinnen und Patienten mit ECOG PS 2) oder - Carboplatin in Kombination mit nab-Paclitaxel (nur für Patientinnen und Patienten mit ECOG PS 2)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (nicht bewertbar)
+- Morbidität: Nicht bewertbar (nicht bewertbar)
+- Lebensqualität: Nicht bewertbar (nicht bewertbar)
+- Nebenwirkungen: Nicht bewertbar (nicht bewertbar)
 
 ---
 
@@ -2849,10 +3012,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel oder Pemetrexed
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen Schmerzen (Arm / Schulter), Schmerzen (andere), Husten, Alopezie, Mundschmerzen und periphere Neuropathie; Nachteile in den Symptomskalen Appetitverlust, Diarrhö sowie Übelkeit und Erbrechen.)
+- Lebensqualität: &uarr; (Vorteile in den Funktionsskalen körperliche Funktion, Rollenfunktion und soziale Funktion.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Im Detail überwiegend Vorteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -2866,10 +3029,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -2881,6 +3044,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Crizotinib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -2904,10 +3073,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Vemurafenib
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteile in den Endpunkten Schmerzen, Schlaflosigkeit und Fatigue sowie Nachteil für den Endpunkt Diarrhoe.)
+- Lebensqualität: &uarr;&uarr; (Vorteile in den Endpunkten globaler Gesundheitsstatus und körperliche Funktion.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 
 #### Crizotinib
@@ -2931,10 +3100,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patienten mit ECOG-Performance-Status 0, 1 oder 2: − Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) unter Beachtung des Zulassungsstatus oder − Carboplatin in Kombination mit einem Drittgenerationszytostatikum (nur für Patienten mit erhöhtem Risiko für Cisplatin-induzierte Nebenwirkungen im Rahmen einer Kombinationstherapie; vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie) Patienten mit ECOG-Performance-Status 2: − alternativ zur Platin-basierten Kombinationsbehandlung: eine Monotherapie mit Gemcitabin oder Vinorelbin
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen Dyspnoe, Fatigue, Schlaflosigkeit, Schmerzen, Appetitverlust, Haarausfall, Husten, Mundschmerzen und Schmerzen (Thorax); Nachteil in der Symptomskala Diarrhoe.)
+- Lebensqualität: &uarr; (Vorteile in den Symptomskalen körperliche Funktion, Rollenfunktion, emotionale Funktion, kognitive Funktion und soziale Funktion sowie in der Skala zum globalen Gesundheitszustand.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten schwere UE (CTCAE-Grad 3 oder 4) und Therapieabbrüche aufgrund von UE. Im Detail sowohl Vor- als auch Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -2948,10 +3117,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel oder Pemetrexed zur Behandlung von Patienten, bei denen eine Chemotherapie angezeigt ist (dies können insbesondere Patienten mit ECOG-Performance-Status 0, 1 und gegebenenfalls 2 sein).
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen Atemnot, Schmerz, Appetitlosigkeit, Müdigkeit und Husten.)
+- Lebensqualität: &uarr; (Vorteile in den Symptomskalen körperliche Funktion, Rollenfunktion, emotionale Funktion und soziale Funktion sowie in der Skala zum globalen Gesundheitszustand.)
+- Nebenwirkungen: &darr; (Nachteile in einzelnen Operationalisierungen schwerwiegender UE und schwerer UE (CTCAE-Grad 3 und 4).)
 
 ---
 
@@ -2965,10 +3134,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -2982,7 +3151,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel oder Pemetrexed
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -2996,10 +3168,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3013,7 +3185,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Patienten mit ECOG-Performance-Status 0, 1 oder 2: Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) unter Beachtung des Zulassungsstatus oder Carboplatin in Kombination mit einem Drittgenerationszytostatikum (nur für Patienten mit erhöhtem Risiko für Cisplatin-induzierte Nebenwirkungen im Rahmen einer Kombinationstherapie; vgl. Anlage VI zum Abschnitt K derArzneimittel-Richtlinie) - Patienten mit ECOG-Performance-Status 2: alternativ zur platinbasierten Kombinationsbehandlung: Monotherapie mit Gemcitabin oder Vinorelbin
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -3038,6 +3213,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Vemurafenib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 613
@@ -3050,7 +3231,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Patienten mit ECOG-Performance-Status 0, 1 oder 2: − Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) unter Beachtung des Zulassungsstatus oder − Carboplatin in Kombination mit einem Drittgenerationszytostatikum (nur für Patienten mit erhöhtem Risiko für Cisplatin-induzierte Nebenwirkungen im Rahmen einer Kombinationstherapie; vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie) oder − Carboplatin in Kombination mit nab-Paclitaxel • Patienten mit ECOG-Performance-Status 2: − alternativ zur platinbasierten Kombinationsbehandlung: eine Monotherapie mit Gemcitabin oder Vinorelbin
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -3064,7 +3248,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel oder Pemetrexed
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -3078,10 +3265,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3095,10 +3282,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Vemurafenib
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile in den Endpunkten Schmerzen, Schlaflosigkeit, Appetitverlust, Diarrhö und Gesundheitszustand.)
+- Lebensqualität: &uarr; (Vorteile in den Funktionsskalen globaler Gesundheitszustand, körperliche Funktion, emotionale Funktion, kognitive Funktion, soziale Funktion und Rollenfunktion.)
+- Nebenwirkungen: &uarr; (Vorteil in dem Endpunkt schwere UE (CTCAE-Grad ≥ 3). Im Detail Vorteile und Nachteile in spezifischen UE.)
 
 ---
 
@@ -3112,10 +3299,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteile in den Endpunkten Rezidive (Ereignisrate) und Rezidivfreies Überleben.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse, schwere unerwünschte Ereignisse (CTCAE-Grad ≥ 3) und Therapieabbrüche aufgrund von unerwünschten Ereignissen.)
 
 ---
 
@@ -3141,10 +3328,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3158,7 +3345,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -3172,10 +3362,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) oder Metformin + Empagliflozin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3189,10 +3379,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) oder Metformin + Empagliflozin oder Metformin + Liraglutid Hinweis: Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil in „Hospitalisierung aufgrund von Herzinsuffizienz“, „schwere Herzinsuffizienz (SMQ Herzinsuffizienz), im kombinierten Endpunkt „Nierenerkrankung" sowie in den Einzelkomponenten „bestätigte anhaltende ≥ 40 % Reduktion der eGFR“ und „Nierenerkrankung im Endstadium“.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; Vorteil in Gesamtrate der SUE“ und im Detail beim spezifischen UE „Blasenkarzinom“; Nachteil bei „Therapieabbrüchen wegen UE" und im Detail beim spezifischen UE „definitive diabetische Ketoazidosen (DKA)“.)
 
 ---
 
@@ -3206,10 +3396,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin oder nur Humaninsulin, wenn Metformin gemäß Fachinformation unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam ist
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3223,10 +3413,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin oder Humaninsulin + Empagliflozin oder Humaninsulin + Liraglutid oder Humaninsulin, wenn die bestimmten Kombinationspartner gemäß Fachinformation unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam sind Hinweis: Empagliflozin ​und Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil in „Hospitalisierung aufgrund von Herzinsuffizienz“, „schwere Herzinsuffizienz (SMQ Herzinsuffizienz), im kombinierten Endpunkt „Nierenerkrankung" sowie in den Einzelkomponenten „bestätigte anhaltende ≥ 40 % Reduktion der eGFR“ und „Nierenerkrankung im Endstadium“.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; Vorteil in Gesamtrate der SUE“ und im Detail beim spezifischen UE „Blasenkarzinom“; Nachteil bei „Therapieabbrüchen wegen UE" und im Detail beim spezifischen UE „definitive diabetische Ketoazidosen (DKA)“.)
 
 ---
 
@@ -3240,10 +3430,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die Optimierung des Humaninsulinregimes (ggf. + Metformin)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3257,10 +3447,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die Optimierung des Humaninsulinregimes (ggf. + Metformin oder Empagliflozin oder Liraglutid) Hinweis: Empagliflozin ​und Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil in „Hospitalisierung aufgrund von Herzinsuffizienz“, „schwere Herzinsuffizienz (SMQ Herzinsuffizienz), im kombinierten Endpunkt „Nierenerkrankung" sowie in den Einzelkomponenten „bestätigte anhaltende ≥ 40 % Reduktion der eGFR“ und „Nierenerkrankung im Endstadium“.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; Vorteil in Gesamtrate der SUE“ und im Detail beim spezifischen UE „Blasenkarzinom“; Nachteil bei „Therapieabbrüchen wegen UE" und im Detail beim spezifischen UE „definitive diabetische Ketoazidosen (DKA)“.)
 
 ---
 
@@ -3274,10 +3464,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine optimierte Standardtherapie zur Behandlung der symptomatischen, chronischen Herzinsuffizienz und der zugrundeliegenden Erkrankungen, wie z. B. Hypertonie, Herzrhythmusstörungen, Koronare Herzkrankheit, Diabetes mellitus, Hypercholesterinämie sowie der Begleitsymptome
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr; (Vorteil bei Gesamtmortalität sowie bei der ergänzend dargestellten kardiovaskulären Mortalität. Bei beiden Endpunkten ergibt sich eine Effektmodifikation hinsichtlich des Schweregrades der Herzinsuffizienz nach NYHA-Klasse: für die Patienten mit NYHA-Klasse II zeigt sich ein Vorteil bei Gesamtmortalität und kardiovaskulärer Mortalität während sich für die Patienten mit NYHA-Klasse III/IV kein Vorteil zeigt.)
+- Morbidität: &uarr; (Vorteile bei Gesamthospitalisierung.)
+- Lebensqualität: &uarr; (Vorteil bei der gesundheitsbezogenen Lebensqualität (KCCQ-OSS).)
+- Nebenwirkungen: &uarr; (Vorteil bei SUE sowie im Detail bei spezifischen UE.)
 
 ---
 
@@ -3291,10 +3481,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine optimierte Standardtherapie zur Behandlung der chronischen Niereninsuffizienz unter Berücksichtigung der Grunderkrankung und häufiger Komorbiditäten (wie Diabetes mellitus, Hypertonie, Dyslipoproteinämie, Anämie)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr; (Vorteil bei Gesamtmortalität.)
+- Morbidität: &uarr; (Vorteile bei ESRD und Gesamthospitalisierung)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr; (Vorteile bei SUE sowie im Detail bei spezifischen UE)
 
 ---
 
@@ -3308,10 +3498,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine optimierte Standardtherapie zur Behandlung der chronischen Niereninsuffizienz unter Berücksichtigung der Grunderkrankung und häufiger Komorbiditäten (wie Diabetes mellitus, Hypertonie, Dyslipoproteinämie, Anämie)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein statistisch signifikanter bzw. relevanter Unterschied)
+- Morbidität: &uarr; (Vorteil bei Gesamthospitalisierung)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteile bei SUE sowie im Detail bei spezifischen UE)
 
 ---
 
@@ -3324,6 +3514,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Humaninsulin + Metformin
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1530
@@ -3334,6 +3530,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eskalation der Insulintherapie (konventionelle Therapie (CT) ggf. + Metformin bzw. intensivierte Insulintherapie (ICT))
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -3347,10 +3549,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine optimierte Standardtherapie zur Behandlung der symptomatischen, chronischen Herzinsuffizienz mit erhaltener Ejektionsfraktion bzw. geringgradig eingeschränkter Ejektionsfraktion und der zugrundeliegenden Erkrankungen, wie z.B. Hypertonie, Herzrhythmusstörungen, Koronare Herzkrankheit, Diabetes mellitus, chronische Nierenerkrankung, Dyslipoproteinämien sowie der Begleitsymptome
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteil bei Hospitalisierung aufgrund von Herzinsuffizienz)
+- Lebensqualität: &uarr; (Vorteil bei der gesundheitsbezogenen Lebensqualität (KCCQ-OSS))
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -3376,10 +3578,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Das abwartende Vorgehen unter Beibehaltung der bestehenden konventionellen Androgendeprivation (ADT).
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteile in den Endpunkten symptomatische skelettale Ereignisse, prostatakarzinomspezifische invasive Verfahren und Schmerzprogression)
+- Lebensqualität: &uarr; (Vorteil in der krankheitsspezifischen Lebensqualität)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied; ein Vor- und Nachteil in einzelnen spezifischen UE)
 
 ---
 
@@ -3393,10 +3595,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - die konventionelle Androgendeprivation in Kombination mit Apalutamid oder - die konventionelle Androgendeprivation in Kombination mit Enzalutamid oder - die konventionelle Androgendeprivation in Kombination mit Abirateronacetat und Prednison oder Prednisolon (nur für Patienten mit neu diagnostiziertem Hochrisiko-Prostatakarzinom) oder - die konventionelle Androgendeprivation in Kombination mit Docetaxel mit oder ohne Prednison oder Prednisolon
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteile in den Endpunkten symptomatische skelettale Ereignisse und stärkster Schmerz.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Im Detail Vor- und Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -3422,10 +3624,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende und den Gesundheitszustand.)
+- Lebensqualität: &uarr; (Vorteil für SF-36 (körperlicher Summenscore).)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil für schwerwiegende UE und durch Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -3439,10 +3641,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende und den Gesundheitszustand.)
+- Lebensqualität: &uarr; (Vorteil für SF-36 (körperlicher Summenscore).)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil für Therapieabbruch aufgrund von unerwünschten Ereignissen und durch Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -3456,8 +3658,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende (SVR12).)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -3471,10 +3675,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende (SVR12).)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr; (Vorteile für Therapieabbruch aufgrund von unerwünschten Ereignissen (UE) und der Gesamtrate an schwerwiegenden UE (Überlebenszeitanalyse).)
 
 ---
 
@@ -3488,10 +3692,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende (SVR12) und Endpunkt Gesundheitszustand.)
+- Lebensqualität: &uarr; (Vorteil für SF-36 (körperlicher Summenscore).)
+- Nebenwirkungen: &uarr; (Vorteil durch Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -3505,8 +3709,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende (SVR12).)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch die Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -3520,9 +3726,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende (SVR12).)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch die Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -3548,10 +3755,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Antiretrovirale Therapie aus 2 NRTI (Abacavir oder Lamivudin oder Emtricitabin oder Zidovudin) und einem NNRTI (Efavirenz oder Nevirapin) oder einem Proteaseinhibitor (Lopinavir oder Atazanavir oder Darunavir, jeweils in Kombination mit Ritonavir)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3565,7 +3772,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -3579,9 +3789,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Efavirenz in Kombination mit zwei Nukleosid-/Nukleotidanaloga (Tenofovirdisoproxil plus Emtricitabin oder Abacavir plus Lamivudin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteile beim virologischen Ansprechen und bei der CD4-Zellzahl.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile beim Abbruch wegen UE und im Detail bei Erkrankungen des Nervensystems (nur für männliche Patienten) und bei Hautausschlag.)
 
 ---
 
@@ -3595,10 +3806,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Efavirenz in Kombination mit Abacavir plus Lamivudin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3612,9 +3823,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Raltegravir in Kombination mit einer individuellen Backbone-Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen. Die jeweilige Zulassung der Präparate ist zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteil für virologisches Ansprechen.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil bei den schweren UE und im Detail bei den Erkrankungen des Nervensystems (nur für die Subgruppe der über 50 Jährigen).)
 
 ---
 
@@ -3628,10 +3840,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen. Die jeweilige Zulassung der Präparate ist zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3645,10 +3857,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen. Die jeweilige Zulassung der Präparate ist zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3661,6 +3873,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Zweckmäßige Vergleichstherapie für Dolutegravir in Kombination mit anderen antiretroviralen Arzneimitteln: Abacavir mit Lamivudin oder Abacavir mit Emtricitabin jeweils in Kombination mit - Lopinavir/Ritonavir oder - Raltegravir oder - Nevirapin
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1195
@@ -3671,6 +3889,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Zweckmäßige Vergleichstherapie für Dolutegravir in Kombination mit anderen antiretroviralen Arzneimitteln: - eine patientenindividuelle antiretrovirale Therapie unter Auswahl der zugelassenen Wirkstoffe; unter Berücksichtigung der Vortherapie(n) und des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -3695,10 +3919,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Efavirenz in Kombination mit zwei Nukleosid-/Nukleotidanaloga (Tenofovirdisoproxil plus Emtricitabin oder Abacavir plus Lamivudin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteile beim virologischen Ansprechen und bei der CD4-Zellzahl.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile beim Abbruch wegen UE und im Detail bei Erkrankungen des Nervensystems (nur für männliche Patienten) und bei Hautausschlag.)
 
 ---
 
@@ -3712,10 +3936,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Efavirenz in Kombination mit Abacavir plus Lamivudin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3727,6 +3951,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Raltegravir in Kombination mit einer individuellen Backbone-Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen. Die jeweilige Zulassung der Präparate ist zu beachten.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -3740,10 +3970,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen. Die jeweilige Zulassung der Präparate ist zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3757,10 +3987,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen. Die jeweilige Zulassung der Präparate ist zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -3774,7 +4004,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Abacavir + Lamivudin oder Abacavir+ Emtricitabin jeweils in Kombination mit - Lopinavir/Ritonavir oder - Raltegravir oder - Nevirapin oder - Atazanavir + Ritonavir oder - Darunavir + Ritonavir oder Dolutegravir + Abacavir + Emtricitabin
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -3788,7 +4021,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Abacavir + Lamivudin oder Abacavir+ Emtricitabin jeweils in Kombination mit - Atazanavir + Ritonavir oder - Darunavir + Ritonavir oder Dolutegravir + Abacavir + Emtricitabin
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -3802,7 +4038,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle antiretrovirale Therapie unter Auswahl der zugelassenen Wirkstoffe; unter Berücksichtigung der Vortherapie(n) und des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -3828,10 +4067,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ein patientenindividuell optimiertes Therapieregime in Abhängigkeit der Ausprägung der Erkrankung und unter Berücksichtigung der Vortherapie, unter Berücksichtigung folgender Therapien: -topische Glukokortikoide (TCS) der Klassen 2 bis 4 -Tacrolimus (topisch) -UV-Therapie (UVA/NB-UVB) -systemische Glukokortikoide (nur kurzfristig im Rahmen einer Schubtherapie) -Ciclosporin Der jeweilige Zulassungsstatus der Arzneimittel ist zu berücksichtigen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteile bei den Symptomen Juckreiz und Schlafstörungen, bei der patientenberichteten Symptomatik, beim Gesundheitszustand und beim Schweregrad der Erkrankung.)
+- Lebensqualität: &uarr;&uarr; (Vorteil bei der krankheitsspezifischen gesundheitsbezogenen Lebensqualität.)
+- Nebenwirkungen: &darr;&darr; (Nachteile bei Augenerkrankungen und Konjunktivits.)
 
 ---
 
@@ -3845,10 +4084,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine Therapie mit intranasalen Kortikosteroiden (Budesonid oder Mometasonfuroat)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Verbesserung der Symptomatik, Vorteil bezüglich des Verlusts des Geruchssinns, Vorteil bei Rhinosinusitis, Vorteil bei nasaler Kongestion / Obstruktion, Vorteil bei Rhinorrhö (anterior / posterior) sowie Vorteil bezüglich des Gesundheitszustands)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt liegt kein Nachteil für Dupilumab vor.)
 
 ---
 
@@ -3862,10 +4101,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ein patientenindividuell optimiertes Therapieregime in Abhängigkeit der Ausprägung der Erkrankung und unter Berücksichtigung der Vortherapie, unter Berücksichtigung folgender Therapien: - topische Glukokortikoide der Klassen 2 bis 3 - Tacrolimus (topisch) Der jeweilige Zulassungsstatus der Arzneimittel ist zu berücksichtigen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteile für die Symptome Juckreiz und Schlafstörungen, die patientenberichtete Symptomatik und die Verbesserung des EASI Scores um 75 % und 90 % sowie die Verbesserung des SCORAD Scores um 75 %.)
+- Lebensqualität: &uarr; (Vorteil beim Erreichen eines DLQI von 0 oder 1.)
+- Nebenwirkungen: &darr; (Nachteil bei Augenerkrankungen, der sich jedoch in der ergänzend dargestellten Studie AD-1652 nicht zeigt.)
 
 ---
 
@@ -3879,10 +4118,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine patientenindividuelle Therapieeskalation unter Berücksichtigung der Vortherapie unter Auswahl von: • hochdosiertes ICS und LABA und LAMA oder • hochdosiertes ICS und LABA und ggf. LAMA und Omalizumab, sofern die für die Anwendung von Omalizumab notwendigen Kriterien erfüllt sind
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
+- Morbidität: &Oslash; (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
 
 ---
 
@@ -3896,10 +4135,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine patientenindividuelle Therapieeskalation unter Berücksichtigung der Vortherapie und der Pathogenese des Asthmas unter Auswahl von: • hochdosiertes ICS und LABA und LAMA oder • hochdosiertes ICS und LABA und ggf. LAMA und Omalizumab, sofern die für die Anwendung von Omalizumab notwendigen Kriterien erfüllt sind oder • hochdosiertes ICS und LABA und ggf. LAMA und Mepolizumab oder Reslizumab oder Benralizumab, sofern die für die Anwendung der jeweiligen Antikörper notwendigen Kriterien erfüllt sind
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
+- Morbidität: &Oslash; (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
 
 ---
 
@@ -3913,10 +4152,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ein patientenindividuell optimiertes Therapieregime aus topischer und systemischer Therapie in Abhängigkeit der Ausprägung der Erkrankung und unter Berücksichtigung der Vortherapie, unter Berücksichtigung folgender Therapien: − topische Glukokortikoide der Klassen 2 bis 4 − Tacrolimus (topisch) − Ciclosporin Der jeweilige Zulassungsstatus der Arzneimittel ist zu berücksichtigen
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteile für die Symptome Juckreiz und Schlafstörungen, die patientenberichtete Symptomatik und die Verbesserung des EASI Scores um 75 % und 90 % sowie die Verbesserung des SCORAD Scores um 75 %.)
+- Lebensqualität: &uarr; (Vorteil beim Erreichen eines DLQI von 0 oder 1.)
+- Nebenwirkungen: &darr; (Nachteile bei Augenerkrankungen.)
 
 ---
 
@@ -3928,6 +4167,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapieeskalation unter Berücksichtigung der Vortherapie unter Auswahl von: • hochdosiertes ICS und LABA und ggf. LAMA oder • hochdosiertes ICS und LABA und ggf. LAMA und Omalizumab, sofern die für die Anwendung von Omalizumab notwendigen Kriterien erfüllt sind.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -3941,10 +4186,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ein patientenindividuell optimiertes Therapieregime in Abhängigkeit der Ausprägung der Erkrankung und unter Berücksichtigung der Vortherapie, unter Auswahl folgender Therapien: – topische Glukokortikoide der Klassen 1 bis 3 – Tacrolimus (topisch)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteile für die Symptome Juckreiz und Schlafstörungen, die patientenberichtete Symptomatik und die Verbesserung des EASI Scores um 75 % und 90 % sowie die Verbesserung des SCORAD Scores um 75 %.)
+- Lebensqualität: &uarr; (Vorteil beim Erreichen eines DLQI von 0 oder 1.)
+- Nebenwirkungen: &darr; (Nachteil bei Augenerkrankungen, der sich jedoch in der ergänzend dargestellten Studie PRESCHOOL nicht zeigt.)
 
 ---
 
@@ -3957,6 +4202,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ein patientenindividuell optimiertes Therapieregime in Abhängigkeit der Ausprägung der Erkrankung und unter Berücksichtigung der Vortherapie, unter Auswahl folgender Therapien: – topische Glukokortikoide der Klassen 1 bis 3 – Tacrolimus (topisch)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1786
@@ -3967,6 +4218,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Auswahl von Budesonid sowie Protonenpumpeninhibitoren (PPI)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -3980,10 +4237,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Metaanalyse: Vorteile bei Läsionen, Angstsymptomatik, depressiver Symptomatik und Gesundheitszustand. Studie PRIME: Vorteile bei den Symptomen Juckreiz, Hautschmerz und Schlafqualität.)
+- Lebensqualität: &uarr; (Metaanalyse: Vorteil beim Erreichen eines DLQI von 0 oder 1.)
+- Nebenwirkungen: &uarr; (Vorteil bei dem Endpunkt Abbruch wegen UEs.)
 
 ---
 
@@ -3997,10 +4254,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** LABA und LAMA und ggf. ICS
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &uarr;&uarr; (Vorteil bei Exazerbationen)
+- Lebensqualität: &uarr;&uarr; (Vorteil bei der krankheitsspezifischen Lebensqualität)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
 
 ---
 
@@ -4014,10 +4271,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** LABA und LAMA und ggf. ICS und Roflumilast, sofern die für die Anwendung von Roflumilast notwendigen Kriterien erfüllt sind
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -4029,6 +4286,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine individualisierte Therapie unter Auswahl von Budesonid sowie Protonenpumpeninhibitoren (PPI)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -4054,10 +4317,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt Therapieabbruch wegen UE. Im Detail überwiegend Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -4071,10 +4334,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ˗ Cisplatin in Kombination mit Etoposid oder ˗ Carboplatin in Kombination mit Etoposid oder ˗ Atezolizumab in Kombination mit Carboplatin und Etoposid
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -4088,8 +4351,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Atezolizumab in Kombination mit Bevacizumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -4103,10 +4368,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -4120,8 +4385,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Pembrolizumab als Monotherapie oder - Atezolizumab als Monotherapie oder - Cemiplimab als Monotherapie oder - Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem plattenepithelialen NSCLC) oder - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Atezolizumab in Kombination mit Bevacizumab, Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Atezolizumab in Kombination mit nab-Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -4133,6 +4400,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem plattenepithelialen NSCLC) oder - Atezolizumab als Monotherapie (nur für Patientinnen und Patienten mit einer PD-L1-Expression ≥ 10 % bei tumorinfiltrierenden Immunzellen) oder - Atezolizumab in Kombination mit Bevacizumab, Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Atezolizumab in Kombination mit nab-Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie (nur für Patientinnen und Patienten mit ECOG PS 2) oder - Carboplatin in Kombination mit nab-Paclitaxel (nur für Patientinnen und Patienten mit ECOG PS 2)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -4146,10 +4419,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Cisplatin in Kombination mit Gemcitabin (vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede; im Detail Nachteile bei spezifischen UE)
 
 ---
 
@@ -4161,6 +4434,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Dostarlimab in Kombination mit Carboplatin + Paclitaxel gefolgt von Dostarlimab als Monotherapie
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -4174,10 +4453,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Carboplatin und Paclitaxel gefolgt von beobachtendem Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &darr; (Nachteile bei Dyspnoe, Appetitverlust, Verstopfung und Geschmacksveränderung)
+- Lebensqualität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor)
+- Nebenwirkungen: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor. Im Detail Nachteil bei den spezifischen UE.)
 
 ---
 
@@ -4191,10 +4470,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Carboplatin und Paclitaxel gefolgt von beobachtendem Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Morbidität: &darr; (Nachteile bei Dyspnoe, Übelkeit und Erbrechen, Appetitverlust, Verstopfung und Geschmacksveränderung)
+- Lebensqualität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Nebenwirkungen: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
 
 ---
 
@@ -4220,10 +4499,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Therapie nach ärztlicher Maßgabe unter Berücksichtigung eines Wechsels der endokrinen Therapie auf - Tamoxifen - Anastrozol - Fulvestrant als Monotherapie - Letrozol - Exemestan - Everolimus in Kombination mit Exemestan (nur für Patientinnen ohne symptomatische viszerale Metastasierung, nachdem es zu einer Progression nach einem nicht-steroidalen Aromatasehemmer gekommen ist).
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Morbidität: &harr; (Insgesamt kein für die Nutzenbewertung relevanter Unterschied. Im Detail Nachteil im Endpunkt Appetitverlust und Vorteil im Endpunkt Schlaflosigkeit.)
+- Lebensqualität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Nebenwirkungen: &harr; (Insgesamt kein für die Nutzenbewertung relevanter Unterschied. Im Detail Nachteile bei den spezifischen UE „Erkrankungen des Gastrointestinaltrakts“ und „Skelettmuskulatur-, Bindegewebs- und Knochenerkrankungen“.)
 
 ---
 
@@ -4235,6 +4514,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Berücksichtigung eines Wechsels der endokrinen Therapie auf - Tamoxifen, - Aromatasehemmer in Kombination mit einem GnRH-Analogon, - Fulvestrant
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -4248,10 +4533,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Therapie nach ärztlicher Maßgabe unter Berücksichtigung eines Wechsels der endokrinen Therapie auf - Tamoxifen - Anastrozol - Fulvestrant als Monotherapie - Letrozol - Exemestan - Everolimus in Kombination mit Exemestan (nur für Patientinnen ohne symptomatische viszerale Metastasierung, nachdem es zu einer Progression nach einem nicht-steroidalen Aromatasehemmer gekommen ist).
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Insgesamt kein für die Nutzenbewertung relevanter Unterschied. Im Detail Nachteil im Endpunkt Appetitverlust.)
+- Lebensqualität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Nebenwirkungen: &harr; (Insgesamt kein für die Nutzenbewertung relevanter Unterschied. Im Detail Nachteile bei den spezifischen UE „Erkrankungen des Gastrointestinaltrakts“ und „Skelettmuskulatur-, Bindegewebs- und Knochenerkrankungen“.)
 
 ---
 
@@ -4277,10 +4562,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Bortezomib als Monotherapie oder − Bortezomib in Kombination mit pegyliertem, liposomalen Doxorubicin oder − Bortezomib in Kombination mit Dexamethason oder − Lenalidomid in Kombination mit Dexamethason
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt schwere UE (CTCAE Grad 3 oder 4))
 
 ---
 
@@ -4294,10 +4579,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Bortezomib in Kombination mit pegyliertem liposomalen Doxorubicin oder - Bortezomib in Kombination mit Dexamethason oder - Lenalidomid in Kombination mit Dexamethason oder - Pomalidomid in Kombination mit Dexamethason oder - Elotuzumab in Kombination mit Lenalidomid und Dexamethason oder - Carfilzomib in Kombination mit Lenalidomid und Dexamethason oder - Carfilzomib in Kombination mit Dexamethason oder - Daratumumab in Kombination mit Lenalidomid und Dexamethason oder - Daratumumab in Kombination mit Bortezomib und Dexamethason
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil in dem Endpunkt schwere UE (CTCAE-Grad ≥ 3).)
 
 ---
 
@@ -4323,10 +4608,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -4340,7 +4625,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -4354,10 +4642,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile in der Studie 1245.28 beim Endpunkt „nicht tödlicher Myokardinfarkt“.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil im Detail bei "nicht schweren symptomatischen Hypoglykämien". Nachteil im Detail bei „Erkrankungen der Nieren und Harnwege“, „Erkrankungen der Geschlechtsorgane und der Brustdrüse“ sowie „Genitalinfektionen“.)
 
 ---
 
@@ -4371,10 +4659,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr;&uarr; (Vorteile hinsichtlich Gesamtmortalität und kardiovaskulärer Tod.)
+- Morbidität: &uarr; (Vorteile bei „Hospitalisierung wegen Herzinsuffizienz“, „schwere Herzinsuffizienz (SMQ)“, „Nierenversagen“ und „Beginn einer dauerhaften Nierenersatztherapie“.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr; (Nachteil im Detail bei „Erkrankungen der Geschlechtsorgane und der Brustdrüse“ und „Genitalinfektionen“.)
 
 ---
 
@@ -4388,10 +4676,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) (Hinweis: Wenn Metformin gemäß Fachinformation nicht geeignet ist, ist Humaninsulin als Therapieoption einzusetzen.)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -4405,10 +4693,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) (Hinweis: Wenn Metformin gemäß Fachinformation nicht geeignet ist, ist Humaninsulin als Therapieoption einzusetzen.)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr;&uarr; (Vorteile hinsichtlich Gesamtmortalität und kardiovaskulärer Tod.)
+- Morbidität: &uarr; (Vorteile bei „Hospitalisierung wegen Herzinsuffizienz“, „schwere Herzinsuffizienz (SMQ)“, „Nierenversagen“ und „Beginn einer dauerhaften Nierenersatztherapie“.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr; (Nachteil im Detail bei „Erkrankungen der Geschlechtsorgane und der Brustdrüse“ und „Genitalinfektionen“.)
 
 ---
 
@@ -4422,10 +4710,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Humaninsulin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht ausreichend wirksam oder unverträglich ist.)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -4439,10 +4727,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Humaninsulin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht ausreichend wirksam oder unverträglich ist.)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr;&uarr; (Vorteile hinsichtlich Gesamtmortalität und kardiovaskulärer Tod.)
+- Morbidität: &uarr; (Vorteile bei „Hospitalisierung wegen Herzinsuffizienz“, „schwere Herzinsuffizienz (SMQ)“, „Nierenversagen“ und „Beginn einer dauerhaften Nierenersatztherapie“.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr; (Nachteil im Detail bei „Erkrankungen der Geschlechtsorgane und der Brustdrüse“ und „Genitalinfektionen“.)
 
 ---
 
@@ -4456,10 +4744,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Humaninsulin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht ausreichend wirksam oder unverträglich ist.)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -4473,10 +4761,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Humaninsulin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht ausreichend wirksam oder unverträglich ist.)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr;&uarr; (Vorteile hinsichtlich Gesamtmortalität und kardiovaskulärer Tod.)
+- Morbidität: &uarr; (Vorteile bei „Hospitalisierung wegen Herzinsuffizienz“, „schwere Herzinsuffizienz (SMQ)“, „Nierenversagen“ und „Beginn einer dauerhaften Nierenersatztherapie“.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr; (Nachteil im Detail bei „Erkrankungen der Geschlechtsorgane und der Brustdrüse“ und „Genitalinfektionen“.)
 
 ---
 
@@ -4490,10 +4778,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine optimierte Standardtherapie zur Behandlung der symptomatischen, chronischen Herzinsuffizienz und der zugrundeliegenden Erkrankungen, wie z. B. Hypertonie, Herzrhythmusstörungen, Koronare Herzkrankheit, Diabetes mellitus, Hypercholesterinämie sowie der Begleitsymptome
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (kein statistisch signifikanter bzw. relevanter Unterschied)
+- Morbidität: &uarr; (statistisch signifikanter Vorteil bei der Gesamthospitalisierung)
+- Lebensqualität: &uarr; (Verbesserung um ≥ 5 Punkte im KCCQ-OSS; kein statistisch signifikanter Unterschied für eine Verbesserung um ≥ 15 Punkte (entspricht 15 %))
+- Nebenwirkungen: &uarr; (statistisch signifikanter Vorteil bei SUE sowie im Detail bei spezifischen UE)
 
 ---
 
@@ -4507,10 +4795,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine optimierte Standardtherapie zur Behandlung der symptomatischen, chronischen Herzinsuffizienz mit erhaltener Ejektionsfraktion bzw. geringgradig eingeschränkter Ejektionsfraktion und der zugrundeliegenden Erkrankungen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteil jeweils bei Hospitalisierung aufgrund von Herzinsuffizienz, Gesamthospitalisierung und akuter Nierenschädigung.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &uarr; (Vorteil bei SUE. Im Detail Vorteile bei spezifischen UE.)
 
 ---
 
@@ -4522,6 +4810,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine optimierte Standardtherapie zur Behandlung der chronischen Nierenerkrankung unter Berücksichtigung der Grunderkrankung und häufiger Komorbiditäten (wie Diabetes mellitus, Hypertonie, Dyslipoproteinämie, Anämie, Herzinsuffizienz).
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -4535,7 +4829,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Berücksichtigung des HbA1c-Wertes, der Vortherapien und Komplikationen unter Auswahl von - Metformin + Humaninsulin - Metformin + Liraglutid oder Dulaglutid - Metformin + Dapagliflozin - eine Eskalation der Insulintherapie: konventionelle Therapie [CT] bzw. intensivierte Insulintherapie [ICT], jeweils in Kombination mit Metformin und Liraglutid oder Dulaglutid oder Dapagliflozin
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -4561,7 +4858,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Vemurafenib in Kombination mit Cobimetinib oder - Dabrafenib in Kombination mit Trametinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -4575,10 +4875,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie nach Maßgabe des behandelnden Arztes in Abhängigkeit von der jeweiligen Vortherapie und unter Berücksichtigung des Zulassungsstatus (hiervon ausgenommen: Dacarbazin und Lomustin).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -4592,10 +4892,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Eine patientenindividuelle Therapie unter Auswahl von • 5-Fluorouracil + Folinsäure + Oxaliplatin ± Bevacizumab • Capecitabin + Oxaliplatin ± Bevacizumab • 5-Fluorouracil + Folinsäure + Irinotecan ± Aflibercept oder Ramucirumab oder Bevacizumab oder Cetuximab oder Panitumumab • Irinotecan ± Cetuximab oder Panitumumab • Trifluridin/Tipiracil • 5-Fluorouracil ± Bevacizumab • Capecitabin ± Bevacizumab - unter Berücksichtigung des Allgemeinzustandes und der Art und Anzahl der Vortherapien.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil im Endpunkt Diarrhoe)
+- Lebensqualität: &harr; (Kein statistisch signifikanter bzw. relevanter Unterschied)
+- Nebenwirkungen: &uarr; (Vorteile in schweren und schwerwiegenden UEs sowie Abbruch wegen UE)
 
 ---
 
@@ -4608,6 +4908,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Dabrafenib in Kombination mit Trametinib oder - Pembrolizumab als Monotherapie oder - Atezolizumab als Monotherapie oder - Cemiplimab als Monotherapie oder - Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Atezolizumab in Kombination mit Bevacizumab, Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1) - Atezolizumab in Kombination mit nab-Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1) - Cemiplimab in Kombination mit platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) - Durvalumab in Kombination Tremelimumab und platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2113
@@ -4619,6 +4925,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Dabrafenib in Kombination mit Trametinib oder - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Atezolizumab als Monotherapie (nur für Patientinnen und Patienten mit einer PD-L1-Expression ≥ 10 % bei tumorinfiltrierenden Immunzellen) oder - Atezolizumab in Kombination mit Bevacizumab, Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Atezolizumab in Kombination mit nab-Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) - Cemiplimab in Kombination mit platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) - Durvalumab in Kombination Tremelimumab und platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2114
@@ -4629,6 +4941,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Dabrafenib in Kombination mit Trametinib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -4654,10 +4972,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Chemotherapie nach ärztlicher Maßgabe* * Die Wirkstoffe Docetaxel und Paclitaxel stellen geeignete Komparatoren für die vorliegende Nutzenbewertung im Rahmen einer Chemotherapie nach ärztlicher Maßgabe dar. Diese Arzneimittel sind jedoch in dem vorliegenden Anwendungsgebiet nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &uarr; (Vorteile in den Funktionsskalen globaler Gesundheitsstatus, körperliche Funktion, Rollenfunktion und emotionale Funktion.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -4671,10 +4989,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -4688,10 +5006,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Cisplatin in Kombination mit Gemcitabin gefolgt von Avelumab als Erhaltungstherapie (Erhaltungstherapie mit Avelumab nur für Patientinnen und Patienten, die progressionsfrei sind)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen „Übelkeit und Erbrechen“, „Verstopfung“ und „Appetitverlust“)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: &uarr; (Vorteil bei den schweren UEs; im Detail Nachteile und Vorteile bei spezifischen UEs)
 
 ---
 
@@ -4705,10 +5023,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Carboplatin in Kombination mit Gemcitabin nach Maßgabe der Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie gefolgt von Avelumab als Erhaltungstherapie (Erhaltungstherapie mit Avelumab nur für Patientinnen und Patienten, die progressionsfrei sind)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &uarr; (Vorteile für den Endpunkt „stärkster Schmerz“ und in den Symptomskalen „Übelkeit und Erbrechen“ sowie „Verstopfung“)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: &uarr; (Vorteil bei den schweren UEs; im Detail Nachteile und Vorteile bei spezifischen UEs)
 
 ---
 
@@ -4734,9 +5052,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care (z. B. adäquate Schmerztherapie)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteile in den Endpunkten Zeit bis zur ersten skelettbezogenen Komplikation, Zeit bis zur Schmerzprogression und Änderung der Schmerzintensität.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile in den Endpunkten schwere unerwünschte Ereignisse und schwerwiegende unerwünschte Ereignisse.)
 
 ---
 
@@ -4750,10 +5069,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Das abwartende Vorgehen unter Beibehaltung der bestehenden konventionellen Androgendeprivation oder gegebenenfalls die kombinierte, maximale Androgenblockade mit einem nichtsteroidalen Antiandrogen (Flutamid, Bicalutamid) oder Abirateronacetat unter Beibehaltung der bestehenden Androgendeprivation
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil in den Endpunkten Zeit bis zur ersten skelettbezogenen Komplikation und Zeit bis zum Beginn einer Opiattherapie.)
+- Lebensqualität: &uarr;&uarr; (Vorteil in der krankheitsspezifischen Lebensqualität.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile in den Endpunkten schwere unerwünschte Ereignisse, schwerwiegende unerwünschte Ereignisse und Therapieabbruch wegen unerwünschten Ereignissen, Nachteil bei Hitzewallungen.)
 
 ---
 
@@ -4767,10 +5086,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Das abwartende Vorgehen unter Beibehaltung der bestehenden konventionellen Androgendeprivation (ADT).
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied; Vorteil und Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -4784,8 +5103,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - die konventionelle Androgendeprivation in Kombination mit Docetaxel mit oder ohne Prednison oder Prednisolon (nur für Patienten mit Fernmetastasen (M1-Stadium) und gutem Allgemeinzustand (nach ECOG / WHO 0 bis 1 bzw. Karnofsky Index ≥ 70 %)) oder - die konventionelle Androgendeprivation in Kombination mit Abirateronacetat und Prednison oder Prednisolon (nur für Patienten mit neu diagnostiziertem Hochrisiko-metastasiertem hormonsensitivem Prostatakarzinom) oder - die konventionelle Androgendeprivation in Kombination mit Apalutamid (nur für Patienten mit gutem Allgemeinzustand (nach ECOG / WHO 0 bis 1))
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Vorteil im Endpunkt schwerwiegende UE.)
 
 ---
 
@@ -4811,10 +5132,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil in den Endpunkten "Migränetage pro Monat“ und „Aktivitätsbeeinträchtigungen“.)
+- Lebensqualität: &uarr; (Vorteil bei der allgemeinen Beeinträchtigung durch Kopfschmerz.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -4828,10 +5149,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metoprolol oder Propranolol oder Flunarizin oder Topiramat oder Amitriptylin oder Clostridium botulinum Toxin Typ A
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile bei der Symptomatik (Migränetage pro Monat).)
+- Lebensqualität: &uarr; (Vorteile im HIT-6 sowie im SF-36 (PCS + MCS).)
+- Nebenwirkungen: &uarr; (Vorteil bei Abbruch aufgrund von UEs; insgesamt keine Vor- oder Nachteile bei den Gesamtraten.)
 
 ---
 
@@ -4857,10 +5178,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** patientenindividuell bestimmte Chemotherapie unter Verwendung der Wirkstoffe als Monotherapie mit Capecitabin, Vinorelbin
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Vorteil im Endpunkt SUE, Nachteil im Endpunkt schwere UE (CTCAE-Grade 3 und 4); in der Gesamtschau überwiegt der Nachteil.)
 
 ---
 
@@ -4874,10 +5195,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** patientenindividuell bestimmte Chemotherapie mit einer erneuten Anthrazyklin- oder Taxan-haltigen Therapie
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -4891,10 +5212,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Lapatinib in Kombination mit Capecitabin oder Lapatinib in Kombination mit Trastuzumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -4908,10 +5229,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine antineoplastische Arzneimitteltherapie nach Maßgabe des Arztes unter Beachtung des Zulassungsstatus der Arzneimittel und der jeweiligen erfolgten Vortherapie(n).
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil im Endpunkt „Schlaflosigkeit“.)
+- Lebensqualität: &uarr; (Vorteile in den Endpunkten körperliche Funktion und soziale Funktion.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -4923,6 +5244,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine antineoplastische Arzneimitteltherapie nach Maßgabe des Arztes unter Beachtung des Zulassungsstatus der Arzneimittel und der jeweiligen erfolgten Vortherapie(n).
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -4948,10 +5275,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Therapie nach ärztlicher Maßgabe unter Berücksichtigung von - Krisenintervention / Psychotherapie - medikamentöser Akuttherapie zur Behandlung von Angst, Schlaflosigkeit, psychotischer Symptome, Unruhe - Einleiten einer adäquaten antidepressiven Medikation bzw. Optimierung der bestehenden Medikation - elektrokonvulsiver Therapie
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil in der allgemeinen depressiven Symptomatik und im Gesundheitszustand ohne Reduktion der spezifischen depressiven Symptomatik Suizidalität.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Nachteile in einzelnen spezifischen UE: Erkrankungen des Nervensystems und Gastrointestinaltraktes, Psychiatrische Erkrankungen, Augenerkrankungen.)
 
 ---
 
@@ -4965,10 +5292,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Augmentation mit Lithium* bzw. Quetiapin retard* oder Kombination zweier Antidepressiva * Als Add-On zu der zuletzt gegebenen antidepressiven Monotherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile bei Ansprechen und Remission, allgemeiner depressiver Symptomatik, funktionaler Remission und beim Gesundheitszustand.)
+- Lebensqualität: &uarr; (Vorteile im psychischen und körperlichen Summenscore des SF-36v2.)
+- Nebenwirkungen: &uarr; (Vorteile bei Abbrüchen aufgrund von UEs, im Detail Nachteile bei einzelnen spezifischen UEs.)
 
 ---
 
@@ -4994,10 +5321,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metronidazol
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5011,10 +5338,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Vancomycin
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteil für wässrige Durchfälle, abdominale Beschwerden, Fieber, Erbrechen sowie eine daraus resultierende Exsikkose, und Senkung der Rezidivrate.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -5028,10 +5355,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metronidazol oder Vancomycin
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es liegen keine für die Nutzenbewertung relevanten Unterschiede vor.)
+- Morbidität: &harr; (Es liegen keine für die Nutzenbewertung relevanten Unterschiede vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung relevanten Unterschiede vor.)
+- Nebenwirkungen: &harr; (Es liegen keine für die Nutzenbewertung relevanten Unterschiede vor.)
 
 ---
 
@@ -5045,10 +5372,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Vancomycin
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es liegen keine für die Nutzenbewertung relevanten Unterschiede vor.)
+- Morbidität: &uarr; (Vorteile in der globalen Heilung)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Es liegen keine für die Nutzenbewertung relevanten Unterschiede vor.)
 
 ---
 
@@ -5073,10 +5400,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** langwirksame Beta-2-Sympathomimetika (Formoterol oder Salmeterol) oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteil für den Endpunkt COPD-Symptome (Exacerbations of Chronic Pulmonary Disease Tool Respiratory Symptoms: E-RS-Responder).)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -5090,10 +5417,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** langwirksame Beta-2-Sympathomimetika (Formoterol oder Salmeterol) oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteil für den Endpunkt COPD-Symptome (Exacerbations of Chronic Pulmonary Disease Tool Respiratory Symptoms: E-RS-Responder) und schwere Exazerbationen.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -5107,10 +5434,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** langwirksame Beta-2-Sympathomimetika (Formoterol oder Salmeterol) oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5124,10 +5451,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** langwirksame Beta-2-Sympathomimetika (Formoterol oder Salmeterol) oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen, zusätzlich inhalative Corticosteroide (ICS)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -5152,6 +5479,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Metoprolol oder Propranolol oder Flunarizin oder Topiramat oder Amitriptylin unter Berücksichtigung der Zulassung und der Vortherapie
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 919
@@ -5164,10 +5497,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Valproinsäure[1] oder Clostridium botulinum Toxin Typ A[2] [1] Entsprechend Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie: wenn eine Behandlung mit allen anderen dafür zugelassenen Arzneimitteln nicht erfolgreich war oder kontraindiziert ist. [2] Entsprechend der Zulassung nur für die chronische Migräne.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5181,10 +5514,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil für die Reduktion der Migränetage pro Monat und mittlere Veränderung der Kopfschmerztage pro Monat)
+- Lebensqualität: &uarr; (Vorteil für allgemeine Beeinträchtigung durch Kopfschmerz, Einschränkung der Rollenfunktion und Emotionale Verfassung)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -5210,10 +5543,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metoprolol oder Propranolol oder Flunarizin oder Topiramat oder Amitriptylin unter Berücksichtigung der Zulassung und der Vortherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5227,10 +5560,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Valproinsäure[1] oder Clostridium botulinum Toxin Typ A[2] [1 ] Entsprechend Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie: wenn eine Behandlung mit allen anderen dafür zugelassenen Arzneimitteln nicht erfolgreich war oder kontraindiziert ist. [2] Entsprechend der Zulassung nur für die chronische Migräne.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5244,10 +5577,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile für Reduktion der Migränetage, Migränestunden und Kopfschmerztage pro Monat und in der "Veränderung des Migränezustands unter Therapie".)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -5273,9 +5606,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Auswahl von- Abirateron in Kombination mit Prednison oder Prednisolon,- Enzalutamid,- Cabazitaxel,- Olaparib,- Best-Supportive-Care,unter Berücksichtigung der Vortherapien, der Komorbidität, des Allgemeinzustandes sowie des BRCA1/2-Mutationsstatus.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil bei dem Endpunkt symptomatisches skelettbezogenes Ereignis.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteile in SUEs. Im Detail Vor- und Nachteile in einzelnen spezifischen UEs.)
 
 ---
 
@@ -5289,10 +5623,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Auswahl von- Abirateron in Kombination mit Prednison oder Prednisolon,- Enzalutamid,- Cabazitaxel,- Olaparib,- Best-Supportive-Care,unter Berücksichtigung der Vortherapien, der Komorbidität, des Allgemeinzustandes sowie des BRCA1/2-Mutationsstatus.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5318,10 +5652,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Fumarsäureester oder Ciclosporin oder Methotrexat oder Phototherapie (NB-UV-B, Photosoletherapie) oder Secukinumab Die jeweilige Zulassung der Arzneimittel ist zu berücksichtigen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteile bei der Remission und bei der Response.)
+- Lebensqualität: &uarr;&uarr; (Vorteile bei der krankheitsbezogenen als auch bei der generischen (körperlicher Summenscore) gesundheitsbezogenen Lebensqualität.)
+- Nebenwirkungen: &uarr;&uarr; (Voteile beim Therapieabbruch aufgrund von UE und bei den UE "Erkrankungen des Gastrointestinaltrakts“ sowie „Hitzegefühl“.)
 
 ---
 
@@ -5335,10 +5669,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab oder Infliximab oder Secukinumab oder Ustekinumab Die jeweilige Zulassung der Arzneimittel ist zu berücksichtigen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteile bei der Remission, bei der Response, und bei der patientenberichteten Symptomatik.)
+- Lebensqualität: &uarr;&uarr; (Vorteile bei der krankheitsbezogenen als auch bei der generischen gesundheitsbezogenen Lebensqualität.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -5351,6 +5685,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** ein TNF-alpha-Antagonist (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab) oder ein Interleukin-Inhibitor (Ixekizumab oder Secukinumab oder Ustekinumab), ggf. in Kombination mit Methotrexat
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+
 ---
 
 ###### Patientengruppe 1111
@@ -5361,6 +5701,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** der Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab oder Ixekizumab oder Secukinumab oder Ustekinumab), ggf. in Kombination mit Methotrexat
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
 
 ---
 
@@ -5385,6 +5731,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle, optimierte Chemotherapie nach Maßgabe des Arztes unter Beachtung des Zulassungsstatus, bevorzugt in Kombination mit Rituximab sofern angezeigt.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 392
@@ -5397,7 +5749,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Idelalisib oder Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -5411,7 +5766,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben unter Evidenzübertragung der Ergebnisse von vorbehandelten auf unbehandelte Patienten.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -5425,10 +5783,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle, optimierte Therapie nach Maßgabe des Arztes, grundsätzlich unter Beachtung des jeweiligen Zulassungsstatus. Außerhalb der Zulassung: Unter Beachtung von Anlage VI, Teil A, Nr. VI der Arzneimittelrichtlinie (Off-Label Use): Fludarabin in Kombination mit Cyclophosphamid, Mitoxantron und Rituximab (FCM-R) bei geeigneten Patienten mit niedrig oder intermediär malignen Non-Hodgkin-Lymphomen der B-Zellreihe (CD20 positive NHL, u. a. lymphozytisch, lymphoplasmozytisch, lymphoplasmazytoid, follikulär Grad 1 oder 2, Mantelzell-, Marginalzonen-, nicht multiples Myelom, nicht Haarzellleukämie) und Resistenz auf CHOP (mit oder ohne Rituximab).
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteil im Endpunkt Gesundheitszustand)
+- Lebensqualität: &uarr; (Vorteil in der generischen und der spezifischen Skala des FACT-Lym.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile in den Endpunkten SUE und schwere UE (CTCAE Grad 3/4) und Therapieabbruch aufgrund von UE.)
 
 ---
 
@@ -5442,10 +5800,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle, optimierte Therapie nach Maßgabe des Arztes, grundsätzlich unter Beachtung des jeweiligen Zulassungsstatus. Außerhalb der Zulassung: Unter Beachtung von Anlage VI, Teil A, Nr. VI der Arzneimittelrichtlinie (Off-Label Use): Fludarabin in Kombination mit Cyclophosphamid, Mitoxantron und Rituximab (FCM-R) bei geeigneten Patienten mit niedrig oder intermediär malignen Non-Hodgkin-Lymphomen der B-Zellreihe (CD20 positive NHL, u. a. lymphozytisch, lymphoplasmozytisch, lymphoplasmazytoid, follikulär Grad 1 oder 2, Mantelzell-, Marginalzonen-, nicht multiples Myelom, nicht Haarzellleukämie) und Resistenz auf CHOP (mit oder ohne Rituximab).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5459,9 +5817,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle optimierte Therapie nach Maßgabe des Arztes, grundsätzlich unter Beachtung des Zulassungsstatus, sowie unter Beachtung von Anlage VI der Arzneimittelrichtlinie (Off-Label Use).
 
 **Hauptergebnisse:**
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5475,10 +5834,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Fludarabin in Kombination mit Cyclophosphamid und Rituximab (FCR)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5492,7 +5851,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Chemo-Immuntherapie nach Maßgabe des Arztes unter Berücksichtigung des Zulassungsstatus
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -5504,6 +5866,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -5517,10 +5885,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle, optimierte Chemotherapie nach Maßgabe des Arztes unter Beachtung des Zulassungsstatus, bevorzugt in Kombination mit Rituximab sofern angezeigt.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &uarr; (Vorteil in der Funktionsskala soziale Funktion.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -5534,10 +5902,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle, optimierte Chemotherapie nach Maßgabe des Arztes unter Beachtung des Zulassungsstatus, bevorzugt in Kombination mit Rituximab sofern angezeigt.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5549,6 +5917,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Berücksichtigung des Allgemeinzustands und ggf. von Vortherapien.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Morbidität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Lebensqualität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Nebenwirkungen: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
 
 ---
 
@@ -5562,10 +5936,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Fludarabin in Kombination mit Cyclophosphamid und Rituximab (FCR)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5579,10 +5953,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Bendamustin in Kombination mit Rituximab oder Chlorambucil in Kombination mit Rituximab oder Obinutuzumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten SUE und schwere UE (CTCAE-Grad ≥ 3).)
 
 ---
 
@@ -5596,10 +5970,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ibrutinib
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5613,10 +5987,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Fludarabin in Kombination mit Cyclophosphamid und Rituximab (FCR)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Kein statistisch signifikanter Unterschied.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Überwiegend Vorteile bei schweren UEs, Abbruch wegen UEs und spezifischen UEs.)
 
 ---
 
@@ -5630,10 +6004,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Bendamustin in Kombination mit Rituximab oder - Chlorambucil in Kombination mit Rituximab oder Obinutuzumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5647,10 +6021,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ibrutinib
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5664,10 +6038,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Ibrutinib oder - Ibrutinib in Kombination mit Rituximab oder Obinutuzumab oder - Fludarabin in Kombination mit Cyclophosphamid und Rituximab [FCR] (nur für Patientinnen und Patienten ohne Vorliegen genetischer Risikofaktoren und < 65 Jahren, die anhand ihres Allgemeinzustandes und ihrer Komorbiditäten für eine Therapie mit FCR geeignet sind) oder - Bendamustin in Kombination mit Rituximab (nur für Patientinnen und Patienten ohne Vorliegen genetischer Risikofaktoren und die entsprechend der obigen Kriterien nicht für eine Therapie mit FCR geeignet sind) oder - Chlorambucil in Kombination mit Rituximab oder Obinutuzumab (nur für Patientinnen und Patienten ohne Vorliegen genetischer Risikofaktoren und die entsprechend der obigen Kriterien nicht für eine Therapie mit FCR geeignet sind)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; Nachteil im Endpunkt Diarrhö.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -5681,10 +6055,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Ibrutinib oder - Ibrutinib in Kombination mit Rituximab oder Obinutuzumab oder - Fludarabin in Kombination mit Cyclophosphamid und Rituximab [FCR] (nur für Patientinnen und Patienten ohne Vorliegen genetischer Risikofaktoren und < 65 Jahren, die anhand ihres Allgemeinzustandes und ihrer Komorbiditäten für eine Therapie mit FCR geeignet sind) oder - Bendamustin in Kombination mit Rituximab (nur für Patientinnen und Patienten ohne Vorliegen genetischer Risikofaktoren und die entsprechend der obigen Kriterien nicht für eine Therapie mit FCR geeignet sind) oder - Chlorambucil in Kombination mit Rituximab oder Obinutuzumab (nur für Patientinnen und Patienten ohne Vorliegen genetischer Risikofaktoren und die entsprechend der obigen Kriterien nicht für eine Therapie mit FCR geeignet sind)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5710,10 +6084,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &Oslash;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede; im Detail Nachteil im Endpunkt immunvermittelte unerwünschte Ereignisse.)
 
 ---
 
@@ -5727,7 +6101,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dacarbazin
 
 **Hauptergebnisse:**
-- Morbidität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -5740,6 +6117,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Vemurafenib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 693
@@ -5750,6 +6133,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Vemurafenib in Kombination mit Cobimetinib oder - Dabrafenib in Kombination mit Trametinib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -5763,10 +6152,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Pembrolizumab oder - Nivolumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;&darr;
-- Lebensqualität: &darr;&darr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &darr;&darr; (Nachteil im Endpunkt Obstipation.)
+- Lebensqualität: &darr;&darr; (Nachteil im Endpunkt kognitive Funktion.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse, schwere unerwünschte Ereignisse (CTCAE-Grad 3-4) und Therapieabbruch wegen unerwünschter Ereignisse.)
 
 ---
 
@@ -5780,10 +6169,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie nach Maßgabe des behandelnden Arztes in Abhängigkeit von der jeweiligen Vortherapie und unter Berücksichtigung des Zulassungsstatus (hiervon ausgenommen: Dacarbazin und Lomustin).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5795,6 +6184,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Therapie nach Maßgabe des Arztes
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -5808,10 +6203,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Bevacizumab in Kombination mit Interferon alfa-2a oder − Monotherapie mit Pazopanib oder − Monotherapie mit Sunitinib
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil bezüglich der krankheitsbedingten Symptomatik (FKSI-DRS).)
+- Lebensqualität: &uarr; (Vorteil bezüglich der gesundheitsbezogenen Lebensqualität (FACT-G Gesamtscore).)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende UE und Therapieabbrüche aufgrund von UE, Vorteil im Endpunkt schwere UE (CTCAE-Grad 3-4). Im Detail Vor- und Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -5825,10 +6220,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Sunitinib oder − Temsirolimus
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil im Endpunkt schwere UE (CTCAE-Grad 3-4). Im Detail Vor- und Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -5842,10 +6237,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Pembrolizumab als Monotherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5859,10 +6254,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder - Carboplatin in Kombination mit nab-Paclitaxel oder - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patienten mit nicht-plattenepithelialer Histologie) oder - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur für Patienten mit plattenepithelialer Histologie)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Endpunkt Gesamtüberleben)
+- Morbidität: &uarr; (Vorteil im Endpunkt Gesundheitszustand)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten SUE, schwere UE (CTCAE Grad ≥3), Therapieabbruch wegen UE, im Detail in den Endpunkten immunvermittelte UE sowie weitere spezifische UE)
 
 ---
 
@@ -5888,10 +6283,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Fumarsäureester oder Ciclosporin oder Methotrexat oder Phototherapie (Balneophototherapie, orale PUVA, NB-UV-B). Die jeweilige Zulassung der Arzneimittel ist zu berücksichtigen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteil bei der Remission, Response, und bei den Symptomen Erscheinungsfreiheit (Gesicht/Hals), Hautschmerz und Juckreiz.)
+- Lebensqualität: &uarr;&uarr; (Vorteil bei der krankheitsspezifischen gesundheitsbezogenen Lebensqualität.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil bei den Therapieabbrüchen aufgrund von UE.)
 
 ---
 
@@ -5905,10 +6300,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab oder Infliximab oder Ustekinumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteil bei der Remission und Response.)
+- Lebensqualität: &uarr;&uarr; (Vorteil bei der krankheitsspezifischen gesundheitsbezogenen Lebensqualität.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Im Detail Nachteil bei "Allgemeinen Erkrankungen und Beschwerden am Verabreichungsort.")
 
 ---
 
@@ -5922,10 +6317,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Leflunomid
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5939,10 +6334,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** TNF-alpha-Hemmer (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab) ggf. in Kombination mit Methotrexat
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteile bei der Hautsymptomatik (Remission und Response) und Anzahl druckschmerzhafter Sehnenansatzpunkte (Enthesitis).)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil bei „allgemeine Erkrankungen und Beschwerden am Verabreichungsort“.)
 
 ---
 
@@ -5956,10 +6351,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** der Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab oder Secukinumab oder Ustekinumab) ggf. in Kombination mit Methotrexat
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -5972,6 +6367,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** ein TNF-α-Inhibitor (Etanercept oder Adalimumab oder Infliximab oder Golimumab oder Certolizumab pegol) oder ein IL17-Inhibitor (Secukinumab)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+
 ---
 
 ###### Patientengruppe 1020
@@ -5982,6 +6383,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** der Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum: TNF-α-Inhibitor (Adalimumab oder Certolizumab pegol oder Etanercept oder Golimumab oder Infliximab) oder IL17-Inhibitor (Secukinumab)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
 
 ---
 
@@ -5994,6 +6401,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** ein TNF-α-Inhibitor (Etanercept oder Adalimumab oder Golimumab oder Certolizumab pegol)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+
 ---
 
 ###### Patientengruppe 912
@@ -6004,6 +6417,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Adalimumab oder Etanercept oder Ustekinumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
 
 ---
 
@@ -6028,9 +6447,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil im dauerhaften virologischen Ansprechen.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -6044,9 +6464,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil im dauerhaften virologischen Ansprechen.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -6060,9 +6481,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil im dauerhaften virologischen Ansprechen.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -6076,10 +6498,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -6093,10 +6515,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -6110,9 +6532,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil im dauerhaften virologischen Ansprechen.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch die Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -6126,8 +6549,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil im dauerhaften virologischen Ansprechen.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -6141,10 +6566,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ribavirin plus Peginterferon alfa Die Angaben der Fachinformationen der Kombinationspartner der zweckmäßigen Vergleichstherapie sind zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf. Für die Genotypen 4, 5 und 6 liegen keine Daten vor.)
+- Morbidität: &uarr; (Vorteil für dauerhaftes virologisches Ansprechen, bei den Genotypen 4, 5 und 6 unter Berücksichtigung des Evidenztransfers.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil für unerwünschte Ereignisse, bei den Genotypen 4, 5 und 6 unter Berücksichtigung des Evidenztransfers.)
 
 ---
 
@@ -6158,10 +6583,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ribavirin plus Peginterferon alfa Die Angaben der Fachinformationen der Kombinationspartner der zweckmäßigen Vergleichstherapie sind zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -6175,10 +6600,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf. Für die Genotypen 4, 5 und 6 liegen keine Daten vor.)
+- Morbidität: &uarr; (Vorteil für dauerhaftes virologisches Ansprechen, bei den Genotypen 4, 5 und 6 unter Berücksichtigung des Evidenztransfers.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil für unerwünschte Ereignisse (für Genotyp 1; für die Genotypen 4, 5 und 6 liegen keine Daten vor).)
 
 ---
 
@@ -6192,10 +6617,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -6209,7 +6634,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine vergleichenden Daten vor; es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteile im dauerhaften virologischen Ansprechen; bei den Genotypen 5 und 6 Vorteile unter Berücksichtigung der Evidenz bei Erwachsenen.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine vergleichenden Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine vergleichenden Daten vor; kein Anhaltspunkt für relevante Nachteile.)
 
 ---
 
@@ -6221,6 +6649,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Beobachtendes Abwarten
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -6246,10 +6680,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sorafenib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil im Endpunkt Diarrhö.)
+- Lebensqualität: &harr; (Vorteile bei Rollenfunktion, Körperbild und Ernährung; Nachteil für kognitive Funktion (westliche Regionen); insgesamt kein überwiegender Vor- oder Nachteil.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -6263,10 +6697,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -6278,6 +6712,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Sorafenib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -6291,9 +6731,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Nivolumab oder Cabozantinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -6306,6 +6747,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Pembrolizumab in Kombination mit Axitinib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1557
@@ -6316,6 +6763,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Avelumab in Kombination mit Axitinib (nur für Patientinnen und Patienten mit ungünstigem Risikoprofil) oder - Nivolumab in Kombination mit Ipilimumab oder - Pembrolizumab in Kombination mit Axitinib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -6329,10 +6782,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Die Wirkstoffe Carboplatin und Paclitaxel stellen geeignete Komparatoren für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach ärztlicher Maßgabe dar. Diese Arzneimittel sind jedoch in dem vorliegenden Anwendungsgebiet nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &uarr; (Vorteile bei Dyspnoe, Lymphödem, Kribbel-/Taubheitsgefühl, Geschmacksveränderung sowie Haarausfall, Nachteil bei Diarrhö)
+- Lebensqualität: &harr; (In der Gesamtschau aller Ergebnisse kein für die Nutzenbewertung relevanter Unterschied; für den Endpunkt „negatives Körperbild“ zeigt sich ein positiver Effekt)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende UE und Therapieabbruch wegen UE, im Detail überwiegend Nachteile bei spezifischen UE)
 
 ---
 
@@ -6357,6 +6810,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung der Lymphom-Subentität, der Biologie der Erkrankung, der Vortherapie, des Krankheitsverlaufs und des Allgemeinzustandes
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1817
@@ -6369,9 +6828,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Induktionstherapie mit • R-GDP (Rituximab, Gemcitabin, Cisplatin, Dexamethason) oder • R-ICE (Rituximab, Ifosfamid, Carboplatin, Etoposid) oder • R-DHAP (Rituximab, Dexamethason, Cytarabin, Cisplatin) gefolgt von einer Hochdosistherapie mit autologer oder allogener Stammzelltransplantation bei Ansprechen auf die Induktionstherapie
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr;&uarr; (Vorteil im Endpunkt Scheitern des kurativen Therapieansatzes (Ereignisrate und Ereignisfreies Überleben))
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede. Im Detail Vor- und Nachteile bei spezifischen UE.)
 
 ---
 
@@ -6385,10 +6845,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Berücksichtigung von • Polatuzumab in Kombination mit Bendamustin und Rituximab und • Tafasitamab in Kombination mit Lenalidomid
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten zur Mortalität vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten zur Morbidität vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten zur Lebensqualität vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten zu Nebenwirkungen vorgelegt.)
 
 ---
 
@@ -6402,10 +6862,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Pembrolizumab Monotherapie oder • Nivolumab in Kombination mit Brentuximab Vedotin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten zur Mortalität vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten zur Morbidität vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten zur Lebensqualität vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten zu Nebenwirkungen vorgelegt.)
 
 ---
 
@@ -6430,10 +6890,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Bestmögliche symptomatische Therapie (BST) (insbesondere Antibiotika bei pulmonalen Infektionen, Mukolytika, Pankreasenzyme bei Pankreasinsuffizienz, Physiotherapie (i. S. der Heilmittel-RL)), unter Ausschöpfung aller möglicher diätetischer Maßnahmen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil bei Lung Clearance Index (LCI2,5).)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -6447,9 +6907,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteil hinsichtlich pulmonaler Exazerbationen.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -6463,10 +6924,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede, auch unter Berücksichtigung der Ergebnisse bei Personen ≥ 6 bis < 12 Jahren und ≥ 12 Jahren.)
+- Morbidität: &uarr; (Vorteil im BMI z-Score, sowie Vorteile unter Berücksichtigung der Ergebnisse bei Personen ≥ 6 bis < 12 Jahren und ≥ 12 Jahren.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Berücksichtigung der Ergebnisse bei Personen ≥ 6 bis < 12 Jahren und ≥ 12 Jahren.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede, auch unter Berücksichtigung der Ergebnisse bei Personen ≥ 6 bis < 12 Jahren und ≥ 12 Jahren.)
 
 ---
 
@@ -6480,10 +6941,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von älteren Patientinnen und Patienten mit homozygoter F508del-Mutation)
+- Morbidität: &uarr; (Vorteil unter Evidenzübertragung der Ergebnisse von älteren Patientinnen und Patienten mit homozygoter F508del-Mutation)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von älteren Patientinnen und Patienten mit homozygoter F508del-Mutation)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von älteren Patientinnen und Patienten mit homozygoter F508del-Mutation)
 
 ---
 
@@ -6507,9 +6968,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Berücksichtigung von nicht-vasodilatierenden Betablockern, Verapamil und Diltiazem
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteile bei der Symptomatik (HCMSQ Gesamtscore sowie PGIC und PGIS).)
+- Lebensqualität: &uarr; (Vorteile bei der gesundheitsbezogenen Lebensqualität (KCCQ-OSS).)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 
 #### Mepolizumab
@@ -6532,6 +6994,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** eine patientenindividuelle Therapieeskalation der mittel- bis hochdosierten inhalativen Corticosteroide und der langwirksamen Bronchodilatatoren (LABA) ggf. mit oralen Corticosteroiden (kurzzeitig) in der niedrigst-wirksamen Dosis oder mit Tiotropium oder ggf. bei IgE-vermittelter Pathogenese des Asthmas Omalizumab zusätzlich zu hochdosierten inhalativen Corticosteroiden und langwirksamen Bronchodilatatoren (LABA) und ggf. der oralen Corticosteroidtherapie.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 390
@@ -6544,10 +7012,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine patientenindividuelle Therapieeskalation der mittel- bis hochdosierten inhalativen Corticosteroide und der langwirksamen Bronchodilatatoren (LABA) ggf. mit oralen Corticosteroiden (kurzzeitig) in der niedrigst-wirksamen Dosis oder mit Tiotropium oder ggf. bei IgE-vermittelter Pathogenese des Asthmas Omalizumab zusätzlich zu hochdosierten inhalativen Corticosteroiden und langwirksamen Bronchodilatatoren (LABA) und ggf. der oralen Corticosteroidtherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil in der Reduktion oraler Glucocorticoide auf ≤ 5 mg/Tag.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -6560,6 +7028,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Berücksichtigung des Schweregrads der Erkrankung (Organ- oder lebensbedrohliche Manifestation), der Symptomatik, der Behandlungsphase und des Krankheitsverlaufs
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1347
@@ -6571,6 +7045,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Fortführung der optimierten Therapie des schweren Asthmas nach Stufe 5 Nationalen Versorgungsleitlinie Asthma (NVL Asthma 2018, 3. Auflage, Version 1) und zusätzlich eine Eskalation mit Omalizumab, sofern die für die Anwendung von Omalizumab notwendigen Kriterien erfüllt sind.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1359
@@ -6581,6 +7061,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Dupilumab oder Omalizumab, jeweils in Kombination mit intranasalen Kortikosteroiden (Budesonid oder Mometasonfuroat)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -6594,10 +7080,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (kein statistisch signifikanter Unterschied)
+- Morbidität: &uarr; (Vorteile in den Endpunkten klinisch manifestierte HES-Schübe und Aktivitätsbeeinträchtigung)
+- Lebensqualität: &uarr; (Vorteil im körperlichen Summenscore des SF-36)
+- Nebenwirkungen: &harr; (kein statistisch signifikanter Unterschied)
 
 ---
 
@@ -6623,10 +7109,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Chemotherapie mit Docetaxel oder Pemetrexed oder - Gefitinib oder Erlotinib (nur für Patienten mit aktivierenden EGFR-Mutationen) oder - Crizotinib (nur für Patienten mit aktivierenden ALK-Mutationen)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Vorteil in der Symptomskala Schmerz (Arm/Schulter), Nachteile in den Symptomskalen Diarrhoe sowie Übelkeit und Erbrechen.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -6640,10 +7126,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Pirfenidon (nur für Patientinnen oder Patienten mit leichter bis mittelschwerer idiopathischer Lungenfibrose entsprechend der Zulassung) oder Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relavanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in der Zeit bis zur ersten adjudizierten akuten Exazerbation und bei der Veränderung des respiratorischen Zustandes.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil bei Erkrankungen des Gastrointestinaltrakts.)
 
 ---
 
@@ -6657,10 +7143,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &darr; (Nachteil bei Darmprobleme (zumindest teilweise auf die Nebenwirkungen von Nintedanib zurückzuführen))
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr;&darr; (Nachteil im Endpunkt Therapieabbrüche aufgrund UE, sowie im Detail bei den spezifischen UEs)
 
 ---
 
@@ -6674,9 +7160,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil für akute Exazerbationen oder Tod)
+- Lebensqualität: Nicht bewertbar (Die vorgelegten Daten sind nicht bewertbar.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt Therapieabbrüche aufgrund UE, sowie im Detail bei den spezifischen UEs)
 
 ---
 
@@ -6701,10 +7188,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** – Abirateronacetat in Kombination mit Prednison oder Prednisolon (nur für Patienten, deren Erkrankung während oder nach einer Docetaxel-haltigen Chemotherapie progredient ist; nur für Patienten mit asymptomatischem oder mild symptomatischem Verlauf der Erkrankung nach Versagen der Androgenentzugstherapie, bei denen eine Chemotherapie noch nicht klinisch indiziert ist) oder – Enzalutamid (nur für Patienten, deren Erkrankung während oder nach einer Chemotherapie mit Docetaxel fortschreitet; nur für Patienten mit asymptomatischem oder mild symptomatischem Verlauf der Erkrankung nach Versagen der Androgenentzugstherapie, bei denen eine Chemotherapie noch nicht klinisch indiziert ist) oder – Olaparib als Monotherapie (nur für Patienten, deren Erkrankung nach vorheriger Behandlung, die eine neue hormonelle Substanz (new hormonal agent) umfasste, progredient ist) oder – Olaparib in Kombination mit Abirateronacetat und Prednison oder Prednisolon
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil im Endpunkt symptomatische Progression.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -6718,10 +7205,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von – Abirateronacetat in Kombination mit Prednison oder Prednisolon (nur für Patienten, deren Erkrankung während oder nach einer Docetaxel-haltigen Chemotherapie progredient ist), – Enzalutamid (nur für Patienten, deren Erkrankung während oder nach einer Chemotherapie mit Docetaxel fortschreitet) und – Olaparib als Monotherapie (nur für Patienten, deren Erkrankung nach vorheriger Behandlung, die eine neue hormonelle Substanz (new hormonal agent) umfasste, progredient ist) unter Berücksichtigung der Vortherapie(n).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -6744,9 +7231,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
+- Mortalität: &uarr; (Vorteil in der Gesamtmortalität)
+- Morbidität: &uarr; (Vorteile bei den Endpunkten schwere COVID-19, Bedarf intensiv-medizinischer Betreuung aufgrund jeglicher Ursache und Linderung von COVID-19-Symptomen bis Tag 28)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 
 #### Nivolumab
@@ -6770,8 +7258,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie nach Maßgabe des Arztes (Chemotherapie, Strahlentherapie und/oder Operation; bei medikamentöser Therapie unter Beachtung der jeweiligen Zulassung).
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -6785,10 +7275,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie nach Maßgabe des Arztes (Chemotherapie, Strahlentherapie und/oder Operation; bei medikamentöser Therapie unter Beachtung der jeweiligen Zulassung).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -6800,6 +7290,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Vemurafenib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -6813,8 +7309,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dacarbazin oder Ipilimumab
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile in den Endpunkten schwerwiegende unerwünschte Ereignisse, schwere unerwünschte Ereignisse (CTCAE-Grad 3 und 4) und Therapieabbruch wegen unerwünschter Ereignisse.)
 
 ---
 
@@ -6826,6 +7324,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie nach Maßgabe des behandelnden Arztes unter Berücksichtigung des Zulassungsstatus und der jeweiligen Vortherapie.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -6839,8 +7343,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile in den Endpunkten SUE, schwere UE (CTCAE-Grade 3 und 4) sowie Therapieabbruch aufgrund unerwünschter Ereignisse.)
 
 ---
 
@@ -6854,10 +7360,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -6871,10 +7377,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sunitinib
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -6888,9 +7394,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Everolimus
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile bezüglich krankheistbedingter Symptomaitk (FKSI-DRS) und Gesundheitszustand (EQ-5D VAS).)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten schwere UE (CTCAE Grad 3-4) und Therapieabbrüche aufgrund von UE.)
 
 ---
 
@@ -6904,9 +7411,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Docetaxel oder Pemetrexed oder - Gefitinib oder Erlotinib (nur für Patienten mit aktivierenden EGFR-Mutationen, die noch nicht mit Afatinib, Gefitinib oder Erlotinib vorbehandelt wurden) oder - Crizotinib (nur für Patienten mit aktivierenden ALK-Mutationen, die noch nicht mit Crizotinib vorbehandelt wurden)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile in Krankheitsymptomatik und Gesundheitszustand.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile in den Endpunkten SUE, schwere UE (CTCAE-Grade 3 und 4) sowie Therapieabbruch aufgrund unerwünschter Ereignisse.)
 
 ---
 
@@ -6920,10 +7428,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -6936,6 +7444,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Vemurafenib oder Vemurafenib plus Cobimetinib oder Dabrafenib plus Trametinib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 464
@@ -6946,6 +7460,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie nach Maßgabe des behandelnden Arztes unter Berücksichtigung des Zulassungsstatus und der jeweiligen Vortherapie
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -6959,7 +7479,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach Maßgabe des Arztes unter Berücksichtigung der Zulassung und der Vortherapien
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -6973,8 +7496,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Vinflunin oder • eine erneute Cisplatin-basierte Chemotherapie (für Patienten die, abhängig von Krankheitsverlauf, Allgemeinzustand und Verträglichkeit der Erstlinientherapie, für eine solche in Frage kommen)
 
 **Hauptergebnisse:**
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -6988,10 +7513,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Nivolumab oder Pembrolizumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;&darr;
-- Lebensqualität: &darr;&darr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &darr;&darr; (Nachteil im Endpunkt Obstipation.)
+- Lebensqualität: &darr;&darr; (Nachteil im Endpunkt kognitive Funktion.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse, schwere unerwünschte Ereignisse (CTCAE-Grad 3-4) und Therapieabbruch wegen unerwünschter Ereignisse.)
 
 ---
 
@@ -7005,10 +7530,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Bevacizumab in Kombination mit Interferon alfa-2a oder − Monotherapie mit Pazopanib oder − Monotherapie mit Sunitinib
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil bezüglich der krankheitsbedingten Symptomatik (FKSI-DRS).)
+- Lebensqualität: &uarr; (Vorteil bezüglich der gesundheitsbezogenen Lebensqualität (FACT-G Gesamtscore).)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende UE und Therapieabbrüche aufgrund von UE, Vorteil im Endpunkt schwere UE (CTCAE-Grad 3-4). Im Detail Vor- und Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -7022,10 +7547,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Sunitinib oder − Temsirolimus
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil im Endpunkt schwere UE (CTCAE-Grad 3-4). Im Detail Vor- und Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -7039,10 +7564,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Pembrolizumab als Monotherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -7056,10 +7581,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder - Carboplatin in Kombination mit nab-Paclitaxel oder - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patienten mit nicht-plattenepithelialer Histologie) oder - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur für Patienten mit plattenepithelialer Histologie)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Endpunkt Gesamtüberleben)
+- Morbidität: &uarr; (Vorteil im Endpunkt Gesundheitszustand)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten SUE, schwere UE (CTCAE Grad ≥3), Therapieabbruch wegen UE, im Detail in den Endpunkten immunvermittelte UE sowie weitere spezifische UE)
 
 ---
 
@@ -7073,9 +7598,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Chemotherapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil bei den schweren UEs und im Detail bei den spezifischen UEs)
 
 ---
 
@@ -7089,10 +7615,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -7106,8 +7632,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Pembrolizumab (nur für Patienten im Tumorstadium III nach vollständiger Resektion) oder − Dabrafenib in Kombination mit Trametinib (nur für Patienten mit BRAF-V600-Mutation-positivem Melanom im Tumorstadium III nach vollständiger Resektion) oder − Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Morbidität: &uarr; (Vorteil bei Rezidiven und rezidivfreiem Überleben.)
+- Lebensqualität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Nebenwirkungen: &darr; (Nachteil bei Therapieabbrüchen aufgrund von UE.)
 
 ---
 
@@ -7120,6 +7648,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Pembrolizumab in Kombination mit Axitinib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1288
@@ -7130,6 +7664,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** • Avelumab in Kombination mit Axitinib (nur für Patienten mit ungünstigem Risikoprofil) oder • Nivolumab in Kombination mit Ipilimumab oder • Pembrolizumab in Kombination mit Axitinib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -7143,10 +7683,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Neben Cisplatin in Kombination mit Pemetrexed stellen auch Carboplatin in Kombination mit Pemetrexed und Cisplatin in Kombination mit Pemetrexed und Bevacizumab geeignete Komparatoren für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach ärztlicher Maßgabe dar. Carboplatin und Bevacizumab sind jedoch im vorliegenden Anwendungsgebiet nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil bezüglich Symptomatik.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteil im Endpunkt SUE; im Detail Vor- und Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -7160,10 +7700,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Neben Cisplatin in Kombination mit Pemetrexed stellen auch Carboplatin in Kombination mit Pemetrexed und Cisplatin in Kombination mit Pemetrexed und Bevacizumab geeignete Komparatoren für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach ärztlicher Maßgabe dar. Carboplatin und Bevacizumab sind jedoch im vorliegenden Anwendungsgebiet nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile bezüglich Symptomatik und im Endpunkt Gesundheitszustand.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; im Detail Vor- und Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -7175,6 +7715,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie in Abhängigkeit von der Art und Anzahl der Vortherapien, des RAS- und BRAF-Mutationsstatus, der Lokalisation des Primärtumors, des Allgemeinzustandes und des Risikos der durch anti-VEGF und anti-VEGFR Substanzen induzierten Toxizität unter Auswahl von: - 5-Fluorouracil + Folinsäure + Irinotecan (FOLFIRI) ± Bevacizumab oder Aflibercept oder Ramucirumab - 5-Fluorouracil + Folinsäure + Irinotecan (FOLFIRI) ± Cetuximab oder Panitumumab (nur für Patientinnen und Patienten mit RAS Wildtyp) - 5-Fluorouracil + Folinsäure + Oxaliplatin (FOLFOX) ± Bevacizumab - Capecitabin + Oxaliplatin (CAPOX) ± Bevacizumab - 5-Fluorouracil + Folinsäure ± Bevacizumab - Capecitabin ± Bevacizumab - Irinotecan als Monotherapie - Panitumumab als Monotherapie (nur für Patientinnen und Patienten mit RAS Wildtyp) - Cetuximab als Monotherapie (nur für Patientinnen und Patienten mit RAS Wildtyp) - Trifluridin/Tipiracil - Irinotecan + Cetuximab (nur für Patientinnen und Patienten mit RAS Wildtyp) - Encorafenib + Cetuximab (nur für Patientinnen und Patienten mit BRAF-V600E Mutation)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -7188,10 +7734,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &uarr;&uarr; (Vorteil bei den Rezidiven.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr;&darr; (Nachteil im Abbruch wegen UE und im Detail Nachteile bei spezifischen UE.)
 
 ---
 
@@ -7205,9 +7751,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten)
+- Lebensqualität: &uarr; (Vorteil in dem Endpunkt FACT-Ga)
+- Nebenwirkungen: &darr; (Nachteile in dem Endpunkt Abbruch wegen UE sowie im Detail bei spezifischen UE)
 
 ---
 
@@ -7221,10 +7768,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Cisplatin + Gemcitabin oder - Cisplatin + Methotrexat
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -7238,10 +7785,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &uarr; (Vorteile in den Endpunkten Rezidive (Rezidivrate und krankheitsfreies Überleben) und Gesundheitszustand.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt Therapieabbruch aufgrund von UE. Im Detail Vorteile und Nachteile bei spezifischen unerwünschten Ereignissen.)
 
 ---
 
@@ -7255,10 +7802,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Cisplatin in Kombination mit 5-Fluorouracil
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil für den Endpunkt Therapieabbrüche aufgrund von UE. Im Detail Vorteile in spezifischen UE.)
 
 ---
 
@@ -7272,10 +7819,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Cisplatin in Kombination mit 5-Fluorouracil
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil für den Endpunkt SUE. Im Detail Vorteile und Nachteile in spezifischen UE.)
 
 ---
 
@@ -7289,10 +7836,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Pembrolizumab (Monotherapie)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -7306,10 +7853,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Pembrolizumab (Monotherapie) oder - Nivolumab (Monotherapie)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -7323,10 +7870,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Pembrolizumab (Monotherapie)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -7340,10 +7887,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von ▪ präoperativer (neoadjuvanter) systemischer Chemotherapie unter Auswahl von - Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) und - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) und ▪ simultaner Strahlenchemotherapie mit Platin-basierter (Cisplatin oder Carboplatin) Kombinationschemotherapie. unter Berücksichtigung des Tumorstadiums, der Tumorhistologie, dem Vorliegen eines Pancoast-Tumors und der Erreichbarkeit einer R0-Resektion, sowie der Voraussetzungen für einen Einsatz von Carboplatin.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil im Endpunkt Scheitern des kurativen Therapieansatzes (Ereignisrate und Ereignisfreies Überleben).)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil im Endpunkt schwere UE (CTCAE-Grad ≥ 3). Im Detail Vorteile bei spezifischen UE.)
 
 ---
 
@@ -7356,6 +7903,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Pembrolizumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2047
@@ -7366,6 +7919,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Cisplatin in Kombination mit Gemcitabin gefolgt von Avelumab als Erhaltungstherapie (Erhaltungstherapie mit Avelumab nur für Patientinnen und Patienten, die progressionsfrei sind)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -7391,10 +7950,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt schwere UE (CTCAE Grad ≥ 3); im Detail Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -7408,8 +7967,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Capecitabin oder Vinorelbin oder Eribulin oder ggf. eine Anthrazyklin- oder Taxan-haltige Therapie
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied im Gesamtüberleben in der Gesamtpopulation der Studie.)
+- Morbidität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Lebensqualität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten schwere UE (CTCAE-Grad 3 oder 4) und Abbruch wegen UE sowie überwiegend Vorteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -7423,10 +7984,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &darr; (Nachteile im Endpunkt Übelkeit und Erbrechen)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -7440,10 +8001,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von Abirateron, Enzalutamid, Cabazitaxel und Docetaxel; unter Berücksichtigung der Vortherapien sowie unter Beachtung der Zulassung der jeweiligen Arzneimittel.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile bei den Schmerzen (stärkster Schmerz, Beeinträchtigung durch Schmerz) und den symptomatischen skelettbezogenen Ereignissen (Auftreten einer Rückenmarkskompression))
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Nachteile bei den spezifischen UEs (Anämie, Übelkeit))
 
 ---
 
@@ -7457,10 +8018,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteil bei der Vermeidung von Rezidiven.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwere UE (CTCAE-Grad ≥ 3) und Therapieabbruch wegen UE. Im Detail Nachteile bei spezifischen UE.)
 
 ---
 
@@ -7474,10 +8035,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die Fortführung der mit der Platin-basierten Erstlinien-Chemotherapie begonnenen Behandlung mit Bevacizumab.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Vorteile in den Endpunkten Schlaflosigkeit, hormonelle Symptome, Nebenwirkungen der Chemotherapie; Nachteile in den Endpunkten Übelkeit und Erbrechen, Appetitverlust; insgesamt kein überwiegender Vor- oder Nachteil.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil in dem Endpunkt Abbruch wegen UE. Im Detail überwiegend Nachteile bei spezifischen UE.)
 
 ---
 
@@ -7491,10 +8052,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** – Abirateronacetat in Kombination mit Prednison oder Prednisolon (nur für Patienten, deren Erkrankung während oder nach einer Docetaxel-haltigen Chemotherapie progredient ist; nur für Patienten mit asymptomatischem oder mild symptomatischem Verlauf der Erkrankung nach Versagen der Androgenentzugstherapie, bei denen eine Chemotherapie noch nicht klinisch indiziert ist) oder – Enzalutamid (nur für Patienten, deren Erkrankung während oder nach einer Chemotherapie mit Docetaxel fortschreitet; nur für Patienten mit asymptomatischem oder mild symptomatischem Verlauf der Erkrankung nach Versagen der Androgenentzugstherapie, bei denen eine Chemotherapie noch nicht klinisch indiziert ist) oder – Olaparib als Monotherapie (nur für Patienten mit BRCA1/2-Mutationen (in der Keimbahn und/oder somatisch), deren Erkrankung nach vorheriger Behandlung, die eine neue hormonelle Substanz (new hormonal agent) umfasste, progredient ist) oder ‒ Best-Supportive-Care (nur für Patienten mit reduziertem Allgemeinzustand (ECOG Performance Status ≥ 2))
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile bei symptomatischen skelettbezogenen Ereignissen, Beeinträchtigung durch Schmerz.)
+- Lebensqualität: &uarr; (Vorteil (FACT-P Gesamtscore).)
+- Nebenwirkungen: &darr; (Nachteile in schweren UE und Abbruch wegen UE. Im Detail Nachteile bei einzelnen spezifischen UEs.)
 
 ---
 
@@ -7506,6 +8067,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von ­ Abirateronacetat in Kombination mit Prednison oder Prednisolon (nur für Patienten, deren Erkrankung während oder nach einer Docetaxel-haltigen Chemotherapie progredient ist), ­ Enzalutamid (nur für Patienten, deren Erkrankung während oder nach einer Chemotherapie mit Docetaxel fortschreitet) und ­ Olaparib als Monotherapie (nur für Patienten, deren Erkrankung nach vorheriger Behandlung, die eine neue hormonelle Substanz (new hormonal agent) umfasste, progredient ist) unter Berücksichtigung der Vortherapie(n) und des BRCA1/2-Mutationsstatus.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine Daten vor.)
 
 ---
 
@@ -7519,10 +8086,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** – Abirateronacetat in Kombination mit Prednison oder Prednisolon (nur für Patienten, deren Erkrankung während oder nach einer Docetaxel-haltigen Chemotherapie progredient ist; nur für Patienten mit asymptomatischem oder mild symptomatischem Verlauf der Erkrankung nach Versagen der Androgenentzugstherapie, bei denen eine Chemotherapie noch nicht klinisch indiziert ist) oder – Enzalutamid (nur für Patienten, deren Erkrankung während oder nach einer Chemotherapie mit Docetaxel fortschreitet; nur für Patienten mit asymptomatischem oder mild symptomatischem Verlauf der Erkrankung nach Versagen der Androgenentzugstherapie, bei denen eine Chemotherapie noch nicht klinisch indiziert ist) oder – Olaparib als Monotherapie (nur für Patienten mit BRCA1/2-Mutationen (in der Keimbahn und/oder somatisch), deren Erkrankung nach vorheriger Behandlung, die eine neue hormonelle Substanz (new hormonal agent) umfasste, progredient ist) oder ‒ Best-Supportive-Care (nur für Patienten mit reduziertem Allgemeinzustand (ECOG Performance Status ≥ 2))
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Morbidität: &harr; (Es liegen keine für die Nutzenbewertung relevanten Unterschiede vor.)
+- Lebensqualität: &harr; (Es liegen keine für die Nutzenbewertung relevanten Unterschiede vor.)
+- Nebenwirkungen: &darr; (Nachteile bei schweren UEs, Abbruch wegen UE und SUEs. Im Detail Nachteile bei einzelnen spezifischen UEs)
 
 ---
 
@@ -7534,6 +8101,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Niraparib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -7547,10 +8120,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Carboplatin + Paclitaxel gefolgt von beobachtendem Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &darr; (Nachteile bei Dyspnoe, Appetitverlust, Verstopfung und Geschmacksveränderung)
+- Lebensqualität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor)
+- Nebenwirkungen: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor. Im Detail Nachteil bei den spezifischen UE.)
 
 ---
 
@@ -7564,10 +8137,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Carboplatin + Paclitaxel gefolgt von beobachtendem Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Morbidität: &darr; (Nachteile bei Dyspnoe, Übelkeit und Erbrechen, Appetitverlust, Verstopfung und Geschmacksveränderung.)
+- Lebensqualität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Nebenwirkungen: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor. Im Detail Nachteil bei den spezifischen UE.)
 
 ---
 
@@ -7592,10 +8165,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende und den Gesundheitszustand.)
+- Lebensqualität: &uarr; (Vorteil für SF-36 (körperlicher Summenscore).)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil für Therapieabbruch aufgrund von unerwünschten Ereignissen und durch Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -7609,10 +8182,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende und den Gesundheitszustand.)
+- Lebensqualität: &uarr; (Vorteil für SF-36 (körperlicher Summenscore).)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil für schwerwiegende UE und durch Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -7626,10 +8199,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende (SVR12).)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -7643,10 +8216,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende (SVR12).)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr; (Vorteile für Therapieabbruch aufgrund von unerwünschten Ereignissen (UE) und der Gesamtrate an schwerwiegenden UE (Überlebenszeitanalyse).)
 
 ---
 
@@ -7660,10 +8233,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende (SVR12) und Endpunkt Gesundheitszustand.)
+- Lebensqualität: &uarr; (Vorteil für SF-36 (körperlicher Summenscore).)
+- Nebenwirkungen: &uarr; (Vorteil durch Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -7677,10 +8250,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende (SVR12).)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch die Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -7694,10 +8267,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -7711,8 +8284,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende (SVR12).)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch die Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -7726,9 +8301,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil für das dauerhafte virologische Ansprechen 12 Wochen nach Therapieende (SVR12).)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch die Vermeidung Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -7754,10 +8330,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patienten mit ECOG-Performance-Status 0, 1 oder 2: • Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) unter Beachtung des Zulassungsstatus oder • Carboplatin in Kombination mit einem Drittgenerationszytostatikum (nur für Patienten mit erhöhtem Risiko für Cisplatin-induzierte Nebenwirkungen im Rahmen einer Kombinationstherapie; vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie) oder • Carboplatin in Kombination mit nab-Paclitaxel Patienten mit ECOG-Performance-Status 2: • alternativ zur Platin-basierten Kombinationsbehandlung: eine Monotherapie mit Gemcitabin oder Vinorelbin
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile in der weit überwiegenden Anzahl relevanter Symptomskalen sowie beim Gesundheitszustand.)
+- Lebensqualität: &uarr; (Vorteile in den Funktionsskalen körperliche Funktion, Rollenfunktion uns soziale Funktion.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil im Endpunkt schwere UE (CTCAE Grad ≥ 3). Im Detail Nachteil in einem spezifischen UE.)
 
 ---
 
@@ -7769,6 +8345,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Therapie nach Maßgabe des Arztes unter Berücksichtigung der Zulassung und der Vortherapien
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -7782,10 +8364,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Vemurafenib
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -7799,10 +8381,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ipilimumab
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevante Unterschiede.)
+- Lebensqualität: &uarr; (Vorteil in der Funktionsskala soziale Funktion.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten immunvermittelte UE und immunvermittelte schwere UE (CTCAE-Grad ≥3).)
 
 ---
 
@@ -7816,10 +8398,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie nach Maßgabe des behandelnden Arztes unter Berücksichtigung des Zulassungsstatus und der jeweiligen Vortherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile in den Endpunkten schwerwiegende UE, schwere UE (CTCAE ≥3) und Abbruch wegen UE sowie im Detail im Endpunkt immunvermittelte schwere UE (CTCAE ≥3).)
 
 ---
 
@@ -7833,10 +8415,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel oder Pemetrexed oder Nivolumab (Pemetrexed: außer bei überwiegend plattenepithelialer Histologie)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil in der therapiebedingten Morbidität aufgrund der Verringerung von Nebenwirkungen der zytotoxischen Chemotherapie.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile in den Endpunkten schwere UE (CTCAE Grad ≥ 3) und Therapieabbrüche wegen UE. Im Detail Vor- und Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -7850,10 +8432,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -7867,10 +8449,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Vinflunin oder • Eine erneute Cisplatin-basierte Chemotherapie (für Patienten die, abhängig von Krankheitsverlauf, Allgemeinzustand und Verträglichkeit der Erstlinientherapie, für eine solche in Frage kommen)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen Übelkeit und Erbrechen, Dyspnoe, Appetitlosigkeit und Verstopfung.)
+- Lebensqualität: &harr; (Keine für die Nutznebewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten schwerwiegende UE und schwere UE (CTCAE Grad ≥ 3).)
 
 ---
 
@@ -7882,6 +8464,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Nivolumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -7895,10 +8483,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Cetuximab + Cisplatin oder Carboplatin + 5-FU
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt schwerwiegende UE; überwiegend Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -7912,8 +8500,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Bevacizumab in Kombination mit Interferon alfa-2a oder − Nivolumab in Kombination mit Ipilimumab (nur für Patienten mit intermediärem Risikoprofil) oder − Monotherapie mit Pazopanib oder − Monotherapie mit Sunitinib
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (nicht bewertbar)
+- Lebensqualität: Nicht bewertbar (nicht bewertbar)
+- Nebenwirkungen: &darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse (SUE) und Therapieabbrüche aufgrund von UE; Vorteil und Nachteil in einzelnen spezifischen UE)
 
 ---
 
@@ -7927,8 +8517,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Nivolumab in Kombination mit Ipilimumab oder − Sunitinib oder − Temsirolimus
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (nicht bewertbar)
+- Lebensqualität: Nicht bewertbar (nicht bewertbar)
+- Nebenwirkungen: &uarr; (Vorteil in dem Endpunkt schwere unerwünschte Ereignisse (CTCAE-Grad ≥ 3); Vorteile in einzelnen spezifischen UE)
 
 ---
 
@@ -7942,8 +8534,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Cetuximab + Cisplatin oder Carboplatin + 5-FU
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Lebensqualität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten schwere UE (CTCAE-Grad ≥ 3), Therapieabbrüche wegen UE; überwiegend Vorteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -7957,10 +8551,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel) oder − Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel; vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie) oder − Carboplatin in Kombination mit nab-Paclitaxel
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteil in der Symptomskala Dysphagie.)
+- Lebensqualität: &uarr;&uarr; (Vorteil in der Funktionsskala körperliche Funktion.)
+- Nebenwirkungen: &uarr; (Vorteil im Endpunkt schwere UE (CTCAE Grad ≥ 3). Im Detail Nachteil in einem spezifischen UE.)
 
 ---
 
@@ -7972,6 +8566,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Pembrolizumab als Monotherapie
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -7985,9 +8585,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &uarr;&uarr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &uarr;&uarr; (Vorteil in der Vermeidung von Rezidiven.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse, schwere unerwünschte Ereignisse (CTCAE-Grad ≥ 3) sowie Abbruch wegen unerwünschten Ereignissen.)
 
 ---
 
@@ -8001,10 +8602,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Therapie nach ärztlicher Maßgabe. Neben Brentuximab Vedotin und Vinblastin stellen auch die Arzneimittel Etoposid, Vinorelbin, Gemcitabin, Bendamustin und Lenalidomid geeignete Komparatoren für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach ärztlicher Maßgabe dar. Diese Arzneimittel sind jedoch in dem vorliegenden Anwendungsgebiet nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in den Endpunkten Erschöpfung, Schmerzen und Appetitverlust.)
+- Lebensqualität: &uarr; (Vorteile in den Endpunkten globaler Gesundheitsstatus, körperliche, emotionale und soziale Funktion und Rollenfunktion.)
+- Nebenwirkungen: &uarr; (Statistisch signifikanter Vorteil im Endpunkt schwere UE, aber kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -8018,10 +8619,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Therapie nach ärztlicher Maßgabe.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -8035,10 +8636,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -8052,8 +8653,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie in Abhängigkeit des all-RAS Mutationsstatus, der Lokalisation des Primärtumors, sowie in Abhängigkeit des Risikos für durch Bevacizumab induzierte Toxizität unter Auswahl von - Kombinationstherapie aus 5-Fluorouracil + Folinsäure + Oxaliplatin (FOLFOX) - Kombinationstherapie aus 5-Fluorouracil + Folinsäure + Irinotecan (FOLFIRI) - Kombinationstherapie aus 5-Fluorouracil + Folinsäure + Oxaliplatin (FOLFOX) und einer anti-EGFR-Therapie (Cetuximab oder Panitumumab) - (nur für Patientinnen und Patienten mit RAS wildtyp) - Kombinationstherapie aus 5-Fluorouracil + Folinsäure + Irinotecan (FOLFIRI) und einer anti-EGFR-Therapie (Cetuximab oder Panitumumab) - (nur für Patientinnen und Patienten mit RAS wildtyp) - Kombinationstherapie aus 5-Fluorouracil + Folinsäure + Oxaliplatin (FOLFOX) und Bevacizumab - Kombinationstherapie aus 5-Fluorouracil + Folinsäure + Irinotecan (FOLFIRI) und Bevacizumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile in den Endpunkten schwere UE (CTCAE-Grad 3 oder 4) und schwerwiegende UE (SUE).)
 
 ---
 
@@ -8067,10 +8670,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - 5-Fluorouracil + Folinsäure ± Bevacizumab oder - Capecitabin ± Bevacizumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -8084,10 +8687,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Carboplatin in Kombination mit Gemcitabin (vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &uarr; (Positiver Effekt bei den schweren UE, aber insgesamt kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -8101,10 +8704,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Cisplatin in Kombination mit 5-Fluorouracil
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteile in den Symptomskalen Dyspnoe, Verschlucken und Schmerzen)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede; im Detail überwiegend Vorteile in den spezifischen UE)
 
 ---
 
@@ -8118,10 +8721,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &darr; (Nachteil in den Therapieabbrüchen aufgrund von unerwünschten Ereignissen; im Detail ein Nachteil bei einem spezifischen UE)
 
 ---
 
@@ -8135,10 +8738,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** HER2-zielgerichtete Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -8152,10 +8755,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ­eine Anthrazyklin- und/oder Taxan-haltige systemische Therapie unter Berücksichtigung der Zulassung der Arzneimittel
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
 
 ---
 
@@ -8169,10 +8772,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ­eine Anthrazyklin- und/oder Taxan-haltige systemische Therapie unter Berücksichtigung der Zulassung der Arzneimittel
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -8186,10 +8789,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) oder − Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed; vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie) oder − Carboplatin in Kombination mit nab-Paclitaxel
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil in der Symptomskala Verstopfung.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr; (Vorteil im Endpunkt schwere UE (CTCAE Grad ≥ 3).)
 
 ---
 
@@ -8203,8 +8806,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Pembrolizumab
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -8218,10 +8823,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Die Wirkstoffe Carboplatin und Paclitaxel stellen geeignete Komparatoren für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach ärztlicher Maßgabe dar. Diese Arzneimittel sind jedoch in dem vorliegenden Anwendungsgebiet nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &uarr; (Vorteile bei Dyspnoe, Lymphödem, Kribbel-/Taubheitsgefühl, Geschmacksveränderung sowie Haarausfall, Nachteil bei Diarrhö)
+- Lebensqualität: &harr; (In der Gesamtschau aller Ergebnisse kein für die Nutzenbewertung relevanter Unterschied; für den Endpunkt „negatives Körperbild“ zeigt sich ein positiver Effekt)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende UE und Therapieabbruch wegen UE, im Detail überwiegend Nachteile bei spezifischen UE)
 
 ---
 
@@ -8234,6 +8839,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Pembrolizumab in Kombination mit Axitinib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1563
@@ -8244,6 +8855,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Avelumab in Kombination mit Axitinib (nur für Patientinnen und Patienten mit ungünstigem Risikoprofil) oder - Nivolumab in Kombination mit Ipilimumab oder - Pembrolizumab in Kombination mit Axitinib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -8257,10 +8874,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil bei der Vermeidung von Rezidiven.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &darr; (Nachteile in den Endpunkten UE, SUE und Abbruch wegen UE. Im Detail Nachteile bei spezifischen UE.)
 
 ---
 
@@ -8274,7 +8891,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie in Abhängigkeit von der Art und Anzahl der Vortherapien, des RAS- und BRAF-Mutationsstatus, der Lokalisation des Primärtumors, des Allgemeinzustandes und des Risikos der durch anti-VEGF und anti-VEGFR Substanzen induzierten Toxizität unter Auswahl von: - 5-Fluorouracil in Kombination mit Folinsäure und Irinotecan (FOLFIRI) mit oder ohne Bevacizumab oder Aflibercept oder Ramucirumab - 5-Fluorouracil in Kombination mit Folinsäure und Irinotecan (FOLFIRI) mit oder ohne Cetuximab oder Panitumumab (nur für Patientinnen und Patienten mit RAS Wildtyp) - 5-Fluorouracil in Kombination Folinsäure und Oxaliplatin (FOLFOX) mit oder ohne Bevacizumab - Capecitabin in Kombination Oxaliplatin (CAPOX) mit oder ohne Bevacizumab - 5-Fluorouracil in Kombination mit Folinsäure mit oder ohne Bevacizumab - Capecitabin mit oder ohne Bevacizumab - Irinotecan als Monotherapie - Panitumumab als Monotherapie (nur für Patientinnen und Patienten mit RAS Wildtyp) - Cetuximab als Monotherapie (nur für Patientinnen und Patienten mit RAS Wildtyp) - Trifluridin/Tipiracil - Irinotecan in Kombination Cetuximab (nur für Patientinnen und Patienten mit RAS Wildtyp) - Encorafenib in Kombination Cetuximab (nur für Patientinnen und Patienten mit BRAF-V600E Mutation)
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -8286,6 +8906,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Die Wirkstoffe Paclitaxel sowie Carboplatin in Kombination mit Paclitaxel stellen ebenfalls geeignete Komparatoren für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach ärztlicher Maßgabe dar. Diese Arzneimittel sind jedoch in dem vorliegenden Anwendungsgebiet nicht zugelassen.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -8299,8 +8925,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Im Rahmen einer klinischen Studie werden für die Therapie nach ärztlicher Maßgabe insgesamt folgende Behandlungsoptionen als geeignete Komparatoren erachtet: Irinotecan, Docetaxel, Paclitaxel, Ramucirumab in Kombination mit Paclitaxel. Irinotecan, Docetaxel und Paclitaxel (Monotherapie) sind jedoch nicht im Anwendungsgebiet zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -8313,6 +8941,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Trifluridin/Tipiracil
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1634
@@ -8324,6 +8958,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Im Rahmen einer klinischen Studie werden neben BSC außerdem die folgenden Behandlungsoptionen als geeignete Komparatoren erachtet: 5-Fluorouracil + Folinsäure + Irinotecan (FOLFIRI), Irinotecan, nab-Paclitaxel, Nivolumab ± Ipilimumab. Die genannten Wirkstoffe sind jedoch nicht im Anwendungsgebiet zugelassen.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1635
@@ -8334,6 +8974,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Im Rahmen einer klinischen Studie wird neben BSC außerdem die folgende Behandlungsoption als geeigneter Komparator erachtet: 5-Fluorouracil + Folinsäure + Oxaliplatin (FOLFOX). Die genannten Wirkstoffe sind jedoch nicht im vorliegenden Anwendungsgebiet zugelassen.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -8347,10 +8993,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Neben diesen stellen auch die Wirkstoffkombinationen Cisplatin + Paclitaxel, Carboplatin + Paclitaxel, Carboplatin + Topotecan und Paclitaxel + Topotecan geeignete Komparator für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach ärztlicher Maßgabe dar. Diese Wirkstoffkombinationen sind in dem vorliegenden Anwendungsgebiet nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Vorteil im Gesundheitszustand; Nachteile in den Symptomskalen Dyspnoe und periphere Neuropathien; insgesamt kein überwiegender Vorteil oder Nachteil.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in dem Endpunkt Abbruch wegen UE. Im Detail Nachteile in spezifischen UE.)
 
 ---
 
@@ -8364,10 +9010,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Für die vorliegende Nutzenbewertung stellen im Rahmen einer Therapie nach ärztlicher Maßgabe die Monotherapien mit Nab-Paclitaxel, Vinorelbin, Ifosfamid, Topotecan, Pemetrexed, Irinotecan, Pembrolizumab (für Patientinnen mit PD-L1 positivem metastasiertem Zervixkarzinom) einen geeigneten Komparator dar. Diese Arzneimittel sind jedoch in dem vorliegenden Anwendungsgebiet (als Monotherapie) nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -8381,10 +9027,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Neben diesen stellen auch die Wirkstoffkombinationen Cisplatin + Paclitaxel, Carboplatin + Paclitaxel, Carboplatin + Topotecan und Paclitaxel + Topotecan geeignete Komparator für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach ärztlicher Maßgabe dar. Diese Wirkstoffkombinationen sind in dem vorliegenden Anwendungsgebiet nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -8398,10 +9044,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr;&uarr; (Vorteil bei Rezidiven und rezidivfreiem Überleben)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwere UE (CTCAE-Grad ≥ 3) und Abbruch wegen UE. Im Detail Nachteile in spezifischen UE.)
 
 ---
 
@@ -8415,10 +9061,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Die Behandlungsoptionen Dabrafenib in Kombination mit Trametinib (nur für Patienten mit BRAF-V600-Mutation-positivem Melanom im Tumorstadium III nach vollständiger Resektion) sowie Nivolumab stellen geeignete Komparatoren für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach ärztlicher Maßgabe dar, sind jedoch in dem vorliegenden Anwendungsgebiet nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -8432,8 +9078,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Die Arzneistoffkombinationen Vemurafenib + Cobimetinib (nur für Patienten mit BRAF-V600-Mutation); Dabrafenib + Trametinib (nur für Patienten mit BRAF-V600-Mutation); Encorafenib + Binimetinib (nur für Patienten mit BRAF-V600-Mutation) und der Wirkstoff Nivolumab stellen geeignete Komparatoren für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach ärztlicher Maßgabe dar. Alle Arzneimitteltherapien, die einen geeigneten Komparator für die vorliegende Nutzenbewertung nach ärztlicher Maßgabe darstellen, sind im vorliegenden Anwendungsgebiet für Kinder und Jugendliche ab 12 Jahren nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Lebensqualität: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -8447,8 +9095,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Trastuzumab in Kombination mit Capecitabin und Cisplatin oder - Trastuzumab in Kombination mit 5-Fluoruracil und Cisplatin
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied in den Endpunkten SUE und schwere UE. Für den Endpunkt Therapieabbrüche aufgrund von UE sowie zu spezifischen UE liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -8462,7 +9112,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Cisplatin + Capecitabin oder - Oxaliplatin + Capecitabin oder - Cisplatin + S-1 (Tegafur/Gimeracil/Oteracil) oder - Cisplatin + 5-Fluorouracil (nur für Patientinnen und Patienten mit Adenokarzinom des Ösophagus) oder - Cisplatin + 5-Fluorouracil + Folinsäure (nur für Patientinnen und Patienten mit Adenokarzinom des Ösophagus) oder - Epirubicin + Cisplatin + Capecitabin oder - Epirubicin + Cisplatin + 5-Fluorouracil oder - Epirubicin + Oxaliplatin + Capecitabin oder - Docetaxel + Cisplatin + 5-Fluorouracil oder - Nivolumab in Kombination mit Fluoropyrimidin- und Platin-basierter Kombinationschemotherapie (nur bei Tumoren mit PD-L1-Expression (Combined Positive Score [CPS] ≥ 5)) oder - 5-Fluorouracil + Oxaliplatin + Epirubicin (nur für Patientinnen und Patienten mit Adenokarzinom des Ösophagus)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -8476,10 +9129,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Cisplatin in Kombination mit Gemcitabin (vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &darr;&darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &darr;&darr; (Nachteile in den Endpunkten Appetitverlust, Fatigue, Gelbsucht sowie Nebenwirkungen der Behandlung)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede; im Detail Nachteile und ein Vorteil bei spezifischen UE)
 
 ---
 
@@ -8493,10 +9146,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteil bei der Vermeidung von Rezidiven.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse (SUE), schwere UE (CTCAE-Grad≥ 3) und Abbruch wegen UE. Im Detail Nachteile bei spezifischen UE)
 
 ---
 
@@ -8508,6 +9161,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Neoadjuvante Behandlung: Nivolumab in Kombination mit einer Platin-basierten Therapie Gefolgt von adjuvanter Behandlung: Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -8521,9 +9180,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von ▪ präoperativer (neoadjuvanter) systemischer Chemotherapie unter Auswahl von - Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) und - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) und ▪ simultaner Strahlenchemotherapie mit Platin-basierter (Cisplatin oder Carboplatin) Kombinationschemotherapie unter Berücksichtigung des Tumorstadiums, der Tumorhistologie, dem Vorliegen eines Pancoast-Tumors und der Erreichbarkeit einer R0-Resektion, sowie der Voraussetzungen für einen Einsatz von Carboplatin. Gefolgt von adjuvanter Behandlung: Best-Supportive Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied. Im Detail Nachteile in spezifischen UE.)
 
 ---
 
@@ -8537,10 +9197,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Cisplatin in Kombination mit Gemcitabin gefolgt von Avelumab als Erhaltungstherapie (Erhaltungstherapie mit Avelumab nur für Patientinnen und Patienten, die progressionsfrei sind)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen „Übelkeit und Erbrechen“, „Verstopfung“ und „Appetitverlust“)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: &uarr; (Vorteil bei den schweren UEs; im Detail Nachteile und Vorteile bei spezifischen UE)
 
 ---
 
@@ -8554,10 +9214,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Carboplatin in Kombination mit Gemcitabin nach Maßgabe der Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie gefolgt von Avelumab als Erhaltungstherapie (Erhaltungstherapie mit Avelumab nur für Patientinnen und Patienten, die progressionsfrei sind)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &uarr; (Vorteile für den Endpunkt „stärkster Schmerz“ und in den Symptomskalen „Übelkeit und Erbrechen“ und „Verstopfung“; Nachteil in der Symptomskala „Diarrhoe“; insgesamt Vorteil)
+- Lebensqualität: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; Vorteil in der Funktionsskala „Rollenfunktion“)
+- Nebenwirkungen: &harr; (Vorteil bei den schweren UEs, Nachteil bei den Abbrüchen wegen UEs; im Detail Nachteile und Vorteile bei spezifischen UEs)
 
 ---
 
@@ -8571,10 +9231,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von - Atezolizumab als Monotherapie - Pembrolizumab als Monotherapie - Best-Supportive-Care unter Berücksichtigung des PD-L1-Status und des Allgemeinzustandes
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -8588,9 +9248,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine individualisierte Taxan- und Anthrazyklin-basierte neoadjuvante Chemotherapie unter Auswahl von: • Cyclophosphamid • Docetaxel • Doxorubicin • Epirubicin • Paclitaxel • Carboplatin gefolgt von beobachtendem Abwarten nach Operation
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &uarr;&uarr; (Vorteil bei der Vermeidung des Scheiterns des kurativen Therapieansatzes (Ereignisrate und ereignisfreies Überleben))
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten SUE und Abbruch wegen UE. Im Detail Nachteile in spezifischen UE)
 
 ---
 
@@ -8604,10 +9265,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine individualisierte Taxan- und Anthrazyklin-basierte neoadjuvante Chemotherapie unter Auswahl von: • Cyclophosphamid • Docetaxel • Doxorubicin • Epirubicin • Paclitaxel • Carboplatin gefolgt von beobachtendem Abwarten nach Operation
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -8621,10 +9282,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Radiochemotherapie bestehend aus einer perkutanen Strahlentherapie (EBRT) in Kombination mit Cisplatin (Monotherapie), gefolgt von einer Brachytherapie
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied; im Detail Nachteile bei spezifischen UE.)
 
 ---
 
@@ -8637,6 +9298,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Dostarlimab in Kombination mit Carboplatin und Paclitaxel gefolgt von Dostarlimab als Monotherapie
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2147
@@ -8647,6 +9314,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Durvalumab in Kombination mit Carboplatin und Paclitaxel gefolgt von Durvalumab in Kombination mit Olaparib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -8672,8 +9345,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Trastuzumab in Kombination mit einem Taxan (Paclitaxel, Docetaxel)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt schwerwiegende UE; im Detail Nachteile hinsichtlich einzelner schwerer UE (CTCAE-Grad ≥ 3).)
 
 ---
 
@@ -8687,8 +9362,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Trastuzumab in Kombination mit einem Taxan (Paclitaxel, Docetaxel)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt schwerwiegende UE; im Detail Nachteile hinsichtlich einzelner schwerer UE (CTCAE-Grad ≥ 3).)
 
 ---
 
@@ -8702,10 +9379,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Strahlentherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -8719,10 +9396,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ein Therapieschema, Trastuzumab, ein Taxan (Paclitaxel oder Docetaxel) und ggf. ein Anthrazyklin (Doxorubicin oder Epirubicin) enthaltend. Die Kombination von Trastuzumab mit einem Anthrazyklin ist unter Berücksichtigung der kardiovaskulären Risiken abzuwägen und die kardialen Funktionen engmaschig zu überwachen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt Therapieabbruch wegen UE.)
 
 ---
 
@@ -8736,10 +9413,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein Therapieschema, Trastuzumab, ein Taxan (Paclitaxel oder Docetaxel) und ggf. ein Anthrazyklin (Doxorubicin oder Epirubicin) enthaltend
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &uarr;&uarr; (Vorteile bei der Vermeidung von Rezidiven)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse (SUE) und schweren UE (CTCAE-Grad≥ 3))
 
 ---
 
@@ -8765,10 +9442,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** In Abhängigkeit von den Vortherapien sowie der Ausprägung und Dauer des jeweiligen Ansprechens sowie unter Beachtung der Zulassung der jeweiligen Arzneimittel, − eine patientenindividuelle Therapie nach Maßgabe des Arztes.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &uarr; (Vorteile in den Funktionsskalen körperliche Funktion, emotionale Funktion, Rollenfunktion, Zukunftsperspektiven und Körperbild.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -8782,10 +9459,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** In Abhängigkeit von den Vortherapien sowie der Ausprägung und Dauer des jeweiligen Ansprechens sowie unter Beachtung der Zulassung der jeweiligen Arzneimittel, − eine patientenindividuelle Therapie nach Maßgabe des Arztes.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -8799,10 +9476,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Bortezomib in Kombination mit pegyliertem liposomalen Doxorubicin oder • Bortezomib in Kombination mit Dexamethason oder • Lenalidomid in Kombination mit Dexamethason oder • Elotuzumab in Kombination mit Lenalidomid und Dexamethason oder • Carfilzomib in Kombination mit Lenalidomid und Dexamethason oder • Carfilzomib in Kombination mit Dexamethason oder • Daratumumab in Kombination mit Lenalidomid und Dexamethason oder • Daratumumab in Kombination mit Bortezomib und Dexamethason
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende UE und schwere UE (CTCAE-Grad ≥ 3); Nachteile in spezifischen UE)
 
 ---
 
@@ -8827,10 +9504,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie in Abhängigkeit von Art und Schwere der Symptome sowie der Belastung der Patientin durch die Symptome unter Auswahl von: • einer symptomorientierten Behandlung: o Gestagene unter Beachtung des jeweiligen Zulassungsstatus (Für Patientinnen, für die eine symptomatische Behandlung der verlängerten und/oder starken Regelblutung (Menorrhagie, Hypermenorrhoe) ausreichend ist) o Ulipristalacetat (für Patientinnen, die noch nicht die Menopause erreicht haben und für die eine Embolisation von Gebärmuttermyomen und/oder der chirurgische Eingriff nicht geeignet oder fehlgeschlagen sind) • invasiven Behandlungsoptionen
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -8844,10 +9521,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteil bei menstruellem Blutverlust, Symptomatik und Schmerzen)
+- Lebensqualität: &uarr; (Vorteil in der gesundheitsbezogenen Lebensqualität)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -8859,6 +9536,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - patientenindividuelle Therapie unter Berücksichtigung der Vortherapie, möglicher Organdestruktionen sowie der Lokalisation und Ausdehnung der Endometrioseherde unter Auswahl von o Dienogest o GnRH-Analoga (Goserelin oder Buserelin oder Leuprorelin oder Triptorelin oder Nafarelin) o Operativen Maßnahmen
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -8883,6 +9566,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Adalimumab oder Guselkumab oder Ixekizumab oder Secukinumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 913
@@ -8895,10 +9584,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab oder Brodalumab oder Guselkumab oder Infliximab oder Ixekizumab oder Secukinumab oder Ustekinumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteil bei der Remission (PASI 100), Verbesserung des PASI-Scores um 75 % bzw. 90 %; patientenberichteter Symptomfreiheit Juckreiz, Schmerz, Rötung, Brennen; bei der Erscheinungsfreiheit der Kopfhaut, beim Gesundheitszustand)
+- Lebensqualität: &uarr;&uarr; (Vorteil bei der krankheitsspezifischen gesundheitsbezogenen Lebensqualität.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -8911,6 +9600,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** ein TNF-alpha-Antagonist (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab) oder ein Interleukin-Inhibitor (Ixekizumab oder Secukinumab oder Ustekinumab), ggf. in Kombination mit Methotrexat
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1516
@@ -8922,6 +9617,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** der Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab oder Ixekizumab oder Secukinumab oder Ustekinumab), ggf. in Kombination mit Methotrexat
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1726
@@ -8932,6 +9633,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ein TNF-α-Antagonist (Adalimumab oder Infliximab) oder Integrin-Inhibitor (Vedolizumab) oder Interleukin-Inhibitor (Ustekinumab)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -8945,9 +9652,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ein Wechsel der Therapie auf einen TNF-α-Antagonisten (Adalimumab oder Infliximab) oder Integrin-Inhibitoren (Vedolizumab) oder Interleukin-Inhibitoren (Ustekinumab)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf)
+- Morbidität: &uarr; (Vorteile in klinischer Remission (inklusive steroidfreier Remission), Darmsymptome)
+- Lebensqualität: &uarr; (Vorteile in IBDQ-Gesamtscore und SF-36 körperlicher Summenscore)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -8960,6 +9668,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Adalimumab oder Golimumab oder Infliximab oder Ozanimod oder Ustekinumab oder Vedolizumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2087
@@ -8970,6 +9684,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Adalimumab oder Filgotinib oder Golimumab oder Infliximab oder Ozanimod oder Tofacitinib oder Ustekinumab oder Vedolizumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -8995,9 +9715,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
+- Mortalität: &uarr; (Vorteil für Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteil durch eine klinisch relevante Abnahme des Milzvolumens, verbunden mit einer Verringerung von patientenrelevanten Symptomen.)
+- Lebensqualität: &uarr;&uarr; (Vorteil in der Skala globaler Gesundheitsstatus und den Funktionsskalen: Körperliche-, Rollen-, Emontionale- und Soziale Funktionen)
+- Nebenwirkungen: Nicht bewertbar (Für die Gesamtraten der UE liegen keine bewertbaren Daten vor; im Detail Nachteil bei Erkrankungen des Nervensystems nach SOC.)
 
 ---
 
@@ -9011,10 +9732,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie nach Maßgabe des Arztes, grundsätzlich unter Berücksichtigung des Zulassungsstatus bei Arzneimitteltherapien; gegebenenfalls kommt auch eine Dosisreduktion von oder Retherapie mit Hydroxyurea in Frage.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile insbesondere in der Verbesserung des allgemeinen Gesundheitszustands, der Hämatokrit-Kontrolle und Phlebotomiefreiheit)
+- Lebensqualität: &uarr; (Vorteile in den Skalen globaler Gesundheitszustand und körperliche Funktion.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; im Detail Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -9039,9 +9760,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ACE-Hemmer und, sofern angezeigt, Betablocker unter Berücksichtigung des Zulassungsstatus
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &uarr; (Verringerung von nicht schwerwiegenden Symptomen)
+- Lebensqualität: &uarr; (geringe Verbesserung)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -9055,9 +9777,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ACE-Hemmer und, sofern angezeigt, Betablocker unter Berücksichtigung des Zulassungsstatus
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
+- Mortalität: &harr; (kein Vorteil für das Gesamtüberleben)
+- Morbidität: &uarr; (Verringerung von nicht schwerwiegenden Symptomen)
+- Lebensqualität: &uarr; (geringfügige Verbesserung)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -9071,10 +9794,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Captopril oder Enalapril
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
 
 ---
 
@@ -9100,10 +9823,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Alternative klassische DMARDs, sofern geeignet (z. B. Methotrexat, Leflunomid) als Mono- oder Kombinationstherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9117,9 +9840,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** biotechnologisch hergestellte DMARDs (bDMARDs) (Adalimumab oder Etanercept oder Certolizumab-Pegol oder Tocilizumab) als Monotherapie unter Berücksichtigung jeweiligen Zulassungsstatus bei Methotrexat-Unverträglichkeit
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile bei der Krankheitsaktivität, beim Schmerz und beim körperlichen Funktionsstatus.)
+- Lebensqualität: &uarr; (Vorteil in der gesundheitsbezogenen Lebensqualität (physischer Summenscore).)
+- Nebenwirkungen: Nicht bewertbar (Keine für die Nutzenbewertung relevanten Unterschiede (nicht abschließend bewertbar).)
 
 ---
 
@@ -9133,10 +9857,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** biotechnologisch hergestellte DMARDs (bDMARDs) in Kombination mit Methotrexat (Adalimumab oder Etanercept oder Certolizumab-Pegol oder Golimumab oder Abatacept oder Tocilizumab)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9150,10 +9874,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Wechsel der bDMARD-Therapie (Adalimumab oder Etanercept oder Certolizumab-Pegol oder Golimumab oder Abatacept oder Tocilizumab; in Kombination mit Merthotrexat (MTX) ggf. als Monotherapie unter Berücksichtigung des jeweiligen Zulassungsstatus bei MTX-Unverträglichkeit; oder bei Patienten mit schwerer rheumatoider Arthritis Rituximab unter Berücksichtigung der Zulassung) in Abhängigkeit von der Vortherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9179,10 +9903,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Fumarsäureester oder Ciclosporin oder Methotrexat oder Phototherapie (Balneophototherapie, orale PUVA, NB-UV-B) Die jeweilige Zulassung der Arzneimittel ist zu berücksichtigen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteil bei der Remission und bei der Response.)
+- Lebensqualität: &uarr; (Vorteil bei der krankheitsspezifischen gesundheitsbezogenen Lebensqualität.)
+- Nebenwirkungen: &uarr; (Vorteil bei den Therapieabbrüchen aufgrund von UE, sowie in den spezifischen UE Erkrankungen des Blutes und des Lymphsystems, Erkrankungen des Gastrointestinaltrakts und Hitzegefühl.)
 
 ---
 
@@ -9196,10 +9920,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab oder Infliximab oder Ustekinumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr;&uarr; (Vorteil bei der Symptomatik (Schmerz, Juckreiz, Schuppung), sowie bei Remission und Response.)
+- Lebensqualität: &uarr;&uarr; (Vorteil in der krankheitsspezifischen gesundheitsbezogenen Lebensqualität.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -9213,10 +9937,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab oder Infliximab oder Ustekinumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr;&uarr; (Vorteil bei der Remission und der Response.)
+- Lebensqualität: &uarr;&uarr; (Vorteil in der krankheitsspezifischen gesundheitsbezogenen Lebensqualität.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -9228,6 +9952,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** TNF-alpha-Hemmer (Etanercept oder Adalimumab oder Infliximab oder Golimumab)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -9241,10 +9971,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein TNF-alpha-Antagonist (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab) oder ein Interleukin-Inhibitor (Ixekizumab oder Ustekinumab), ggf. in Kombination mit Methotrexat
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
+- Morbidität: &uarr;&uarr; (Vorteil in der Hautsymptomatik)
+- Lebensqualität: &uarr; (Vorteil im psychischen Summenscore des SF-36)
+- Nebenwirkungen: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
 
 ---
 
@@ -9258,10 +9988,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** der Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab oder Ixekizumab oder Ustekinumab), ggf. in Kombination mit Methotrexat
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9275,10 +10005,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein TNF-alpha-Antagonist (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab) oder ein Interleukin-Inhibitor (Ixekizumab oder Ustekinumab), ggf. in Kombination mit Methotrexat
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9292,10 +10022,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab oder Etanercept oder Ustekinumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf)
+- Morbidität: &uarr; (Vorteil in der Hautsymptomatik)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
 
 ---
 
@@ -9309,10 +10039,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein TNF-α-Inhibitor (Etanercept oder Adalimumab oder Golimumab oder Certolizumab pegol)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -9326,10 +10056,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9343,10 +10073,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9360,10 +10090,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9389,10 +10119,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ribavirin plus Peginterferon alfa Die Angaben der Fachinformationen der Kombinationspartner der zweckmäßigen Vergleichstherapie sind zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteile im Endpunkt unerwünschte Ereignisse.)
 
 ---
 
@@ -9406,10 +10136,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf. Für Genotyp 2 liegen keine Daten vor.)
+- Morbidität: &uarr; (Vorteile im dauerhaften virologischen Ansprechens, bei Infektion mit Genotyp 2 unter Evidenztransfer der Daten zu Erwachsenen.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede. Für Genotyp 2 liegen keine Daten vor.)
 
 ---
 
@@ -9423,9 +10153,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor (in der einarmigen Studie traten keine Todesfälle auf).)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil aufgrund der Vermeidung von Nebenwirkungen.)
 
 ---
 
@@ -9439,9 +10170,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor (in der einarmigen Studie traten keine Todesfälle auf).)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil aufgrund der Vermeidung von Nebenwirkungen.)
 
 ---
 
@@ -9455,10 +10187,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin) oder Triple-Therapie (Kombination aus einem Proteaseinhibitor (Boceprevir oder Telaprevir), Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9472,10 +10204,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch Vermeidung; Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -9489,9 +10221,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteil im dauerhaften virologischen Ansprechen.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil aufgrund der Vermeidung von Nebenwirkungen.)
 
 ---
 
@@ -9505,10 +10238,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch Vermeidung; Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -9522,10 +10255,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9539,7 +10272,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -9553,10 +10289,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Duale Therapie (Kombination aus Peginterferon alfa und Ribavirin)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil durch Vermeidung; Interferon-bedingter Nebenwirkungen.)
 
 ---
 
@@ -9570,7 +10306,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine vergleichenden Daten vor; es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteile im dauerhaften virologischen Ansprechen.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine vergleichenden Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine vergleichenden Daten vor; kein Anhaltspunkt für relevante Nachteile.)
 
 ---
 
@@ -9595,10 +10334,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Für therapienaive und therapieerfahrene Patienten die Kombination aus Ledipasvir/Sofosbuvir oder die Kombination aus Ombitasvir/Paritaprevir/Ritonavir plus Dasabuvir (ggf. plus Ribavirin).
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -9612,10 +10351,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Für therapienaive und therapieerfahrene Patienten die Kombination aus Ledipasvir/Sofosbuvir.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -9629,10 +10368,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Für therapienaive und therapieerfahrene Patienten die Kombination aus Sofosbuvir plus Ribavirin.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil im SVR12 (dauerhaftes virologisches Ansprechen 12 Wochen nach Therapieende).)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr; (Vorteil im UE "psychiatrische Erkrankungen".)
 
 ---
 
@@ -9646,8 +10385,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Für therapienaive und therapieerfahrene Patienten die Kombination aus Sofosbuvir plus Ribavirin.
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil für dauerhaftes virologisches Ansprechen 12 Wochen nach Therapieende (SVR12).)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil in Therapieabbruch aufgrund von unerwünschten Ereignissen.)
 
 ---
 
@@ -9661,10 +10402,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Für therapienaive und therapieerfahrene Patienten die Kombination aus Ledipasvir/Sofosbuvir oder die Kombination aus Ombitasvir/Paritaprevir/Ritonavir plus Ribavirin.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -9678,7 +10419,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Für therapienaive und therapieerfahrene Patienten die Kombination aus Ledipasvir/Sofosbuvir.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -9692,7 +10436,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Für therapienaive und therapieerfahrene Patienten die Kombination aus Ledipasvir/Sofosbuvir.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -9706,10 +10453,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die Kombination aus Ledipasvir/Sofosbuvir plus Ribavirin.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -9723,9 +10470,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
+- Mortalität: &harr; (Es traten keine Todesfälle auf)
+- Morbidität: &uarr; (Vorteil für dauerhaftes virologisches Ansprechen 12 Wochen nach Therapieende (SVR12))
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -9738,6 +10486,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Keine vergleichenden Daten; Ergebnisse zu SVR in derselben Größenordnung wie bei entsprechender zVT.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine vergleichenden Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine vergleichenden Daten vor.)
+
 ---
 
 ###### Patientengruppe 1072
@@ -9748,6 +10502,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Sofosbuvir plus Ribavirin
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Keine vergleichenden Daten; Ergebnisse zu SVR in derselben Größenordnung wie bei entsprechender zVT)
+- Lebensqualität: Nicht bewertbar (Es liegen keine vergleichenden Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine vergleichenden Daten vor)
 
 ---
 
@@ -9761,10 +10521,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir oder Glecaprevir/Pibrentasvir
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9778,10 +10538,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sofosbuvir plus Ribavirin oder Glecaprevir/Pibrentasvir
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9793,6 +10553,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir (nur für die Genotypen 1, 4, 5 und 6) oder Glecaprevir/Pibrentasvir
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine vergleichenden Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine vergleichenden Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine vergleichenden Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine vergleichenden Daten vor.)
 
 ---
 
@@ -9818,10 +10584,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -9835,9 +10601,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil in der Gesamtmortalität)
+- Morbidität: &uarr; (Vorteile bei der Krankheitsprogression, Aufnahmen auf die Intensivstation und Hospitalisierung aufgrund jeglicher Ursache)
+- Lebensqualität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -9851,10 +10618,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -9880,10 +10647,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Capecitabin oder − Eribulin oder − Vinorelbin oder − eine Anthrazyklin- oder Taxan-haltige Therapie (Nur für Patienten, die noch keine Anthrazyklin- und Taxan-haltige Therapie erhalten haben oder für die eine erneute Anthrazyklin- oder Taxan-haltige Therapie infrage kommt.)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile in Schmerzen, Schlaflosigkeit, Appetitverlust und Symptome im Brustbereich)
+- Lebensqualität: &uarr; (Vorteile im Gesundheitszustand, in der körperlichen, sozialen und emotionalen Funktion, in der Rollenfunktion sowie im Körperbild)
+- Nebenwirkungen: &uarr; (Vorteil im Endpunkt schwere UE (CTCAE-Grad 3 oder 4))
 
 ---
 
@@ -9897,10 +10664,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ‒ Abirateronacetat in Kombination mit Prednison oder Prednisolon (nur für Patienten, deren Erkrankung während oder nach einer Docetaxel-haltigen Chemotherapie progredient ist; nur für Patienten mit asymptomatischem oder mild symptomatischem Verlauf der Erkrankung nach Versagen der Androgenentzugstherapie, bei denen eine Chemotherapie noch nicht klinisch indiziert ist) oder ‒ Enzalutamid (nur für Patienten, deren Erkrankung während oder nach einer Chemotherapie mit Docetaxel fortschreitet; nur für Patienten mit asymptomatischem oder mild symptomatischem Verlauf der Erkrankung nach Versagen der Androgenentzugstherapie, bei denen eine Chemotherapie noch nicht klinisch indiziert ist) oder ‒ Olaparib als Monotherapie (nur für Patienten mit BRCA1/2-Mutationen (in der Keimbahn und/oder somatisch), deren Erkrankung nach vorheriger Behandlung, die eine neue hormonelle Substanz (new hormonal agent) umfasste, progredient ist) oder ‒ Olaparib in Kombination mit Abirateronacetat und Prednison oder Prednisolon (nur für Patienten mit BRCA-Mutationen sowie für Patienten ohne BRCA-Mutationen mit symptomatischem Verlauf der Erkrankung)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &darr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &darr; (Nachteile in den Symptomskalen „Übelkeit und Erbrechen“, „Fatigue“, „Dyspnoe“ und „Appetitverlust“.)
+- Lebensqualität: &darr; (Nachteile in den Funktionsskalen „globaler Gesundheitsstatus“, „körperliche Funktion“ und „Rollenfunktion“.)
+- Nebenwirkungen: &darr; (Nachteile in schweren UEs, SUEs und Abbruch wegen UEs. Im Detail Nachteile bei einzelnen spezifischen UEs.)
 
 ---
 
@@ -9914,10 +10681,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von ­- Abirateronacetat in Kombination mit Prednison oder Prednisolon (nur für Patienten, deren Erkrankung während oder nach einer Docetaxel-haltigen Chemotherapie progredient ist), ­- Enzalutamid (nur für Patienten, deren Erkrankung während oder nach einer Chemotherapie mit Docetaxel fortschreitet), ­- Olaparib in Kombination mit Abirateronacetat und Prednison oder Prednisolon und ­- Olaparib als Monotherapie (nur für Patienten mit BRCA1/2-Mutationen (in der Keimbahn und/oder somatisch), deren Erkrankung nach vorheriger Behandlung, die eine neue hormonelle Substanz (new hormonal agent) umfasste, progredient ist) unter Berücksichtigung der Vortherapie(n) und des BRCA1/2-Mutationsstatus.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -9931,10 +10698,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ‒ Abirateronacetat in Kombination mit Prednison oder Prednisolon (nur für Patienten, deren Erkrankung während oder nach einer Docetaxel-haltigen Chemotherapie progredient ist; nur für Patienten mit asymptomatischem oder mild symptomatischem Verlauf der Erkrankung nach Versagen der Androgenentzugstherapie, bei denen eine Chemotherapie noch nicht klinisch indiziert ist) oder ‒ Enzalutamid (nur für Patienten, deren Erkrankung während oder nach einer Chemotherapie mit Docetaxel fortschreitet; nur für Patienten mit asymptomatischem oder mild symptomatischem Verlauf der Erkrankung nach Versagen der Androgenentzugstherapie, bei denen eine Chemotherapie noch nicht klinisch indiziert ist) oder ‒ Olaparib als Monotherapie (nur für Patienten mit BRCA1/2-Mutationen (in der Keimbahn und/oder somatisch), deren Erkrankung nach vorheriger Behandlung, die eine neue hormonelle Substanz (new hormonal agent) umfasste, progredient ist) oder ‒ Olaparib in Kombination mit Abirateronacetat und Prednison oder Prednisolon (nur für Patienten mit BRCA-Mutationen sowie für Patienten ohne BRCA-Mutationen mit symptomatischem Verlauf der Erkrankung)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Vorteile in den Symptomskalen „Schmerzen“ und „Symptome des Harntraktes“; Nachteile in den Symptomskalen „Übelkeit und Erbrechen“, „Fatigue“, „Dyspnoe“ und „Appetitverlust“; insgesamt keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (In der Gesamtschau aller Ergebnisse kein für die Nutzenbewertung relevanter Unterschied; für die Funktionsskala „körperliche Funktion“ zeigt sich ein positiver Effekt.)
+- Nebenwirkungen: &darr; (Nachteile in schweren UEs, SUEs und Abbruch wegen UEs. Im Detail Nachteile bei einzelnen spezifischen UEs.)
 
 ---
 
@@ -9960,10 +10727,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ASS-Monotherapie
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteile in den Endpunkten Gesamtmortalität und kardiovaskuläre Mortalität)
+- Morbidität: &uarr; (Vorteil in dem kombinierten Endpunkt aus kardiovaskulärer Mortalität, nicht tödlichem Myokardinfarkt und nicht tödlichem Schlaganfall)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr; (Nachteile in den Endpunkten schwere Blutungen der Kategorie schwerwiegende Nebenwirkungen, Dyspnoe der Kategorie nicht schwerwiegende Nebenwirkungen sowie Abbruch wegen nicht schwerwiegender UE.)
 
 ---
 
@@ -9977,9 +10744,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Clopidogrel + ASS
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteile in den Endpunkten Gesamtmortalität und kardiovaskuläre Mortalität)
+- Morbidität: &uarr;&uarr; (Vorteil im Endpunkt Myokardinfarkt)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; Nachteile in den Endpunkten Dyspnoe, Bradykardie, unerwünschte Ereignisse und Abbruch wegen unerwünschter Ereignisse)
 
 ---
 
@@ -9991,6 +10759,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Clopidogrel + ASS
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -10004,9 +10778,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Prasugrel + ASS
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteile im Endpunkt schwere Blutungen nur für Patienten ≥ 75 Jahre, die nach einer individuellen Nutzen-Risiko-Abwägung nicht für eine Therapie mit Prasugrel + ASS infrage kommen sowie für Patienten mit transitorischer ischämischer Attacke oder ischämischem Schlaganfall in der Anamnese.)
 
 ---
 
@@ -10020,10 +10795,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ASS-Monotherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -10049,7 +10824,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Patienten mit ECOG-Performance-Status 0, 1 oder 2: − Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) unter Beachtung des Zulassungsstatus oder − Carboplatin in Kombination mit einem Drittgenerationszytostatikum (nur für Patienten mit erhöhtem Risiko für Cisplatin-induzierte Nebenwirkungen im Rahmen einer Kombinationstherapie; vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie) oder − Carboplatin in Kombination mit nab-Paclitaxel • Patienten mit ECOG-Performance-Status 2: − alternativ zur platinbasierten Kombinationsbehandlung: eine Monotherapie mit Gemcitabin oder Vinorelbin
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -10063,7 +10841,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel oder Pemetrexed
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -10077,10 +10858,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -10092,6 +10873,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Vemurafenib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -10105,10 +10892,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Vemurafenib
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteile in den Endpunkten Schmerzen, Schlaflosigkeit, Appetitverlust, Diarrhö und Gesundheitszustand.)
+- Lebensqualität: &uarr; (Vorteile in den Funktionsskalen globaler Gesundheitszustand, körperliche Funktion, emotionale Funktion, kognitive Funktion, soziale Funktion und Rollenfunktion.)
+- Nebenwirkungen: &uarr; (Vorteil in dem Endpunkt schwere UE (CTCAE-Grad ≥ 3). Im Detail Vorteile und Nachteile in spezifischen UE.)
 
 ---
 
@@ -10122,10 +10909,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr;&uarr; (Vorteile in den Endpunkten Rezidive (Ereignisrate) und Rezidivfreies Überleben.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse, schwere unerwünschte Ereignisse (CTCAE-Grad ≥ 3) und Therapieabbrüche aufgrund von unerwünschten Ereignissen.)
 
 ---
 
@@ -10151,10 +10938,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Strahlentherapie (für Patientinnen, die für eine Strahlentherapie in Frage kommen) oder - Eine patientenindividuelle, optimierte Therapie nach Maßgabe des Arztes, grundsätzlich unter Beachtung des jeweiligen Zulassungsstatus der eingesetzten Wirkstoffe (für Patientinnen, die nicht für eine Strahlentherapie in Frage kommen)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -10168,9 +10955,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Lapatinib in Kombination mit Capecitabin
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &uarr; (Vorteil in der physisch/funktionalen Komponente (TOI-PFB des FACT-B).)
+- Nebenwirkungen: &uarr; (Vorteil im Endpunkt schwere UE (CTCAE-Grad ≥ 3); im Detail überwiegend Vorteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -10184,10 +10972,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle, optimierte Therapie nach Maßgabe des Arztes, grundsätzlich unter Beachtung des jeweiligen Zulassungsstatus der eingesetzten Wirkstoffe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -10201,10 +10989,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Fortführung der präoperativ begonnenen, anti-HER2-gerichteten Therapie mit Trastuzumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &darr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied, keine finalen Daten.)
+- Morbidität: &uarr;&uarr; (Vorteile bei der Vermeidung von Rezidiven, Nachteile in Symptomskalen.)
+- Lebensqualität: &darr; (Nachteile in Funktionsskalen.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegenden unerwünschte Ereignisse (UE), schweren UE (CTCAE Grad ≥ 3) und Therapieabbrüchen aufgrund von UE sowie im Detail bei spezifischen UE.)
 
 ---
 
@@ -10230,10 +11018,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Trastuzumab Emtansin
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Vorteile bei Symptomen im Armbereich, Nachteile bei Übelkeit und Erbrechen, Appetitverlust und Diarrhö. Insgesamt kein relevanter Unterschied.)
+- Lebensqualität: &harr; (Vorteile bei der Rollenfunktion und kognitiven Funktion, Nachteile bei dem Körperbild. Insgesamt kein relevanter Unterschied.)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten SUE und schwere UE (CTCAE-Grad 3 oder 4).)
 
 ---
 
@@ -10247,10 +11035,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Therapie nach ärztlicher Maßgabe* * Im Rahmen der Therapie nach ärztlicher Maßgabe werden die Behandlungsoptionen • Lapatinib in Kombination mit Capecitabin, • Trastuzumab in Kombination mit Lapatinib (nur für Patienten mit Hormonrezeptor-negativem Mammakarzinom), • Trastuzumab in Kombination mit Capecitabin und • Tucatinib in Kombination mit Trastuzumab und Capecitabin als gleichermaßen geeignete Komparatoren erachtet. Hinsichtlich des Zulassungsstatus ist Trastuzumab in Kombination mit Capecitabin jedoch nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &uarr; (Vorteile in den Endpunkten Gesundheitszustand, Schmerzen, Schlaflosigkeit, Diarrhö, Symptome im Brust- und Armbereich; Nachteile in den Endpunkten Verstopfung, Übelkeit und Erbrechen; insgesamt ein Vorteil)
+- Lebensqualität: &uarr; (Vorteile in den Endpunkten globaler Gesundheitsstatus, körperliche, kognitive, soziale Funktion und Rollenfunktion.)
+- Nebenwirkungen: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
 
 ---
 
@@ -10263,6 +11051,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Docetaxel vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder - Irinotecan vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder - Paclitaxel vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder - Ramucirumab in Kombination mit Paclitaxel
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+
 ---
 
 ###### Patientengruppe 1745
@@ -10273,6 +11067,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Trifluridin/Tipiracil
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -10286,10 +11086,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Capecitabin oder - Eribulin oder - Vinorelbin oder - eine Anthrazyklin- oder Taxan-haltige Therapie (nur für Patientinnen und Patienten, die noch keine Anthrazyklin- und/oder Taxan-haltige Therapie erhalten haben oder die für eine erneute Anthrazyklin- oder Taxan-haltige Behandlung infrage kommen.)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Vorteile in Schmerzen und Schlaflosigkeit; Nachteile bei Übelkeit und Erbrechen und Diarrhö; insgesamt kein überwiegender Vor- oder Nachteil.)
+- Lebensqualität: &uarr; (Vorteile in körperliche Funktion, kognitive Funktion, soziale Funktion und Körperbild.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil in den Endpunkten SUE und schwere UE (CTCAE-Grad ≥ 3) und im Detail Vor- und Nachteile in spezifischen UE.)
 
 ---
 
@@ -10302,6 +11102,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** ‒ Docetaxel (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren) oder ‒ Pemetrexed (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und außer bei überwiegend plattenepithelialer Histologie) oder ‒ Nivolumab oder ‒ Pembrolizumab (nur für Patientinnen und Patienten mit PD-L1 exprimierenden Tumoren, Tumor Proportion Score (TPS) ≥ 1 %) oder ‒ Atezolizumab oder ‒ Docetaxel in Kombination mit Nintedanib (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und Adenokarzinom-Histologie)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1977
@@ -10312,6 +11118,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** ‒ Docetaxel oder ‒ Docetaxel in Kombination mit Nintedanib (nur für Patientinnen und Patienten mit Adenokarzinom-Histologie) oder ‒ Docetaxel in Kombination mit Ramucirumab oder ‒ Pemetrexed (außer für Patientinnen und Patienten mit überwiegend plattenepithelialer Histologie) oder ‒ Vinorelbin (nur für Patientinnen und Patienten, die für Docetaxel nicht geeignet sind)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -10336,10 +11148,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Nebenwirkungen: &harr; (Es liegen Vor- und Nachteile bei den Nebenwirkungen vor.)
 
 ---
 
@@ -10353,8 +11165,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (nicht bewertbar)
+- Lebensqualität: Nicht bewertbar (nicht bewertbar)
+- Nebenwirkungen: &harr; (Vorteil in dem Endpunkt Therapieabbrüche aufgrund von UE; Nachteil in dem Endpunkt schwere UE (CTCAE-Grad ≥ 3))
 
 ---
 
@@ -10368,10 +11182,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Trifluridin/Tipiracil
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil beim Gesundheitszustand.)
+- Lebensqualität: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; Vorteil bei der körperlichen Funktion.)
+- Nebenwirkungen: &uarr; (Vorteil im Endpunkt schwerwiegende unerwünschte Ereignisse.)
 
 ---
 
@@ -10395,10 +11209,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe. Im Rahmen der Therapie nach ärztlicher Maßgabe stellen die Behandlungsoptionen Lapatinib in Kombination mit Capecitabin, Lapatinib in Kombination mit Trastuzumab (nur für Patienten mit HR-negativem Mammakarzinom) und Trastuzumab in Kombination mit Capecitabin geeignete Komparatoren dar. Die Arzneimitteltherapie mit Trastuzumab in Kombination mit Capecitabin ist jedoch im vorliegenden Anwendungsgebiet nicht zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied; im Detail Nachteil bei Diarrhoe und Vorteil bei Dyspnoe)
 
 
 #### Upadacitinib
@@ -10422,10 +11236,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Alternative klassische DMARDs, sofern geeignet (z. B. MTX, Leflunomid) als Mono- oder Kombinationstherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -10439,10 +11253,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Alternative klassische DMARDs, sofern geeignet (z. B. MTX, Leflunomid) als Mono- oder Kombinationstherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -10456,10 +11270,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** bDMARDs oder tsDMARDs (Abatacept oder Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Golimumab oder Infliximab oder Sarilumab oder Tocilizumab oder Tofacitinib, in Kombination mit MTX; ggf. als Monotherapie unter Berücksichtigung des jeweiligen Zulassungsstatus bei MTX-Unverträglichkeit oder Ungeeignetheit)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -10473,10 +11287,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** bDMARDs oder tsDMARDs (Abatacept oder Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Golimumab oder Infliximab oder Sarilumab oder Tocilizumab oder Tofacitinib, in Kombination mit MTX; ggf. als Monotherapie unter Berücksichtigung des jeweiligen Zulassungsstatus bei MTX-Unverträglichkeit oder Ungeeignetheit)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil in der Remission, Vorteil in der niedrigen Krankheitsaktivität, Vorteil in der Fatigue, Vorteil im körperlichen Funktionsstatus.)
+- Lebensqualität: &uarr; (Vorteil in der Lebensqualität.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -10490,10 +11304,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Wechsel der bDMARD- oder tsDMARD-Therapie (Abatacept oder Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Golimumab oder Infliximab oder Sarilumab oder Tocilizumab oder Tofacitinib, in Kombination mit MTX; ggf. als Monotherapie unter Berücksichtigung des jeweiligen Zulassungsstatus bei MTX-Unverträglichkeit oder Ungeeignetheit; oder bei Patienten mit schwerer rheumatoider Arthritis Rituximab unter Berücksichtigung der Zulassung) in Abhängigkeit von der Vortherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -10507,10 +11321,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Wechsel der bDMARD- oder tsDMARD-Therapie (Abatacept oder Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Golimumab oder Infliximab oder Sarilumab oder Tocilizumab oder Tofacitinib, in Kombination mit MTX; ggf. als Monotherapie unter Berücksichtigung des jeweiligen Zulassungsstatus bei MTX-Unverträglichkeit oder Ungeeignetheit; oder bei Patienten mit schwerer rheumatoider Arthritis Rituximab unter Berücksichtigung der Zulassung) in Abhängigkeit von der Vortherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil in der niedrigen Krankheitsaktivität)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -10524,10 +11338,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Wechsel der bDMARD- oder tsDMARD-Therapie (Abatacept oder Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Golimumab oder Infliximab oder Sarilumab oder Tocilizumab oder Tofacitinib, in Kombination mit MTX; ggf. als Monotherapie unter Berücksichtigung des jeweiligen Zulassungsstatus bei MTX-Unverträglichkeit oder Ungeeignetheit; oder bei Patienten mit schwerer rheumatoider Arthritis Rituximab unter Berücksichtigung der Zulassung) in Abhängigkeit von der Vortherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -10541,10 +11355,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein TNF-alpha-Antagonist (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab) oder ein Interleukin-Inhibitor (Ixekizumab oder Secukinumab oder Ustekinumab), ggf. in Kombination mit Methotrexat
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile bei der minimalen Krankheitsaktivität (MDA), der Remission (DAPSA), dem körperlichen Funktionsstatus (HAQ-DI) und dem Gesundheitszustand (EQ-5D VAS).)
+- Lebensqualität: &uarr; (Vorteil im SF-36 (PCS + MCS).)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -10557,6 +11371,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** der Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab oder Ixekizumab oder Secukinumab oder Ustekinumab), ggf. in Kombination mit Methotrexat
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1054
@@ -10567,6 +11387,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** ein TNF-α-Inhibitor (Etanercept oder Adalimumab oder Infliximab oder Golimumab oder Certolizumab pegol) oder ein IL17-Inhibitor (Secukinumab)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -10580,10 +11406,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** der Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum: TNF-α-Inhibitor (Adalimumab oder Certolizumab pegol oder Etanercept oder Golimumab oder Infliximab) oder IL17-Inhibitor (Secukinumab)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -10597,10 +11423,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dupilumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Morbidität: &uarr;&uarr; (Vorteile bei Remission, EASI 90, Juckreiz und patientenberichteter Symptomatik)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr; (Nachteil bei der Gesamtrate schwerer UEs)
 
 ---
 
@@ -10614,10 +11440,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dupilumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -10631,10 +11457,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dupilumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -10647,6 +11473,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ein TNF-α-Antagonist (Adalimumab oder Infliximab oder Golimumab) oder Vedolizumab oder Ustekinumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1711
@@ -10657,6 +11489,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ein Wechsel der Therapie auf Vedolizumab oder Tofacitinib oder Ustekinumab oder einen TNF-α-Antagonisten (Adalimumab oder Infliximab oder Golimumab), jeweils unter Berücksichtigung der Zulassung und der Vortherapie(n)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -10669,6 +11507,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** ein TNF-α-Inhibitor (Etanercept oder Adalimumab oder Golimumab oder Certolizumab pegol) oder ein IL-17-Inhibitor (Secukinumab oder Ixekizumab)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+
 ---
 
 ###### Patientengruppe 1728
@@ -10679,6 +11523,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** der Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum: TNF-α-Inhibitor (Etanercept oder Adalimumab oder Golimumab oder Certolizumab pegol) oder ein IL-17-Inhibitor (Secukinumab oder Ixekizumab)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -10691,6 +11541,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ein TNF-α-Antagonist* (Adalimumab oder Infliximab) oder Integrin-Inhibitor (Vedolizumab) oder Interleukin-Inhibitor (Ustekinumab) * Die Anwendungsgebiete der TNF-α-Inhibitoren setzen voraus, dass die Patienten auf eine vollständige und adäquate Therapie mit einem Kortikosteroid und/oder einem Immunsuppressivum (konventionelle Therapie) nicht ausreichend angesprochen oder eine Unverträglichkeit oder eine Kontraindikation für solche Therapien haben (Fachinformation Humira® Stand Januar 2017).
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1806
@@ -10701,6 +11557,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ein Wechsel der Therapie auf einen TNF-α-Antagonisten* (Adalimumab oder Infliximab) oder Integrin-Inhibitoren (Vedolizumab) oder Interleukin-Inhibitoren (Ustekinumab) * Die Anwendungsgebiete der TNF-α-Inhibitoren setzen voraus, dass die Patienten auf eine vollständige und adäquate Therapie mit einem Kortikosteroid und/oder einem Immunsuppressivum (konventionelle Therapie) nicht ausreichend angesprochen oder eine Unverträglichkeit oder eine Kontraindikation für solche Therapien haben (Fachinformation Humira® Stand Januar 2017).
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -10724,9 +11586,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dacarbazin
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten unerwünschte Ereignisse (CTCAE-Grad ≥ 3), schwerwiegende unerwünschte Ereignisse und Therapieabbrüche aufgrund unerwünschter Ereignisse.)
 
 
 #### Venetoclax
@@ -10750,10 +11613,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Chemo-Immuntherapie unter Auswahl von Bendamustin, Chlorambucil, Fludarabin mit Cyclophosphamid und Ibrutinib mit Bendamustin, jeweils in Kombination mit Rituximab, sowie unter Berücksichtigung des Allgemeinzustandes sowie Erfolg und Verträglichkeit der Vortherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil im Endpunkt schwerwiegende unerwünschte Ereignisse (SUE). Im Detail Vorteile in spezifischen UE.)
 
 ---
 
@@ -10766,6 +11629,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle Chemo-Immuntherapie unter Auswahl von Bendamustin, Chlorambucil, Fludarabin mit Cyclophosphamid und Ibrutinib mit Bendamustin, jeweils in Kombination mit Rituximab, sowie unter Berücksichtigung des Allgemeinzustandes sowie Erfolg und Verträglichkeit der Vortherapie.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1699
@@ -10776,6 +11645,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ibrutinib oder Idelalisib + Rituximab oder Best-Supportive-Care (nur für Patienten, bei denen eine vorangehende Therapie mit Ibrutinib oder Idelalisib + Rituximab versagt hat)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -10788,6 +11663,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ibrutinib oder Idelalisib + Rituximab oder Best-Supportive-Care (nur für Patienten, bei denen eine vorangehende Therapie mit Ibrutinib oder Idelalisib + Rituximab versagt hat)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1700
@@ -10798,6 +11679,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ibrutinib oder Idelalisib + Rituximab oder Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -10811,10 +11698,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Fludarabin in Kombination mit Cyclophosphamid und Rituximab (FCR)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -10827,6 +11714,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Bendamustin in Kombination mit Rituximab oder Chlorambucil in Kombination mit Rituximab oder Obinutuzumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 962
@@ -10837,6 +11730,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ibrutinib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -10850,9 +11749,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Azacitidin oder - Decitabin oder - Glasdegib in Kombination mit niedrig dosiertem Cytarabin
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil im Endpunkt Transfusionsunabhängigkeit)
+- Lebensqualität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied, im Detail Vor- und Nachteile bei spezifischen UE)
 
 ---
 
@@ -10882,10 +11782,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Tamoxifen in Kombination mit einer Ausschaltung der Ovarialfunktion
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -10899,10 +11799,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine weitere endokrine Therapie in Abhängigkeit der Vortherapie mit: • Tamoxifen oder • Anastrozol oder • Fulvestrant; nur für Patientinnen mit Rezidiv oder Progress nach einer Antiöstrogen- Behandlung oder • Letrozol; nur für Patientinnen mit Rezidiv oder Progress nach einer Antiöstrogen- Behandlung oder • Exemestan; nur für Patientinnen mit Progress nach einer Antiöstrogen-Behandlung oder • Everolimus in Kombination mit Exemestan; nur für Patientinnen ohne symptomatische viszerale Metastasierung, nachdem es zu einer Progression nach einem nicht-steroidalen Aromataseinhibitor gekommen ist.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -10916,10 +11816,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine endokrine Therapie nach Maßgabe des Arztes, unter Beachtung der jeweiligen Zulassung. Im vorliegenden Anwendungsgebiet sind Tamoxifen, Letrozol, Exemestan, Megestrolacetat und Medroxyprogesteronacetat zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -10933,10 +11833,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Tamoxifen in Kombination mit einer Ausschaltung der Ovarialfunktion.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -10950,10 +11850,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine endokrine Therapie nach Maßgabe des Arztes, unter Beachtung der jeweiligen Zulassung. Im vorliegenden Anwendungsgebiet sind Tamoxifen, Letrozol, Exemestan, Megestrolacetat und Medroxyprogesteronacetat zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwere UE (CTCAE-Grad ≥ 3) sowie im Detail bei spezifischen UE)
 
 ---
 
@@ -10967,8 +11867,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Anastrozol oder • Letrozol oder • Fulvestrant oder • ggf. Tamoxifen, wenn Aromatasehemmer nicht geeignet sind oder • Ribociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol) oder • Abemaciclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol) oder • Palbociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol) oder • Ribociclib in Kombination mit Fulvestrant oder • Palbociclib in Kombination mit Fulvestrant
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: Nicht bewertbar (Für die Morbidität (außer Schmerz) liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile bei den schwerwiegenden UE, bei den schweren UE, bei den Therapieabbrüchen aufgrund von UE und im Detail Nachteile bei den spezifischen UE)
 
 ---
 
@@ -10982,8 +11884,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine weitere endokrine Therapie mit: • Tamoxifen oder • Anastrozol oder • Fulvestrant als Monotherapie; nur für Patientinnen mit Rezidiv oder Progress nach einer Antiöstrogen-Behandlung oder • Letrozol; nur für Patientinnen mit Rezidiv oder Progress nach einer Antiöstrogen-Behandlung oder • Exemestan; nur für Patientinnen mit Progress nach einer Antiöstrogen-Behandlung oder • Everolimus in Kombination mit Exemestan; nur für Patientinnen ohne symptomatische viszerale Metastasierung, nachdem es zu einer Progression nach einem nicht-steroidalen Aromataseinhibitor gekommen ist. oder • Ribociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol) oder • Abemaciclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol) oder • Palbociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol) oder • Ribociclib in Kombination mit Fulvestrant oder • Palbociclib in Kombination mit Fulvestrant
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Für die Morbidität (außer Schmerz) liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile bei den schweren UE, bei den Therapieabbrüchen aufgrund von UE und im Detail Nachteile bei den spezifischen UE)
 
 ---
 
@@ -10997,10 +11901,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Tamoxifen (ggf. zusätzlich mit einer Ausschaltung der Ovarialfunktion)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteil bei der Vermeidung von Rezidiven (Rezidivrate und krankheitsfreies Überleben))
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten SUE, schwere UE (CTCAE-Grad ≥ 3), Abbruch wegen UE. Im Detail Nachteile in spezifischen UE.)
 
 ---
 
@@ -11014,10 +11918,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − ein Aromataseinhibitor (Anastrozol oder Letrozol) allein, ggf. Tamoxifen falls Aromataseinhibitoren nicht geeignet sind, oder − ein Aromataseinhibitor (Anastrozol oder Exemestan) in Sequenz nach Tamoxifen
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteil bei der Vermeidung von Rezidiven (Rezidivrate und krankheitsfreies Überleben))
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten SUE, schwere UE (CTCAE-Grad ≥ 3), Abbruch wegen UE. Im Detail überwiegend Nachteile in spezifischen UE.)
 
 ---
 
@@ -11029,6 +11933,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Tamoxifen
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -11042,10 +11952,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Anastrozol oder • Letrozol oder • Fulvestrant oder • ggf. Tamoxifen, wenn Aromatasehemmer nicht geeignet sind oder • Exemestan (nur für Patientinnen mit Progress nach einer Antiöstrogen-Behandlung) oder • Ribociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol) oder • Palbociclib in Kombination mit einem nicht steroidalen-Aromatasehemmer (Anastrozol, Letrozol) oder • Ribociclib in Kombination mit Fulvestrant oder • Abemaciclib in Kombination mit Fulvestrant oder • Palbociclib in Kombination mit Fulvestrant
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &darr;&darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &darr;&darr; (Nachteile, insbesondere in den Endpunkten Fatigue, Übelkeit und Erbrechen, Appetitverlust)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: &darr;&darr; (Nachteile bei den schwerwiegenden UE, bei den schweren UE, bei den Therapieabbrüchen aufgrund von UE und im Detail Nachteile bei den spezifischen UE)
 
 ---
 
@@ -11070,6 +11980,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ranibizumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 79
@@ -11082,9 +11998,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Kombinations-Chemotherapie aus 5-Fluorouracil, Folinsäure und Irinotecan
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende UE, schwere UE (CTCAE Grad 3 und 4) und Abbruch wegen UE.)
 
 ---
 
@@ -11096,6 +12013,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Dexamethason (Intravitreales Implantat) oder Ranibizumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -11109,10 +12032,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ranibizumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -11125,6 +12048,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ranibizumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 513
@@ -11135,6 +12064,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ranibizumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -11160,8 +12095,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - die konventionelle Androgendeprivation in Kombination mit Docetaxel mit oder ohne Prednison oder Prednisolon (nur für Patienten mit Fernmetastasen (M1-Stadium) und gutem Allgemeinzustand (nach ECOG / WHO 0 bis 1 bzw. Karnofsky Index ≥ 70 %) oder - die konventionelle Androgendeprivation in Kombination mit Abirateronacetat und Prednison oder Prednisolon (nur für Patienten mit neu diagnostiziertem Hochrisiko-metastasiertem hormonsensitivem Prostatakarzinom)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Lebensqualität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Nebenwirkungen: &harr; (Vorteil im Endpunkt schwerwiegende UE)
 
 ---
 
@@ -11175,10 +12112,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Das abwartende Vorgehen unter Beibehaltung der bestehenden konventionellen Androgendeprivation (ADT).
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil in der symptomatischen Progression)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied; Vorteil und Nachteile in einzelnen spezifischen UE)
 
 ---
 
@@ -11204,10 +12141,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die zweckmäßige Vergleichstherapie zur peri- und postoperativen Primärprophylaxe tiefer Venenthrombosen nach elektiven Kniegelenksersatzoperationen sind diejenigen niedermolekularen Heparine, die für diese Indikation zugelassenen sind (z.B. Enoxaparin). Die Wirkstoffe sollen in den für den Schweregrad zugelassenen Dosierungen gegeben und patientenindividuell optimiert werden.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -11221,10 +12158,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die zweckmäßige Vergleichstherapie zur peri- und postoperativen Primärprophylaxe tiefer Venenthrombosen nach elektiven Hüftgelenksersatzoperationen sind diejenigen niedermolekularen Heparine, die für diese Indikation zugelassenen sind (z.B. Enoxaparin). Die Wirkstoffe sollen in den für den Schweregrad zugelassenen Dosierungen gegeben und patientenindividuell optimiert werden.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile im Endpunkt "symptomatische tiefe Venenthrombose".)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -11238,10 +12175,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Vitamin-K-Antagonisten
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil im Endpunkt hämorrhagischer Schlaganfall)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil im unerwünschten Ereignis Blutungen (größere und klinisch relevante nicht größere Blutungen))
 
 ---
 
@@ -11255,10 +12192,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Initial-Behandlung (Antikoagulation) einer tiefen Venenthrombose (TVT) bzw. einer Lungenembolie (LE) bei Erwachsenen Niedermolekulare Heparine, die für diese Indikationen zugelassen sind (z.B. Enoxaparin). Die Wirkstoffe sollen in den für die jeweilige Indikation zugelassenen Dosierungen gegeben und patientenindividuell optimiert eingesetzt werden. (parallel zur Initial-Behandlung einzuleitende) Sekundär-Prophylaxe einer rezidivierenden tiefen Venenthrombose (TVT) bzw. Lungenembolie (LE) bei Erwachsenen Vitamin-K-Antagonisten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteile im unerwünschten Ereignis „schwere Blutungen" sowie im unerwünschten Ereignis „klinisch relevante nicht schwere Blutungen“.)
 
 ---
 
@@ -11270,6 +12207,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** gilt als nicht belegt
 
 **Vergleichstherapie:** Vitamin-K-Antagonisten
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -11295,10 +12238,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Nivolumab oder Everolimus
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -11312,9 +12255,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sorafenib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vor- und Nachteile im Detail nur bei spezifischen UE; in der Gesamtbetrachtung überwiegen die Vorteile, insbesondere aufgrund des Ausmaßes der Abnahme von schweren Hand-Fuß-Syndromen (CTCAE-Grad ≥ 3).)
 
 ---
 
@@ -11339,6 +12283,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** eine patientenindividuelle Therapieeskalation: - der hochdosierten inhalativen Corticosteroide (ICS) und der langwirksamen Beta-Agonisten (LABA) mit Tiotropium und ggf. orale Corticosteroide (OCS)*' oder - bei IgE-vermittelter Pathogenese des Asthmas ggf. Omalizumab zusätzlich zu hochdosierten ICS und LABA und ggf. OCS*' oder - ggf. der hochdosierten ICS und LABA mit OCS*'*² oder - ggf. der hochdosierten ICS und LABA mit Mepolizumab bei Patienten, die nicht anderweitig eskaliert werden können *' Orale Corticosteroide sollten nur kurzzeitig und in der niedrigst-wirksamen Dosis eingesetzt werden. Bei der Behandlung des Asthmas mit OCS ist darauf zu achten, dass die Dosierung von OCS die Cushing-Schwelle möglichst nicht dauerhaft überschreitet. Eine Behandlung von Exazerbationen ist davon abzugrenzen. *² Eine Therapie mit OCS ist im Vergleich zu den anderen genannten Wirkstoffen - sofern diese geeignet sind - nicht als zu präferierende Therapieoption anzusehen.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1336
@@ -11351,10 +12301,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine patientenindividuelle Therapieeskalation: - der hochdosierten inhalativen Corticosteroide (ICS) und der langwirksamen Beta-Agonisten (LABA) mit Tiotropium und ggf. orale Corticosteroide (OCS)*' oder - bei IgE-vermittelter Pathogenese des Asthmas ggf. Omalizumab zusätzlich zu hochdosierten ICS und LABA und ggf. OCS*' oder - ggf. der hochdosierten ICS und LABA mit OCS*'*² oder - ggf. der hochdosierten ICS und LABA mit Mepolizumab bei Patienten, die nicht anderweitig eskaliert werden können *' Orale Corticosteroide sollten nur kurzzeitig und in der niedrigst-wirksamen Dosis eingesetzt werden. Bei der Behandlung des Asthmas mit OCS ist darauf zu achten, dass die Dosierung von OCS die Cushing-Schwelle möglichst nicht dauerhaft überschreitet. Eine Behandlung von Exazerbationen ist davon abzugrenzen. *² Eine Therapie mit OCS ist im Vergleich zu den anderen genannten Wirkstoffen - sofern diese geeignet sind - nicht als zu präferierende Therapieoption anzusehen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil durch eine Dosisreduktion der oralen Glukokortikoidtherapie (OCS))
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -11368,10 +12318,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individualisierte Therapie unter Auswahl von Cyclophosphamid und Rituximab zur Remissionsinduktion gefolgt von Mepolizumab zum Remissionserhalt jeweils in Kombination mit Glukokortikoiden
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -11385,10 +12335,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Mepolizumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede im SF-36.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -11412,10 +12362,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil für „globale Heilung“ und „Wiederauftreten der CDI“.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 
 #### Bimekizumab
@@ -11439,10 +12389,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab oder Guselkumab oder Ixekizumab oder Secukinumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteile in der Hautsymptomatik)
+- Lebensqualität: &uarr; (Vorteil bei DLQI gegenüber Adalimumab; kein Vorteil bei DLQI gegenüber Secukinumab)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt SUE sowie im Detail bei spezifischem UE „Pilzinfektionen“)
 
 ---
 
@@ -11456,10 +12406,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab oder Brodalumab oder Guselkumab oder Infliximab oder Ixekizumab oder Risankizumab oder Secukinumab oder Ustekinumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in der Hautsymptomatik)
+- Lebensqualität: &uarr; (Vorteil bei DLQI gegenüber Adalimumab; kein Vorteil bei DLQI gegenüber Secukinumab)
+- Nebenwirkungen: &darr; (Nachteil im Detail bei spezifischem UE „Pilzinfektionen“)
 
 ---
 
@@ -11473,10 +12423,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein TNF-alpha-Antagonist (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab) oder ein Interleukin-Inhibitor (Ixekizumab oder Secukinumab oder Ustekinumab), ggf. in Kombination mit Methotrexat
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein statistisch signifikanter Unterschied)
+- Morbidität: &harr; (Kein statistisch signifikanter Unterschied)
+- Lebensqualität: &harr; (Kein statistisch signifikanter Unterschied)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied, im Detail Nachteil im Endpunkt Pilzinfektionen)
 
 ---
 
@@ -11490,10 +12440,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** der Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab oder Ixekizumab oder Secukinumab oder Ustekinumab), ggf. in Kombination mit Methotrexat
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -11506,6 +12456,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** ein TNF-α-Inhibitor (Adalimumab oder Certolizumab pegol oder Etanercept oder Golimumab oder Infliximab) oder ein IL-17-Inhibitor (Secukinumab oder Ixekizumab)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1887
@@ -11516,6 +12472,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** der Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum: TNF-α-Inhibitor (Adalimumab oder Certolizumab pegol oder Etanercept oder Golimumab oder Infliximab) oder IL-17-Inhibitor (Secukinumab oder Ixekizumab)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -11528,6 +12490,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** ein TNF-α-Inhibitor (Adalimumab oder Certolizumab pegol oder Etanercept oder Golimumab) oder ein IL-17-Inhibitor (Ixekizumab oder Secukinumab)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1889
@@ -11539,6 +12507,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** der Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum: TNF-α-Inhibitor (Adalimumab oder Certolizumab pegol oder Etanercept oder Golimumab) oder IL-17-Inhibitor (Ixekizumab oder Secukinumab)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2008
@@ -11549,6 +12523,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Adalimumab oder Secukinumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -11574,9 +12554,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Palliative Behandlung mit Dexamethason, Prednison, Prednisolon oder Methylprednisolon sowie "Best Supportive Care" (z.B. adäquate Schmerztherapie).
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse, Therapieabbruch wegen UE und tödlich verlaufenden UE.)
 
 ---
 
@@ -11590,10 +12571,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel in Kombination mit Prednison oder Prednisolon (Docetaxel-Retherapie).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -11619,9 +12600,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Nivolumab oder Everolimus
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil bezüglich der krankheitsbedingten Symptomatik (FKSI-DRS).)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt schwere UE (CTCAE ≥ 3); im Detail überwiegend Nachteile bei spezifischen UE.)
 
 ---
 
@@ -11635,10 +12617,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Bevacizumab in Kombination mit Interferon alfa-2a oder - Monotherapie mit Pazopanib oder - Monotherapie mit Sunitinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -11652,10 +12634,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Temsirolimus oder - Sunitinib
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -11669,10 +12651,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende UE, schwere UE (CTCAE Grad ≥ 3) und Abbruch wegen UE.)
 
 ---
 
@@ -11684,6 +12666,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Pembrolizumab in Kombination mit Axitinib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -11697,9 +12685,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Avelumab in Kombination mit Axitinib (nur für Patienten mit ungünstigem Risikoprofil) oder • Nivolumab in Kombination mit Ipilimumab oder • Pembrolizumab in Kombination mit Axitinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -11713,10 +12702,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von - Sorafenib, - Lenvatinib und - Best-Supportive-Care unter Berücksichtigung der Vortherapie und des Allgemeinzustandes.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -11741,6 +12730,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Amisulprid oder Aripiprazol oder Olanzapin oder Paliperidon oder Quetiapin oder Risperidon oder Ziprasidon.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 748
@@ -11753,10 +12748,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Amisulprid oder Aripiprazol oder Olanzapin oder Paliperidon oder Quetiapin oder Risperidon oder Ziprasidon.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteile im psychosozialen Funktionsniveau.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -11770,10 +12765,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Amisulprid oder Aripiprazol oder Olanzapin oder Paliperidon oder Quetiapin oder Risperidon oder Ziprasidon.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -11797,10 +12792,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Alglucosidase alfa
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil in der Fähigkeit, sich zu bewegen und im Energielevel.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 
 #### Dapagliflozin/Metformin
@@ -11823,10 +12818,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) oder Metformin + Empagliflozin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -11840,10 +12835,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) oder Metformin + Empagliflozin oder Metformin + Liraglutid Hinweis: Empagliflozin ​und Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil in „Hospitalisierung aufgrund von Herzinsuffizienz“, „schwere Herzinsuffizienz", im kombinierten Endpunkt „Nierenerkrankung" sowie in der Einzelkomponente „bestätigte anhaltende ≥ 40 % Reduktion der eGFR“.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil in der Gesamtrate der SUE, sowie im Detail bei den spezifischen UEs „Blasenkarzinom“, „Erkrankungen der Atemwege, des Brustraumes und Mediastinums“ und „Leber- und Gallenerkrankungen“.)
 
 ---
 
@@ -11857,10 +12852,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -11874,10 +12869,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin oder Humaninsulin + Empagliflozin oder Humaninsulin + Liraglutid oder Humaninsulin, wenn die bestimmten Kombinationspartner gemäß Fachinformation unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam sind. Hinweis: Empagliflozin ​und Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil in „Hospitalisierung aufgrund von Herzinsuffizienz“, „schwere Herzinsuffizienz", im kombinierten Endpunkt „Nierenerkrankung" sowie in der Einzelkomponente „bestätigte anhaltende ≥ 40 % Reduktion der eGFR“.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil in der Gesamtrate der SUE, sowie im Detail bei den spezifischen UEs „Blasenkarzinom“, „Erkrankungen der Atemwege, des Brustraumes und Mediastinums“ und „Leber- und Gallenerkrankungen“.)
 
 ---
 
@@ -11891,10 +12886,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die Optimierung des Humaninsulinregimes (ggf. + Metformin)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -11908,10 +12903,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die Optimierung des Humaninsulinregimes (ggf. + Metformin oder Empagliflozin oder Liraglutid) Hinweis: Empagliflozin ​und Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil in „Hospitalisierung aufgrund von Herzinsuffizienz“, „schwere Herzinsuffizienz", im kombinierten Endpunkt „Nierenerkrankung" sowie in der Einzelkomponente „bestätigte anhaltende ≥ 40 % Reduktion der eGFR“.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil in der Gesamtrate der SUE, sowie im Detail bei den spezifischen UEs „Blasenkarzinom“, „Erkrankungen der Atemwege, des Brustraumes und Mediastinums“ und „Leber- und Gallenerkrankungen“.)
 
 ---
 
@@ -11937,10 +12932,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt)
+- Morbidität: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
 
 ---
 
@@ -11954,10 +12949,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) oder • Metformin + Empagliflozin oder • Metformin + Liraglutid Liraglutid nur für Patienten mit manifester kardiovaskulärer Erkrankung, die weitere Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker erhalten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor)
+- Morbidität: &harr; (Nicht mehr als geringfügiger Vorteil beim Endpunkt „nicht tödlicher Schlaganfall“, im kombinierten Endpunkt MACE, insbesondere in der Einzelkomponente „nicht tödlicher Schlaganfall“, und beim Endpunkt „andauernde Verschlechterung der Nierenfunktion“)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &darr; (Für die Nutzenbewertung relevanter Nachteil beim Abbruch wegen unerwünschter Ereignisse und beim Endpunkt „gastrointestinale Erkrankungen“)
 
 ---
 
@@ -11971,10 +12966,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Humaninsulin + Metformin oder • Humaninsulin + Empagliflozin oder • Humaninsulin + Liraglutid oder • Humaninsulin, wenn die bestimmten Kombinationspartner gemäß Fachinformation unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam sind Empagliflozin bzw. Liraglutid nur für Patienten mit manifester kardiovaskulärer Erkrankung, die weitere Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker erhalten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor)
+- Morbidität: &harr; (Nicht mehr als geringfügiger Vorteil beim Endpunkt „nicht tödlicher Schlaganfall“, im kombinierten Endpunkt MACE, insbesondere in der Einzelkomponente „nicht tödlicher Schlaganfall“, und beim Endpunkt „andauernde Verschlechterung der Nierenfunktion“)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &darr; (Für die Nutzenbewertung relevanter Nachteil beim Abbruch wegen unerwünschter Ereignisse und beim Endpunkt „gastrointestinale Erkrankungen“)
 
 ---
 
@@ -11988,10 +12983,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die Optimierung des Humaninsulinregimes (ggf. + Metformin oder Empagliflozin oder Liraglutid) Empagliflozin bzw. Liraglutid nur für Patienten mit manifester kardiovaskulärer Erkrankung, die weitere Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker erhalten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor)
+- Morbidität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &uarr; (Für die Nutzenbewertung relevanter Vorteil bei der Vermeidung von schweren unerwünschten Ereignissen)
 
 ---
 
@@ -12005,10 +13000,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Die Optimierung des Humaninsulinregimes (ggf. + Metformin oder Liraglutid) Liraglutid nur für Patienten mit manifester kardiovaskulärer Erkrankung, die weitere Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker erhalten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor)
+- Morbidität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &uarr; (Für die Nutzenbewertung relevanter Vorteil bei der Vermeidung von schweren, und nicht schweren, symptomatischen Hypoglykämien)
 
 ---
 
@@ -12020,6 +13015,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Berücksichtigung des HbA1c-Wertes, der Vortherapien und Komplikationen unter Auswahl von - Metformin + Humaninsulin - Metformin + Liraglutid - einer Eskalation der Insulintherapie (konventionelle Therapie (CT) ggf. + Metformin bzw. intensivierte Insulintherapie (ICT))
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -12045,9 +13046,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Vitamin-K-Antagonisten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteile im kombinierten Endpunkt "schwere Blutungen oder klinisch relevante nicht schwere Blutungen", im Endpunkt "klinisch relevante nicht schwere Blutungen" sowie im Endpunkt "schwere Blutungen")
 
 ---
 
@@ -12061,10 +13063,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Vitamin-K-Antagonisten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -12089,10 +13091,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Efavirenz in Kombination mit zwei Nukleosid-/Nukleotidanaloga (Tenofovir plus Emtricitabin oder Abacavir plus Lamivudin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil in Hautereignissen und Erkrankungen des Nervensystems.)
 
 ---
 
@@ -12106,7 +13108,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen. Die jeweilige Zulassung der Präparate ist zu beachten
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -12130,10 +13135,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Optimierte Standardtherapie mit Baclofen (oral) oder Tizanidin oder Dantrolen unter Berücksichtigung der zugelassenen Dosierungen. Es sollen mindestens zwei vorangegangene Therapien erfolgt sein, in denen jeweils verschiedene orale Spasmolytika, davon mindestens ein Arzneimittel mit Baclofen oder Tizanidin, optimiert eingesetzt sind.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile in den Endpunkten Verbesserung der Spastik, Schwere der Spasmen und - nur für Frauen - Schmerz durch Spastik)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 
 #### Fezolinetant
@@ -12157,10 +13162,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Auswahl einer systemischen Hormonersatztherapie (bei Frauen mit intaktem Uterus (Estrogen/Gestagen-Kombination bei Frauen mit intaktem Uterus bzw. nur Estrogen bei Frauen ohne Uterus)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -12174,10 +13179,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteile in der Reduktion moderater und schwerer vasomotorischer Symptome und bei Schlafstörungen.)
+- Lebensqualität: &uarr; (Vorteile bei der gesundheitsbezogenen Lebensqualität (MENQOL).)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -12203,10 +13208,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Alternative klassische DMARDs, sofern geeignet (MTX, Leflunomid, Sulfasalazin) als Mono- oder Kombinationstherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -12220,10 +13225,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Alternative klassische DMARDs, sofern geeignet (MTX, Leflunomid, Sulfasalazin) als Mono- oder Kombinationstherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -12237,10 +13242,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** bDMARDs oder tsDMARDs (Abatacept oder Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Golimumab oder Infliximab oder Sarilumab oder Tocilizumab oder Tofacitinib oder Upadacitinib) in Kombination mit MTX; ggf. als Monotherapie unter Berücksichtigung des jeweiligen Zulassungsstatus bei MTX-Unverträglichkeit oder Ungeeignetheit
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -12254,10 +13259,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** bDMARDs oder tsDMARDs (Abatacept oder Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Golimumab oder Infliximab oder Sarilumab oder Tocilizumab oder Tofacitinib oder Upadacitinib) in Kombination mit MTX
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile in der Remission und bei der niedrigen Krankheitsaktivität.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -12271,10 +13276,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Wechsel der bDMARD- oder tsDMARD-Therapie (Abatacept oder Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Golimumab oder Infliximab oder Sarilumab oder Tocilizumab oder Tofacitinib oder Upadacitinib, in Kombination mit MTX; ggf. als Monotherapie unter Berücksichtigung des jeweiligen Zulassungsstatus bei MTX-Unverträglichkeit oder Ungeeignetheit; oder bei Patienten mit schwerer rheumatoider Arthritis Rituximab unter Berücksichtigung der Zulassung) in Abhängigkeit von der Vortherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -12288,10 +13293,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Wechsel der bDMARD- oder tsDMARD-Therapie (Abatacept oder Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Golimumab oder Infliximab oder Sarilumab oder Tocilizumab oder Tofacitinib oder Upadacitinib, in Kombination mit MTX; oder bei Patienten mit schwerer rheumatoider Arthritis Rituximab unter Berücksichtigung der Zulassung) in Abhängigkeit von der Vortherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -12304,6 +13309,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** ein TNF-α-Antagonist (Adalimumab oder Infliximab oder Golimumab) oder Vedolizumab oder Ustekinumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1517
@@ -12314,6 +13325,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** ein Wechsel der Therapie auf Vedolizumab oder Tofacitinib oder Ustekinumab oder ein TNF-α-Antagonist (Adalimumab oder Infliximab oder Golimumab), jeweils unter Berücksichtigung der Zulassung und der Vortherapie(n)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -12339,9 +13356,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Glatirameracetat oder Beta-Interferone 1a oder 1b
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteil durch Reduktion der jährlichen Schubrate.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Vorteil beim UE „Grippeähnliche Erkrankung"; Nachteil bei den schwerwiegenden Unerwünschten Ereignissen.)
 
 ---
 
@@ -12353,6 +13371,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Glatirameracetat oder Interferon-beta (IFN-β) 1a oder 1b, Umstellung in Abhängigkeit von der Vortherapie, ggf. Fortführung bzw. Anpassung der vorangegangenen Therapie
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -12366,10 +13390,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung der Vortherapie und der Zulassung.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -12383,10 +13407,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach Maßgabe des Arztes
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -12400,10 +13424,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Interferon beta-1a oder Interferon beta-1b oder Glatirameracetat, unter Berücksichtigung des Zulassungsstatus
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil für „Zeit bis zum ersten bestätigten Schub“.)
+- Lebensqualität: &uarr; (Vorteil in der patientenberichteten gesundheitsbezogenen Lebensqualität.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -12417,10 +13441,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Interferon beta-1a oder Interferon beta-1b oder Glatirameracetat, unter Berücksichtigung des Zulassungsstatus
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil für „jährliche Schubrate“ und „Verbesserung der Behinderung“.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -12432,6 +13456,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Therapie nach Maßgabe des Arztes
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es wurden keine bewertbaren Daten vorgelegt.)
+- Morbidität: Nicht bewertbar (Es wurden keine bewertbaren Daten vorgelegt.)
+- Lebensqualität: Nicht bewertbar (Es wurden keine bewertbaren Daten vorgelegt.)
+- Nebenwirkungen: Nicht bewertbar (Es wurden keine bewertbaren Daten vorgelegt.)
 
 ---
 
@@ -12455,8 +13485,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied; im Detail Nachteile und ein Vorteil bei spezifischen UE)
 
 
 #### Indacaterol/Glycopyrronium
@@ -12479,10 +13511,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** langwirksame Beta-2-Sympathomimetika (Formoterol oder Salmeterol) oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil bei COPD-Symptomen.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -12496,10 +13528,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** langwirksame Beta-2-Sympathomimetika (Formoterol oder Salmeterol) oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteile bei COPD-Symptomen, Amtemnot (Transition Dyspnea Index (TDI)) und moderaten Exzerbationen.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -12512,6 +13544,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** langwirksame Beta-2-Sympathomimetika (Formoterol oder Salmeterol) oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 133
@@ -12522,6 +13560,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** langwirksame Beta-2-Sympathomimetika (Formoterol oder Salmeterol) oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen zusätzlich inhalative Corticosteroide
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -12547,10 +13591,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Bortezomib in Kombination mit pegyliertem liposomalen Doxorubicin oder - Bortezomib in Kombination mit Dexamethason oder - Lenalidomid in Kombination mit Dexamethason oder - Pomalidomid in Kombination mit Dexamethason oder - Elotuzumab in Kombination mit Lenalidomid und Dexamethason oder - Elotuzumab in Kombination mit Pomalidomid und Dexamethason oder - Carfilzomib in Kombination mit Lenalidomid und Dexamethason oder - Carfilzomib in Kombination mit Dexamethason oder - Daratumumab in Kombination mit Lenalidomid und Dexamethason oder - Daratumumab in Kombination mit Bortezomib und Dexamethason
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen Schmerzen und Diarrhö)
+- Lebensqualität: &uarr; (Vorteile im globaler Gesundheitsstatus und der Funktionsskala Rollenfunktion)
+- Nebenwirkungen: &darr; (Nachteil in dem Endpunkt schwere unerwünschte Ereignisse (CTCAE-Grad ≥ 3) sowie im Detail bei spezifischen unerwünschten Ereignissen)
 
 ---
 
@@ -12564,10 +13608,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Bortezomib in Kombination mit pegyliertem liposomalen Doxorubicin oder - Bortezomib in Kombination mit Dexamethason oder - Lenalidomid in Kombination mit Dexamethason oder - Elotuzumab in Kombination mit Lenalidomid und Dexamethason oder - Carfilzomib in Kombination mit Lenalidomid und Dexamethason oder - Carfilzomib in Kombination mit Dexamethason oder - Daratumumab in Kombination mit Lenalidomid und Dexamethason oder - Daratumumab in Kombination mit Bortezomib und Dexamethason
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied, im Detail Vor- und Nachteile bei spezifischen UE)
 
 ---
 
@@ -12591,9 +13635,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: Nicht bewertbar (nicht bewertbar)
+- Morbidität: &uarr;&uarr; (Vorteil im Endpunkt Rezidive, operationalisiert als Rezidivrate und Rezidivfreies Überleben)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende UEs, schwere UEs (CTCAE-Grad ≥ 3), Therapieabbrüche aufgrund von UEs; Nachteile in einzelnen spezifischen UEs)
 
 
 #### Ocrelizumab
@@ -12617,10 +13662,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Interferon beta-1a oder Interferon beta-1b oder Glatirameracetat unter Berücksichtigung der Zulassung
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanter Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteil bei Krankheitsschüben und bestätigter Behinderungsprogression.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil in Abbruch wegen unerwünschter Ereignisse. Im Detail Vorteil bei grippeähnliche Erkrankung und Reaktion an der Injektionsstelle und Nachteil bei Reaktion im Zusammenhang mit einer Infusion.)
 
 ---
 
@@ -12632,6 +13677,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Alemtuzumab oder Fingolimod oder Natalizumab oder, sofern angezeigt, Wechsel innerhalb der Basistherapeutika (Interferon beta-1a oder Interferon beta-1b oder Glatirameracetat unter Berücksichtigung der Zulassung)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -12645,9 +13696,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil in bestätigter Behinderungsprogression.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Im Detail Vorteil bei Depression, Nachteil bei Reaktion im Zusammenhang mit einer Infusion.)
 
 ---
 
@@ -12673,10 +13725,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile in den Endpunkten "Verbesserung der Sehschärfe" und "Vitrektomie".)
+- Lebensqualität: &uarr; (Vorteile in der visusbezogenen Lebensqualität.)
+- Nebenwirkungen: &darr; (In Gesamtraten kein Unterschied. Im Detail Nachteile bei spezifischen unerwünschten Ereignissen.)
 
 ---
 
@@ -12690,10 +13742,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Pars-plana-Vitrektomie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -12718,10 +13770,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** langwirksame Beta-2-Sympathomimetika oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil bei Therapieabbrüchen wegen unerwünschter Ereignisse.)
 
 ---
 
@@ -12735,10 +13787,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** langwirksame Beta-2-Sympathomimetika (LABA) oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen und zusätzlich inhalative Corticosteroide (ICS)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &darr; (Nachteil für schwere Exazerbationen.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -12764,10 +13816,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Interferon beta-1a oder Interferon beta-1b oder Glatirameracetat oder Ocrelizumab unter Berücksichtigung der Zulassung
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr;&uarr; (Vorteil im Endpunkt bestätigte Krankheitsschübe)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Ausschließlich Vorteil im spezifischen UE grippeähnliche Erkrankung.)
 
 ---
 
@@ -12780,6 +13832,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Alemtuzumab oder Fingolimod oder Natalizumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1370
@@ -12791,6 +13849,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ein TNF-α-Antagonist (Adalimumab oder Infliximab oder Golimumab) oder Vedolizumab oder Ustekinumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1532
@@ -12801,6 +13865,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** ein Wechsel der Therapie auf Vedolizumab oder Tofacitinib oder Ustekinumab oder ein TNF-α-Antagonist (Adalimumab oder Infliximab oder Golimumab), jeweils unter Berücksichtigung der Zulassung und der Vortherapie(n)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -12824,6 +13894,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Pertuzumab in Kombination mit Trastuzumab und Docetaxel
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1049
@@ -12836,10 +13912,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein Therapieschema; Trastuzumab, ein Taxan (Paclitaxel oder Docetaxel) und ggf. ein Anthrazyklin (Doxorubicin oder Epirubicin) enthaltend
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -12853,10 +13929,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein Therapieschema, Trastuzumab, ein Taxan (Paclitaxel oder Docetaxel) und ggf. ein Anthrazyklin (Doxorubicin oder Epirubicin) enthaltend
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &uarr;&uarr; (Vorteile bei der Vermeidung von Rezidiven)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse (SUE) und schweren UE (CTCAE-Grad≥ 3))
 
 ---
 
@@ -12882,10 +13958,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Alemtuzumab oder Fingolimod oder Natalizumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -12899,10 +13975,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Interferon beta-1a oder Interferon beta-1b oder Glatirameracetat oder Dimethylfumarat oder Teriflunomid oder Ocrelizumab unter Berücksichtigung der Zulassung
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr;&uarr; (Vorteil im Endpunkt bestätigte Krankheitsschübe.)
+- Lebensqualität: &uarr; (Vorteil bei der Verschlechterung gegenüber Studienbeginn im körperlichen Summenscore des SF-36v2.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede in den Endpunkten SUEs und Abbruch wegen UE; im Detail Nachteil im spezifischen UE Bradykardie, Vorteil im spezifischen UE Alopezie.)
 
 ---
 
@@ -12916,10 +13992,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Interferon beta-1a oder Interferon beta-1b oder Glatirameracetat oder Dimethylfumarat oder Teriflunomid oder Ocrelizumab unter Berücksichtigung der Zulassung
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede in den Endpunkten SUEs und Abbruch wegen UE; im Detail Nachteil im spezifischen UE Bradykardie, Vorteil im spezifischen UE Alopezie.)
 
 ---
 
@@ -12945,10 +14021,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Kombinations-Chemotherapie aus 5-Fluorouracil + Folinsäure + Irinotecan
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &darr;
-- Lebensqualität: &darr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &darr; (Nachteile in den Endpunkten Fatigue, Appetitverlust und Verstopfung.)
+- Lebensqualität: &darr; (Nachteile in den Endpunkten globaler Gesundheitsstatus, körperliche Funktion, Rollenfunktion und emotionale Funktion.)
+- Nebenwirkungen: &darr; (Nachteile in den Endpunkten schwere UE (CTCAE-Grad ≥ 3), Therapieabbruch wegen UE sowie im Detail bei spezifischen UE.)
 
 ---
 
@@ -12962,10 +14038,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Docetaxel oder Pemetrexed (Pemetrexed: außer bei überwiegend plattenepithelialer Histologie) oder • Gefitinib oder Erlotinib (nur für Patienten mit aktivierenden EGFR-Mutationen, die noch nicht mit Afatinib,Gefitinib oder Erlotinib vorbehandelt wurden) oder • Crizotinib (nur für Patienten mit aktivierenden ALK-Mutationen, die noch nicht mit Crizotinib vorbehandelt wurden)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwere UE (CTCAE-Grad ≥ 3) und Therapieabbruch wegen UE. Im Detail Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -12979,10 +14055,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach Maßgabe des Arztes unter Beachtung der jeweiligen Zulassung.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &uarr; (Vorteil im Endpunkt emotionale Funktion (Zeit bis zur Verschlechterung) sowie in den Endpunkten körperliche Funktion, emotionale Funktion, kognitive Funktion und Rollenfunktion (Responderanalysen bis Zyklus 2).)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt schwere UE (CTCAE-Grad ≥ 3).)
 
 ---
 
@@ -12994,6 +14070,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -13007,10 +14089,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care oder Cabozantinib
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil in der Symptomatik.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -13024,10 +14106,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Afatinib oder Gefitinib oder Erlotinib oder Osimertinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteil in dem Endpunkt schwere UE (CTCAE Grad ≥ 3) sowie im Detail bei spezifischen UE)
 
 ---
 
@@ -13041,10 +14123,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie in Abhängigkeit von der aktivierenden EGFR-Mutation unter Auswahl von: - Afatinib, Gefitinib, Erlotinib, Osimertinib - Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) (vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie) - Carboplatin in Kombination mit nab-Paclitaxel und - Monotherapie mit Gemcitabin oder Vinorelbin (nur für Patienten mit ECOG-Performance-Status 2 als Alternative zur Platin-basierten Kombinationsbehandlung).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13070,8 +14152,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &uarr; (Vorteil im Endpunkt Erholung.)
+- Lebensqualität: &Oslash; (Keine Daten zur Lebensqualität vorgelegt.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -13085,7 +14169,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Keine Daten zur Lebensqualität vorgelegt.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -13099,7 +14186,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Keine Daten zur Lebensqualität vorgelegt.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -13113,10 +14203,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil bei der Gesamthospitalisierung bzw. Hospitalisierung aufgrund von COVID-19)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -13130,7 +14220,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -13144,7 +14237,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -13169,6 +14265,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** eine patientenindividuelle Therapieeskalation: - der hochdosierten inhalativen Corticosteroide und der langwirksamen Bronchodilatatoren (LABA) mit Tiotropium und ggf. orale Corticosteroide* oder - bei IgE-vermittelter Pathogenese des Asthmas ggf. Omalizumab zusätzlich zu hochdosierten inhalativen Corticosteroiden und langwirksamen Bronchodilatatoren (LABA) und ggf. orale Corticosteroide* oder - ggf. der hochdosierten inhalativen Corticosteroide und der langwirksamen Bronchodilatatoren (LABA) mit oralen Corticosteroiden* *Orale Corticosteroide sollten nur kurzzeitig und in der niedrigst-wirksamen Dosis eingesetzt werden.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1353
@@ -13181,10 +14283,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine patientenindividuelle Therapieeskalation: - der hochdosierten inhalativen Corticosteroide und der langwirksamen Bronchodilatatoren (LABA) mit Tiotropium und ggf. orale Corticosteroide* oder - bei IgE-vermittelter Pathogenese des Asthmas ggf. Omalizumab zusätzlich zu hochdosierten inhalativen Corticosteroiden und langwirksamen Bronchodilatatoren (LABA) und ggf. orale Corticosteroide* oder - ggf. der hochdosierten inhalativen Corticosteroide und der langwirksamen Bronchodilatatoren (LABA) mit oralen Corticosteroiden* *Orale Corticosteroide sollten nur kurzzeitig und in der niedrigst-wirksamen Dosis eingesetzt werden.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil durch Vermeidung der Erhöhung der Dosis der bestehenden oralen Glukokortikoidtherapie.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -13210,10 +14312,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Anastrozol oder Letrozol oder Fulvestrant oder ggf. Tamoxifen, wenn Aromatasehemmer nicht geeignet sind.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Lebensqualität: &harr; (Vorteil in der Funktionsskala Zukunfts-perspektive)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse (SUE), schwere UE (CTCAE-Grad 3-4) und Therapieabbrüche aufgrund von UE sowie im Detail bei spezifischen UE)
 
 ---
 
@@ -13227,10 +14329,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Anastrozol oder Letrozol oder Fulvestrant, oder ggf. Tamoxifen, wenn Aromatasehemmer nicht geeignet sind.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;&uarr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr;&uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwerwiegende unerwünschte Ereignisse (SUE), schwere UE (CTCAE-Grad 3-4), Therapieabbrüche aufgrund von UE sowie im Detail bei spezifischen UE)
 
 ---
 
@@ -13244,10 +14346,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine weitere endokrine Therapie in Abhängigkeit der Vortherapie mit: • Tamoxifen oder • Anastrozol oder • Fulvestrant; nur für Patientinnen mit Rezidiv oder Progress nach einer Antiöstrogen-Behandlung oder • Letrozol; nur für Patientinnen mit Rezidiv oder Progress nach einer Antiöstrogen-Behandlung oder • Exemestan; nur für Patientinnen mit Progress nach einer Antiöstrogen-Behandlung oder • Everolimus in Kombination mit Exemestan; nur für Patientinnen ohne symptomatische viszerale Metastasierung, nachdem es zu einer Progression nach einem nicht-steroidalen Aromataseinhibitor gekommen ist.
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &harr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Lebensqualität: &uarr; (Vorteil in der Funktionsskala emotionale Funktion)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Endpunkten schwere UE (CTCAE-Grad 3-4), Therapieabbrüche aufgrund von UE sowie im Detail bei spezifischen UE)
 
 ---
 
@@ -13261,10 +14363,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Tamoxifen in Kombination mit einer Ausschaltung der Ovarialfunktion, − ggf. Letrozol in Kombination mit einer Ausschaltung der Ovarialfunktion bei Frauen, die zuvor mit Antiöstrogenen behandelt wurden.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13278,10 +14380,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine endokrine Therapie nach Maßgabe des Arztes, unter Beachtung der jeweiligen Zulassung. Im vorliegenden Anwendungsgebiet sind Tamoxifen, Letrozol, Exemestan, Megestrolacetat und Medroxyprogesteronacetat zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13295,10 +14397,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Tamoxifen in Kombination mit einer Ausschaltung der Ovarialfunktion, − ggf. Letrozol in Kombination mit einer Ausschaltung der Ovarialfunktion bei Frauen, die zuvor mit Antiöstrogenen behandelt wurden.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in den Symptomskalen Schmerzen und Fatigue.)
+- Lebensqualität: &uarr; (Vorteile in den Funktionsskalen kognitive Funktion und Zukunftsperspektive.)
+- Nebenwirkungen: &darr;&darr; (Nachteil im Endpunkt schwere UE (CTCAE Grad 3 oder 4); im Detail Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -13312,10 +14414,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine weitere endokrine Therapie in Abhängigkeit der Vortherapie mit: • Tamoxifen oder • Anastrozol oder • Fulvestrant; nur für Patientinnen mit Rezidiv oder Progress nach einer Antiöstrogen-Behandlung oder • Letrozol; nur für Patientinnen mit Rezidiv oder Progress nach einer Antiöstrogen-Behandlung oder • Exemestan; nur für Patientinnen mit Progress nach einer Antiöstrogen-Behandlung oder • Everolimus in Kombination mit Exemestan; nur für Patientinnen ohne symptomatische viszerale Metastasierung, nachdem es zu einer Progression nach einem nicht-steroidalen Aromataseinhibitor gekommen ist
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13329,10 +14431,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine endokrine Therapie nach Maßgabe des Arztes, unter Beachtung der jeweiligen Zulassung. Im vorliegenden Anwendungsgebiet sind Tamoxifen, Letrozol, Exemestan, Megestrolacetat und Medroxyprogesteronacetat zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13346,10 +14448,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Tamoxifen (ggf. zusätzlich mit einer Ausschaltung der Ovarialfunktion) oder Abemaciclib in Kombination mit einer endokrinen Therapie (nur für Patientinnen mit nodal-positivem Brustkrebs) oder Olaparib als Monotherapie oder in Kombination mit einer endokrinen Therapie (nur für Patientinnen mit Keimbahn-BRCA1/2-Mutationen) oder ein Aromataseinhibitor (Anastrozol oder Letrozol oder Exemestan) in Kombination mit einer Ausschaltung der Ovarialfunktion (Exemestan nur in Kombination mit Triptorelin)
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &uarr; (Vorteil bei Rezidiven (Rezidivrate, invasiv-krankheitsfreies Überleben).)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteile in den Endpunkten SUE, schwere UE und Therapieabbrüche aufgrund von UE. Im Detail Nachteile bei spezifischen UE.)
 
 ---
 
@@ -13363,10 +14465,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − ein Aromataseinhibitor (Anastrozol oder Letrozol) allein, ggf. Tamoxifen falls Aromataseinhibitoren nicht geeignet sind oder − ein Aromataseinhibitor (Anastrozol oder Exemestan) in Sequenz nach Tamoxifen oder − Olaparib als Monotherapie oder in Kombination mit einer endokrinen Therapie (nur für Patientinnen mit Keimbahn-BRCA1/2-Mutationen)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteil bei Rezidiven (Rezidivrate, invasiv-krankheitsfreies Überleben).)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteile in den Endpunkten SUE, schwere UE und Therapieabbrüche aufgrund von UE. Im Detail Nachteile bei spezifischen UE.)
 
 ---
 
@@ -13380,10 +14482,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Tamoxifen oder − Abemaciclib in Kombination mit einer endokrinen Therapie (nur für Patienten mit nodal-positivem Brustkrebs) oder − Olaparib als Monotherapie oder in Kombination mit einer endokrinen Therapie (nur für Patienten mit Keimbahn-BRCA1/2-Mutationen)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13409,9 +14511,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Efavirenz in Kombination mit zwei Nukleosid-/Nukleotidanaloga (Tenofovir plus Emtricitabin oder Abacavir plus Lamivudin)
 
 **Hauptergebnisse:**
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr;&uarr; (Vorteil in Erkrankungen des Nervensystems.)
 
 ---
 
@@ -13424,6 +14527,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Efavirenz in Kombination mit Abacavir plus Lamivudin
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1133
@@ -13434,6 +14543,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** eine patientenindividuelle antiretrovirale Therapie unter Auswahl der zugelassenen Wirkstoffe; unter Berücksichtigung der Vortherapie(n) und ggf. von Nebenwirkungen
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -13457,9 +14572,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Alendronsäure oder Risedronsäure oder Zoledronsäure oder Denosumab oder Teriparatid
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr;&uarr; (Vorteile bei der Vermeidung von klinisch vertebralen Frakturen, major nicht vertebraler Frakturen (Hüft- und Beckenfrakturen))
+- Lebensqualität: Nicht bewertbar (nicht bewertbar)
+- Nebenwirkungen: &darr;&darr; (Nachteile in dem Endpunkt zerebrovaskuläres Ereignis.)
 
 
 #### Semaglutid
@@ -13483,10 +14599,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13498,6 +14614,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -13511,10 +14633,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) oder • Metformin + Empagliflozin oder • Humaninsulin, wenn Metformin gemäß Fachinformation unverträglich oder kontraindiziert ist
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13528,10 +14650,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) oder • Metformin + Empagliflozin oder • Metformin + Liraglutid • Humaninsulin, wenn Metformin gemäß Fachinformation unverträglich oder kontraindiziert ist
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil im kombinierten Endpunkt Major adverse cardiovascular events (MACE), der durch die Einzelkomponente „nicht tödlicher Schlaganfall“ bedingt ist. Nachteil beim Endpunkt retinale Photokoagulation)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil beim Endpunkt „Therapieabbruch wegen UE“. Nachteil im Detail bei spezifischen UE „Erkrankungen des Gastrointestinaltrakts“.)
 
 ---
 
@@ -13545,10 +14667,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Humaninsulin + Metformin oder • nur Humaninsulin, wenn Metformin gemäß Fachinformation unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam ist
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13562,10 +14684,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Humaninsulin + Metformin oder • Humaninsulin + Empagliflozin oder • Humaninsulin + Liraglutid oder • Humaninsulin, wenn die bestimmten Kombinationspartner gemäß Fachinformation unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam sind
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil im kombinierten Endpunkt Major adverse cardiovascular events (MACE), der durch die Einzelkomponente „nicht tödlicher Schlaganfall“ bedingt ist. Nachteil beim Endpunkt retinale Photokoagulation)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil beim Endpunkt „Therapieabbruch wegen UE“. Nachteil im Detail bei spezifischen UE „Erkrankungen des Gastrointestinaltrakts“.)
 
 ---
 
@@ -13579,10 +14701,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Die Optimierung des Humaninsulinregimes (ggf. + Metformin)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13596,10 +14718,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die Optimierung des Humaninsulinregimes (ggf. + Metformin oder Empagliflozin oder Liraglutid)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteil im kombinierten Endpunkt Major adverse cardiovascular events (MACE), der durch die Einzelkomponente „nicht tödlicher Schlaganfall“ bedingt ist. Nachteil beim Endpunkt retinale Photokoagulation)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil beim Endpunkt „Therapieabbruch wegen UE“. Nachteil im Detail bei spezifischen UE „Erkrankungen des Gastrointestinaltrakts“.)
 
 ---
 
@@ -13624,6 +14746,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 468
@@ -13636,7 +14764,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Sulfonylharnstoff (Glibenclamid oder Glimepirid). Hinweis: ggf. Therapie nur mit Humaninsulin.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -13650,7 +14781,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht ausreichend wirksam oder unverträglich ist.)
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -13664,7 +14798,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht ausreichend wirksam oder unverträglich ist.)
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -13678,10 +14815,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) oder − Metformin + Empagliflozin oder − Metformin + Liraglutid Hinweis: Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil im Detail beim Endpunkt "symptomatische Hypoglykämien" auf Basis der Studien HARMONY 3 und P803 und P024.)
 
 ---
 
@@ -13707,10 +14844,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung des patientenindividuellen Therapieziels in Abhängigkeit von Komorbiditäten, Diabetesdauer, möglichen Risiken für Hypoglykämien, unter Auswahl von: - Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid), - Metformin + Sitagliptin, - Metformin + Empagliflozin, - Metformin + Liraglutid
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13724,10 +14861,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Metformin + Empagliflozin, oder - Metformin + Liraglutid, oder - Metformin + Dapagliflozin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13741,10 +14878,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Metformin + Empagliflozin + Sitagliptin, oder - Metformin + Empagliflozin + Liraglutid
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13758,10 +14895,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Metformin + Empagliflozin + Liraglutid, oder - Metformin + Dapagliflozin + Liraglutid
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13775,10 +14912,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Humaninsulin + Metformin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13792,7 +14929,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Humaninsulin + Metformin + Empagliflozin, oder - Humaninsulin + Metformin + Dapagliflozin, oder - Humaninsulin + Metformin + Liraglutid
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -13806,10 +14946,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eskalation der Insulintherapie (konventionelle Therapie (CT) ggf. + Metformin oder Dulaglutid bzw. intensivierte Insulintherapie (ICT))
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteil beim Endpunkt Gesundheitszustand erhoben mittels EQ-5D VAS.)
+- Lebensqualität: &uarr; (Vorteil in der Lebensqualität erhoben mittels SF-36 beim psychischen Summenscore.)
+- Nebenwirkungen: &uarr; (Vorteil in der Gesamtrate der SUE; Nachteil beim Abbruch wegen UE; Im Detail zu spezifischen UE: Vorteil bei der Vermeidung von schweren Hypoglykämien und nicht schweren, symptomatischen, bestätigten Hypoglykämien; Nachteil bei Erkrankungen des Gastrointestinaltrakts)
 
 ---
 
@@ -13821,6 +14961,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eskalation der Insulintherapie: konventionelle Therapie (CT) bzw. intensivierte Insulintherapie (ICT), jeweils in Kombination mit Metformin und Empagliflozin oder Dapagliflozin oder Liraglutid
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -13845,10 +14991,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13862,10 +15008,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &uarr; (Vorteile in den Endpunkten Schwere COVID-19 und Hospitalisierung aufgrund jeglicher Ursache.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -13879,10 +15025,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13896,7 +15042,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (nicht bewertbar)
+- Morbidität: Nicht bewertbar (nicht bewertbar)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (nicht bewertbar)
 
 ---
 
@@ -13922,10 +15071,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein TNF-alpha-Antagonist (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab) ggf. in Kombination mit Methotrexat
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil bei der Anzahl druckschmerzhafter und geschwollener Gelenke.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -13939,10 +15088,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum (Adalimumab oder Certolizumab Pegol oder Etanercept oder Golimumab oder Infliximab oder Secukinumab oder Ustekinumab) ggf. in Kombination mit Methotrexat
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13956,10 +15105,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** TNF-α-Antagonist (Adalimumab oder Infliximab oder Golimumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13973,10 +15122,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** TNF-α-Antagonist (Adalimumab oder Infliximab oder Golimumab) oder Integrin-Inhibitor (Vedolizumab), jeweils unter Berücksichtigung der Zulassung und der Vortherapie(n)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -13990,10 +15139,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Alternative klassische DMARDs, sofern geeignet (Leflunomid, Sulfasalazin) als Mono- oder Kombinationstherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -14007,10 +15156,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Alternative klassische DMARDs, sofern geeignet (MTX, Leflunomid, Sulfasalazin) als Mono- oder Kombinationstherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -14024,10 +15173,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** bDMARDs oder tsDMARDs (Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Sarilumab oder Tocilizumab oder Upadacitinib) als Monotherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -14039,6 +15188,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** bDMARDs oder tsDMARDs (Abatacept oder Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Golimumab oder Infliximab oder Sarilumab oder Tocilizumab oder Upadacitinib) in Kombination mit MTX
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -14052,10 +15207,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Wechsel der bDMARD- oder tsDMARD-Therapie (Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Sarilumab oder Tocilizumab oder Upadacitinib) als Monotherapie in Abhängigkeit von der Vortherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -14069,10 +15224,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Wechsel der bDMARD- oder tsDMARD-Therapie (Abatacept oder Adalimumab oder Baricitinib oder Certolizumab-Pegol oder Etanercept oder Golimumab oder Infliximab oder Sarilumab oder Tocilizumab oder Upadacitinib in Kombination mit MTX; oder bei Patienten mit schwerer rheumatoider Arthritis Rituximab unter Berücksichtigung der Zulassung) in Abhängigkeit von der Vortherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -14086,10 +15241,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein bDMARD (Adalimumab oder Etanercept oder Tocilizumab) als Monotherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -14103,10 +15258,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein Wechsel der bDMARD-Therapie (Adalimumab oder Etanercept oder Tocilizumab) als Monotherapie in Abhängigkeit von der Vortherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -14120,10 +15275,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -14137,10 +15292,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein bDMARD (Adalimumab oder Etanercept oder Golimumab oder Tocilizumab) in Kombination mit MTX
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -14154,10 +15309,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein Wechsel der bDMARD-Therapie (Abatacept oder Adalimumab oder Etanercept oder Golimumab oder Tocilizumab) in Kombination mit MTX in Abhängigkeit von der Vortherapie.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -14171,10 +15326,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein TNF-α-Inhibitor (Adalimumab oder Certolizumab pegol oder Etanercept oder Golimumab oder Infliximab) oder ein IL17-Inhibitor (Secukinumab)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -14188,10 +15343,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** der Wechsel auf ein anderes biologisches krankheitsmodifizierendes Antirheumatikum: TNF-α-Inhibitor (Adalimumab oder Certolizumab pegol oder Etanercept oder Golimumab oder Infliximab) oder IL17-Inhibitor (Secukinumab)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -14217,10 +15372,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dimethylfumarat oder Diroximelfumarat oder Glatirameracetat oder Interferon beta-1a oder Interferon beta-1b oder Teriflunomid
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr;&uarr; (Vorteil im Endpunkt bestätigte Krankheitsschübe.)
+- Lebensqualität: &uarr;&uarr; (Vorteil im körperlichen Summenscore des MSQoL-54.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Im Detail Vor- und Nachteile bei einzelnen spezifischen unerwünschten Ereignissen.)
 
 ---
 
@@ -14234,10 +15389,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Berücksichtigung der Krankheitsaktivität und Prognosefaktoren unter Auswahl folgender Wirkstoffe: Fingolimod, Natalizumab, Ocrelizumab, Ofatumumab, Ozanimod und Ponesimod
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -14261,10 +15416,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine optimierte Standardtherapie zur Behandlung der symptomatischen, chronischen Herzinsuffizienz und der zugrundeliegenden Erkrankungen, wie z. B. Hypertonie, Herz-rhythmusstörungen, Koronare Herzkrankheit, Diabetes mellitus, Hypercholesterinämie sowie der Begleitsymptome
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &uarr; (Vorteil bei der Gesamthospitalisierung)
+- Lebensqualität: &uarr; (Verbesserung um ≥ 5 Punkte im KCCQ-OSS; kein statistisch signifikanter Unterschied für eine Verbesserung um ≥ 15 Punkte (entspricht 15 %))
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanter Unterschied für die Gesamtrate der SUE und Abbruch wegen UE; im Detail jeweils ein Vorteil und Nachteil bei den spezifischen UE)
 
 
 #### Vismodegib
@@ -14287,6 +15442,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Best-Supportive-Care
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+
 ---
 
 ###### Patientengruppe 397
@@ -14299,8 +15460,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Morbidität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: &uarr; (Vorteil im Endpunkt "Objektives Ansprechen")
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: &darr; (Nachteile in den Endpunkten UE (CTCAE Grad ≥3), "Therapieabbruch aufgrund UE" sowie "Therapie-assoziierte Todesfälle".)
 
 ---
 
@@ -14325,6 +15488,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Berücksichtigung des Allgemeinzustands und ggf. von Vortherapien und von der Remissionsdauer nach initialer Therapie
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1723
@@ -14337,10 +15506,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Ibrutinib oder - Ibrutinib in Kombination mit Rituximab oder Obinutuzumab oder - Fludarabin in Kombination mit Cyclophosphamid und Rituximab [FCR] (nur für Patientinnen und Patienten ohne Vorliegen genetischer Risikofaktoren und < 65 Jahren, die anhand ihres Allgemeinzustandes und ihrer Komorbiditäten für eine Therapie mit FCR geeignet sind) oder - Bendamustin in Kombination mit Rituximab (nur für Patientinnen und Patienten ohne Vorliegen genetischer Risikofaktoren und die entsprechend der obigen Kriterien nicht für eine Therapie mit FCR geeignet sind) oder - Chlorambucil in Kombination mit Rituximab oder Obinutuzumab (nur für Patientinnen und Patienten ohne Vorliegen genetischer Risikofaktoren und die entsprechend der obigen Kriterien nicht für eine Therapie mit FCR geeignet sind)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Nebenwirkungen: &uarr; (Vorteile in den Endpunkten schwere UE und Abbruch wegen UE, sowie überwiegend im Detail bei spezifischen UE)
 
 ---
 
@@ -14354,10 +15523,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Ibrutinib oder - Ibrutinib in Kombination mit Rituximab oder Obinutuzumab oder - Fludarabin in Kombination mit Cyclophosphamid und Rituximab [FCR] (nur für Patientinnen und Patienten ohne Vorliegen genetischer Risikofaktoren und < 65 Jahren, die anhand ihres Allgemeinzustandes und ihrer Komorbiditäten für eine Therapie mit FCR geeignet sind) oder - Bendamustin in Kombination mit Rituximab (nur für Patientinnen und Patienten ohne Vorliegen genetischer Risikofaktoren und die entsprechend der obigen Kriterien nicht für eine Therapie mit FCR geeignet sind) oder - Chlorambucil in Kombination mit Rituximab oder Obinutuzumab (nur für Patientinnen und Patienten ohne Vorliegen genetischer Risikofaktoren und die entsprechend der obigen Kriterien nicht für eine Therapie mit FCR geeignet sind)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -14369,6 +15538,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Bendamustin - CHOP (Cyclophosphamid + Doxorubicin + Vincristin + Prednison) - CVP (Cyclophosphamid + Vincristin + Prednison) - FCM (Fludarabin + Cyclophosphamid + Mitoxantron) + Rituximab (bei Personen mit Resistenz auf CHOP) - Chlorambucil - Cyclophosphamid
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -14382,10 +15557,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Ibrutinib oder - Venetoclax + Rituximab oder - eine Chemoimmuntherapie mit FCR oder BR oder ClbR (jeweils nur bei langem rezidivfreien Intervall und fehlenden genetischen Risikofaktoren)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;&uarr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Nebenwirkungen: &uarr;&uarr; (Vorteile in den Endpunkten schwerwiegende unerwünschte Ereignisse (SUE) und Abbruch wegen UE sowie im Detail bei den spezifischen UE)
 
 ---
 
@@ -14399,10 +15574,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Venetoclax + Rituximab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -14416,10 +15591,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ibrutinib
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -14433,10 +15608,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von • Idelalisib in Kombination mit Rituximab, • Bendamustin in Kombination mit Rituximab, • Chlorambucil in Kombination mit Rituximab und • Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -14448,6 +15623,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von - Bendamustin + Obinutuzumab gefolgt von einer Obinutuzumab- Erhaltungstherapie entsprechend der Zulassung, - Lenalidomid + Rituximab, - Rituximab Monotherapie, - Mosunetuzumab, - Tisagenlecleucel unter Berücksichtigung der Vortherapie, des Krankheitsverlaufs und des Allgemeinzustandes.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -14876,6 +16057,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Fumarsäureester oder Ciclosporin oder Methotrexat oder Phototherapie (NB1-UV-B, Photosoletherapie) oder Secukinumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1393
@@ -14888,10 +16075,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab oder Infliximab oder Secukinumab oder Ustekinumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;&uarr;
-- Lebensqualität: &uarr;&uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr;&uarr; (Vorteile bei der Remission, bei der Response, sowie in der patientenberichteten Symptomatik.)
+- Lebensqualität: &uarr;&uarr; (Vorteil bei der krankheitsspezifischen gesundheitsbezogenen Lebensqualität.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -14917,10 +16104,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - eine patientenindividuelle Therapie unter Berücksichtigung von Faktoren wie z.B. dem Hemmkörper-Titer, Blutungsereignissen, Blutungsrisiko und Verträglichkeit unter Verwendung eines Präparats mit Bypassing-Aktivität (mit Faktor VIII-Inhibitor-Bypassing-Aktivität angereicherte Humanplasmafraktion) Die Zulassungen der jeweiligen Arzneimittel sind zu beachten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil für annualisierte Blutungsraten insbesondere für behandelte Blutungen und Gelenkblutungen.)
+- Lebensqualität: &uarr; (Vorteil für gesundheitsbezogene Lebensqualität (Haem-A-QoL).)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; Nachteil bei „Reaktionen an der Injektionsstelle".)
 
 ---
 
@@ -14932,6 +16119,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - eine patientenindividuelle Therapie unter Berücksichtigung von Faktoren wie z.B. dem Hemmkörper-Titer, Blutungsereignissen, Blutungsrisiko und Verträglichkeit unter Verwendung eines Präparats mit Bypassing-Aktivität (mit Faktor VIII-Inhibitor-Bypassing-Aktivität angereicherte Humanplasmafraktion) Die Zulassungen der jeweiligen Arzneimittel sind zu beachten
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -14945,7 +16138,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** plasmatische oder rekombinante Blutgerinnungsfaktor-VIII-Präparate, eingesetzt als Routineprophylaxe
 
 **Hauptergebnisse:**
-- Morbidität: &harr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -14957,6 +16153,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Plasmatische oder rekombinante Blutgerinnungsfaktor-VIII-Präparate, eingesetzt als Routineprophylaxe
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -14981,9 +16183,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteile in der Symptomfreiheit und bei der Reduktion der Symptomschwere während der Provokationstestung.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den Abbrüchen wegen UE, bei den systemischen allergischen Reaktionen sowie im Detail bei spezifischen UE)
 
 ---
 
@@ -14997,10 +16200,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil in der Symptomfreiheit während der Provokationstestung.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede; im Detail Nachteil im spezifischen UE „Erkrankungen des Gastrointestinaltrakts“.)
 
 ---
 
@@ -15026,9 +16229,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine optimierte Standardtherapie zur Behandlung der chronischen Nierenerkrankung und des Diabetes mellitus Typ 2 unter Berücksichtigung der Grunderkrankung(en) und häufiger Komorbiditäten (wie Dyslipoproteinämie, Hypertonie, Anämie, Herzinsuffizienz).
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Morbidität: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Vorteil bei eGFR-Abnahme ≥ 57 %, der jedoch aufgrund der Unsicherheiten bei der Umsetzung der zVT nicht beurteilt werden kann.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15042,9 +16246,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine optimierte Standardtherapie zur Behandlung der chronischen Nierenerkrankung und des Diabetes mellitus Typ 2 unter Berücksichtigung der Grunderkrankung(en) und häufiger Komorbiditäten (wie Dyslipoproteinämie, Hypertonie, Anämie, Herzinsuffizienz).
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &uarr;
-- Lebensqualität: &harr;
+- Mortalität: &uarr; (Vorteil bei Gesamtmortalität)
+- Morbidität: &uarr; (Vorteile bei Nierenversagen und Bestätigte Verschlechterung der CKD zu Stadium 4 oder 5)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15070,9 +16275,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil beim Speichelfluss.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15084,6 +16290,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** eine Aluminiumchlorid-haltige Rezeptur (mind. 15 %) oder Leitungswasseriontophorese
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15108,6 +16320,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Best-Supportive-Care
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 257
@@ -15120,10 +16338,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle, optimierte Chemotherapie nach Maßgabe des Arztes unter Beachtung des Zulassungsstatus, bevorzugt in Kombination mit Rituximab sofern angezeigt
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -15137,8 +16355,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ibrutinib oder Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Lebensqualität: &Oslash;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15151,6 +16371,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Best-Supportive-Care
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 432
@@ -15161,6 +16387,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15173,6 +16405,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle, optimierte Chemotherapie nach Maßgabe des Arztes unter Beachtung des Zulassungsstatus, bevorzugt in Kombination mit Rituximab sofern angezeigt.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1704
@@ -15183,6 +16421,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ibrutinib oder Idelalisib in Kombination mit Rituximab oder Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15208,10 +16452,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Nusinersen
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Keine relevanten Unterschiede.)
+- Morbidität: &harr; (Nicht-Unterlegenheit unter Berücksichtigung von Daten aus einem Vergleich einzelner Arme aus verschiedenen Studien.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &uarr; (erwarteter Vorteil der oralen Gabe gegenüber einer intrathekalen Injektion)
 
 ---
 
@@ -15225,10 +16469,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Nusinersen
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -15242,7 +16486,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Auswahl von Nusinersen oder BSC
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -15256,10 +16503,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Nusinersen
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -15273,10 +16520,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Auswahl von Nusinersen oder BSC
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -15290,10 +16537,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine relevanten Unterschiede)
+- Morbidität: &uarr; (Vorteil bei der motorischen Funktion der oberen Extremitäten unter Berücksichtigung von Ergebnissen für die Gesamtpopulation der Patientinnen und Patienten mit 5q-SMA Typ 3)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &harr; (Insgesamt keine relevanten Unterschiede.)
 
 ---
 
@@ -15307,7 +16554,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Berücksichtigung von Nusinersen und Onasemnogen-Abeparvovec
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15321,10 +16571,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Berücksichtigung von Nusinersen und Onasemnogen-Abeparvovec
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -15338,7 +16588,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Berücksichtigung von Nusinersen und Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15363,6 +16616,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** -Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) oder -Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder -Carboplatin in Kombination mit nab-Paclitaxel oder -Monotherapie mit Gemcitabin oder Vinorelbin (nur für Patientinnen und Patienten mit ECOG-Performance-Status 2 als Alternative zur Platin-basierten Kombinationsbehandlung)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1748
@@ -15375,10 +16634,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Docetaxel (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren) oder - Pemetrexed (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und außer bei überwiegend plattenepithelialer Histologie) oder - Nivolumab oder - Pembrolizumab (nur für Patientinnen und Patienten mit PD-L1 exprimierenden Tumoren (PD-L1-Expression ≥ 1 % der Tumorzellen)) oder - Atezolizumab oder - Docetaxel in Kombination mit Nintedanib (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und Adenokarzinom-Histologie)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -15392,9 +16651,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung der Vortherapie und Histologie unter Auswahl von Afatinib, Pemetrexed, Erlotinib, Docetaxel, Docetaxel in Kombination mit Ramucirumab, Docetaxel in Kombination mit Nintedanib und Vinorelbin.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteile in der Symptomatik und im Gesundheitszustand)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -15408,10 +16668,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung der Vortherapie und Histologie unter Auswahl von Afatinib, Pemetrexed, Erlotinib, Docetaxel, Docetaxel in Kombination mit Ramucirumab, Docetaxel in Kombination mit Nintedanib und Vinorelbin.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -15437,9 +16697,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede unter Evidenzübertragung der Ergebnisse von Erwachsenen.)
+- Morbidität: &uarr; (Vorteil im Endpunkt Zeit bis zur Schmerzprogression unter Evidenzübertragung der Ergebnisse von Erwachsenen.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &darr; (Nachteile bei schweren UE unter Evidenzübertragung der Ergebnisse von Erwachsenen. Im Detail Nachteil bei häufigen UE bzw. UE von besonderem Interesse.)
 
 ---
 
@@ -15453,10 +16714,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Cabozantinib
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -15484,7 +16745,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung des Frakturrisikos und der Vortherapie unter Auswahl von: Alendronsäure, Risedronsäure, Zoledronsäure, Denosumab, Romosozumab (Frauen mit deutlich erhöhtem Frakturrisiko) und Teriparatid
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Alirocumab
@@ -15507,6 +16771,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 728
@@ -15517,6 +16787,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** maximal tolerierte medikamentöse und diätetische Therapie zur Lipidsenkung
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15530,9 +16806,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** maximal tolerierte medikamentöse und diätetische Therapie zur Lipidsenkung
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -15545,6 +16822,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** andere (als Statine) Lipidsenker (Fibrate oder Anionenaustauscher oder Cholesterinresorptionshemmer) als Monotherapie und diätetische Therapie zur Lipidsenkung
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1115
@@ -15555,6 +16838,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** andere (als Statine) Lipidsenker (Fibrate oder Anionenaustauscher oder Cholesterinresorptionshemmer) als Monotherapie und diätetische Therapie zur Lipidsenkung
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15568,7 +16857,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** maximal tolerierte medikamentöse Therapie nach ärztlicher Maßgabe unter Berücksichtigung von Statinen, Cholesterinresorptionshemmern, und Anionenaustauschern
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15582,7 +16874,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Evolocumab (ab 10 Jahren) oder LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15608,10 +16903,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Ribociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer oder - Ribociclib in Kombination mit Fulvestrant oder - Anastrozol oder - Letrozol oder - Fulvestrant oder - ggf. Tamoxifen, wenn Aromatasehemmer nicht geeignet sind
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;&darr;
-- Lebensqualität: &darr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (kein statistisch signifikanter Unterschied)
+- Morbidität: &darr;&darr; (Nachteile in der Symptomatik (Übelkeit /Erbrechen, Appetitverlust, Diarrhö).)
+- Lebensqualität: &darr; (Nachteil in der Skala soziale Funktion.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den SUEs, schweren UEs CTCAE-Grad ≥ 3 und den Therapieabbrüchen aufgrund von UE sowie im Detail bei spezifischen UEs)
 
 ---
 
@@ -15625,10 +16920,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach Maßgabe des Arztes.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -15642,10 +16937,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Abemaciclib in Kombination mit Fulvestrant oder - Ribociclib in Kombination mit Fulvestrant oder - Tamoxifen oder - Anastrozol oder - Fulvestrant als Monotherapie; nur für Patientinnen mit Rezidiv oder Progress nach einer Antiöstrogen-Behandlung oder - Letrozol; nur für Patientinnen mit Rezidiv oder Progress nach einer Antiöstrogen-Behandlung oder - Exemestan; nur für Patientinnen mit Progress nach einer Antiöstrogen-Behandlung oder - Everolimus in Kombination mit Exemestan; nur für Patientinnen ohne symptomatische viszerale Metastasierung, nachdem es zu einer Progression nach einem nicht-steroidalen Aromataseinhibitor gekommen ist
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;&darr;
-- Lebensqualität: &darr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (kein statistisch signifikanter Unterschied)
+- Morbidität: &darr;&darr; (Vorteil für die Funktionsskala Dyspnoe. Nachteile in der Symptomatik (Übelkeit /Erbrechen, Diarrhö, Appetitverlust).)
+- Lebensqualität: &darr; (Nachteile in der Skala soziale Funktion.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den SUEs, schweren UEs CTCAE-Grad ≥ 3 und den Therapieabbrüchen aufgrund von UE sowie im Detail bei spezifischen UEs)
 
 ---
 
@@ -15659,10 +16954,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach Maßgabe des Arztes.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -15676,10 +16971,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Ribociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer oder - Ribociclib in Kombination mit Fulvestrant oder - Anastrozol oder - Letrozol oder - Fulvestrant oder - ggf. Tamoxifen, wenn Aromatasehemmer nicht geeignet sind
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &darr;&darr;
-- Lebensqualität: &darr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr; (statistisch signifikanter Vorteil)
+- Morbidität: &darr;&darr; (Nachteile in der Symptomatik (Übelkeit /Erbrechen, Appetitverlust, Diarrhö).)
+- Lebensqualität: &darr; (Nachteil in der Skala soziale Funktion.)
+- Nebenwirkungen: &darr;&darr; (Nachteile in den SUEs, schweren UEs CTCAE-Grad ≥ 3 und den Therapieabbrüchen aufgrund von UE sowie im Detail bei spezifischen UEs)
 
 ---
 
@@ -15704,6 +16999,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** • Docetaxel oder • Docetaxel in Kombination mit Nintedanib oder • Pemetrexed
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+
 ---
 
 ###### Patientengruppe 1559
@@ -15716,10 +17017,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
 
 ---
 
@@ -15743,10 +17044,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine optimierte Standardtherapie der lebensbedrohlichen oder nicht kontrollierbaren Blutungen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
 
 
 #### Angiotensin-II-Acetat
@@ -15768,10 +17069,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine optimierte Standardtherapie. Hinweis: Von der Standardtherapie sind insbesondere Flüssigkeitssubstitution, Vasopressoren und Antibiotika umfasst.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 
 #### Anifrolumab
@@ -15791,6 +17092,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Belimumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Apremilast
@@ -15813,6 +17120,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** TNF-alpha-Hemmer (Etanercept oder Adalimumab oder Infliximab oder Golimumab) ggf. in Kombination mit Methotrexat.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 312
@@ -15823,6 +17136,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Adalimumab oder Infliximab oder Ustekinumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15835,6 +17154,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Therapie nach Maßgabe des Arztes. Neben Azathioprin stellen auch die Arzneimittel Ciclosporin, Colchicin, Interferon-alpha und Thalidomid sowie TNF-alpha-Inhibitoren geeignete Komparatoren für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach Maßgabe des Arztes dar. Diese Arzneimittel sind jedoch in dem vorliegenden Anwendungsgebiet nicht zugelassen.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+
 ---
 
 ###### Patientengruppe 2119
@@ -15845,6 +17170,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Adalimumab oder Etanercept oder Secukinumab oder Ustekinumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15870,10 +17201,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &harr; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -15887,10 +17218,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eltrombopag oder Romiplostim
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -15912,10 +17243,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** gilt als nicht belegt
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 
 #### Baricitinib
@@ -15939,10 +17270,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Alternative klassische DMARDs, sofern geeignet (z. B. MTX, Leflunomid) als Mono- oder Kombinationstherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -15956,10 +17287,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** biotechnologisch hergestellte DMARDs (bDMARD) in Kombination mit Methotrexat (MTX) (Adalimumab oder Etanercept oder Certolizumab-Pegol oder Golimumab oder Abatacept oder Tocilizumab); ggf. als Monotherapie unter Berücksichtigung des jeweiligen Zulassungsstatus bei MTX-Unverträglichkeit
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -15973,10 +17304,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** biotechnologisch hergestellte DMARDs (bDMARDs) in Kombination mit Methotrexat (Adalimumab oder Etanercept oder Certolizumab-Pegol oder Golimumab oder Abatacept oder Tocilizumab)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Lebensqualität: &uarr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &uarr; (Vorteil beim körperlichen Funktionsstatus und bei der Krankheitsaktivität.)
+- Lebensqualität: &uarr; (Vorteil bei der gesundheitsbezogenen Lebensqualität (körperlicher Summenscore).)
+- Nebenwirkungen: &darr; (Nachteil durch SUE.)
 
 ---
 
@@ -15990,10 +17321,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Wechsel der bDMARD – Therapie (Adalimumab oder Etanercept oder Certolizumab-Pegol oder Golimumab oder Abatacept oder Tocilizumab; in Kombination mit Methotrexat (MTX); ggf. als Monotherapie unter Berücksichtigung des jeweiligen Zulassungsstatus bei MTX-Unverträglichkeit; oder bei Patienten mit schwerer rheumatoider Arthritis Rituximab unter Berücksichtigung der Zulassung) in Abhängigkeit von der Vortherapie. Je nach Vortherapie sollte ein Wechsel des Wirkprinzips erwogen werden.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16007,10 +17338,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dupilumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine geeigneten Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine geeigneten Daten vor.)
 
 ---
 
@@ -16024,10 +17355,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein bDMARD (Adalimumab oder Etanercept oder Golimumab oder Tocilizumab) in Kombination mit MTX; ggf. als Monotherapie unter Berücksichtigung des jeweiligen Zulassungsstatus bei MTX-Unverträglichkeit oder Ungeeignetheit
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16041,10 +17372,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein bDMARD (Abatacept oder Adalimumab oder Etanercept oder Golimumab oder Tocilizumab) in Kombination mit MTX; ggf. als Monotherapie unter Berücksichtigung des jeweiligen Zulassungsstatus bei MTX-Unverträglichkeit oder Ungeeignetheit in Abhängigkeit von der Vortherapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16058,10 +17389,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ein patientenindividuell optimiertes Therapieregime in Abhängigkeit der Ausprägung der Erkrankung und unter Berücksichtigung der Vortherapie, unter Auswahl folgender Therapien: – topische Glukokortikoide der Klassen 1 bis 3 – topische Calcineurininhibitoren Der jeweilige Zulassungsstatus der Arzneimittel ist zu berücksichtigen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16075,10 +17406,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dupilumab (ggf. in Kombination mit TCS und/oder TCI)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16092,10 +17423,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dupilumab (ggf. in Kombination mit TCS und/oder TCI)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16109,10 +17440,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab oder Etanercept
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16126,10 +17457,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab oder Etanercept (≥ 12 Jahre) oder Secukinumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16143,10 +17474,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Etanercept (≥ 12 Jahre) oder Secukinumab (≥ 6 Jahre) oder Tofacitinib
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16171,6 +17502,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** maximal tolerierte medikamentöse Therapie nach Maßgabe des Arztes unter Berücksichtigung von Statinen, Cholesterinresorptionshemmern und Anionenaustauschern
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Keine relevanten Daten vorgelegt.)
+- Morbidität: Nicht bewertbar (Keine relevanten Daten vorgelegt.)
+- Lebensqualität: Nicht bewertbar (Keine relevanten Daten vorgelegt.)
+- Nebenwirkungen: Nicht bewertbar (Keine relevanten Daten vorgelegt.)
+
 ---
 
 ###### Patientengruppe 1087
@@ -16183,10 +17520,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Evolocumab* oder LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie. * Die Vorgaben hinsichtlich der Verordnungseinschränkung der Arzneimittel-Richtlinie (AM-RL) Anlage III sind zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
 
 ---
 
@@ -16210,6 +17547,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** maximal tolerierte medikamentöse Therapie nach Maßgabe des Arztes unter Berücksichtigung von Statinen, Cholesterinresorptionshemmern und Anionenaustauschern
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Keine relevanten Daten vorgelegt.)
+- Morbidität: Nicht bewertbar (Keine relevanten Daten vorgelegt.)
+- Lebensqualität: Nicht bewertbar (Keine relevanten Daten vorgelegt.)
+- Nebenwirkungen: Nicht bewertbar (Keine relevanten Daten vorgelegt.)
+
 ---
 
 ###### Patientengruppe 1088
@@ -16222,10 +17565,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Evolocumab* oder LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie. * Die Vorgaben hinsichtlich der Verordnungseinschränkung der Arzneimittel-Richtlinie (AM-RL) Anlage III sind zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
 
 ---
 
@@ -16248,6 +17591,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** eine Routine-Prophylaxe mit C1-Esterase-Inhibitor
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Bictegravir/Emtricitabin/Tenofoviralafenamid
 
@@ -16269,10 +17618,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Rilpivirin in Kombination mit Tenofovirdisoproxil/-alafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin oder Dolutegravir in Kombination mit Tenofovirdisoproxil/-alafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die NB relevanten Unterschiede. Im Detail zeigen sich bei den spezifischen UE sowohl Vor- als auch Nachteile.)
 
 ---
 
@@ -16284,6 +17633,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -16297,7 +17652,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Abacavir + Lamivudin oder Abacavir+ Emtricitabin jeweils in Kombination mit - Dolutegravir oder - Lopinavir/Ritonavir oder - Raltegravir oder - Nevirapin oder - Atazanavir + Ritonavir oder - Darunavir + Ritonavir
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -16311,7 +17669,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Abacavir + Lamivudin oder Abacavir+ Emtricitabin jeweils in Kombination mit - Dolutegravir oder - Atazanavir + Ritonavir oder - Darunavir + Ritonavir
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -16325,7 +17686,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Tenofoviralafenamid + Emtricitabin oder Abacavir + Lamivudin oder Abacavir+ Emtricitabin jeweils in Kombination mit - Dolutegravir oder - Atazanavir + Ritonavir oder - Darunavir + Ritonavir oder - Elvitegravir/Cobicistat
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -16339,7 +17703,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle antiretrovirale Therapie unter Auswahl der zugelassenen Wirkstoffe; unter Berücksichtigung der Vortherapie(n) und des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -16365,7 +17732,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Vemurafenib in Kombination mit Cobimetinib oder - Dabrafenib in Kombination mit Trametinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -16379,10 +17749,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie nach Maßgabe des behandelnden Arztes in Abhängigkeit von der jeweiligen Vortherapie und unter Berücksichtigung des Zulassungsstatus (hiervon ausgenommen: Dacarbazin und Lomustin).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16395,6 +17765,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** − Dabrafenib in Kombination mit Trametinib oder − Pembrolizumab als Monotherapie oder − Atezolizumab als Monotherapie oder − Cemiplimab als Monotherapie oder − Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder − Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder − Atezolizumab in Kombination mit Bevacizumab, Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1) − Atezolizumab in Kombination mit nab-Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1)− Cemiplimab in Kombination mit platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) − Durvalumab in Kombination Tremelimumab und platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2105
@@ -16406,6 +17782,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** − Dabrafenib in Kombination mit Trametinib oder − Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder − Atezolizumab als Monotherapie (nur für Patientinnen und Patienten mit einer PD-L1-Expression ≥ 10 % bei tumorinfiltrierenden Immunzellen) oder − Atezolizumab in Kombination mit Bevacizumab, Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder − Atezolizumab in Kombination mit nab-Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder − Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) − Cemiplimab in Kombination mit platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) − Durvalumab in Kombination Tremelimumab und platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2106
@@ -16416,6 +17798,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Dabrafenib in Kombination mit Trametinib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -16440,6 +17828,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ponatinib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1693
@@ -16450,6 +17844,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ponatinib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -16463,10 +17863,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Imatinib oder - Nilotinib oder - Dasatinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Nebenwirkungen: &darr; (Nachteile in den Endpunkten Abbruch wegen UE und schwere UE (CTCAE-Grad ≥ 3) und im Detail Vor- und Nachteile bei den spezifischen UE)
 
 ---
 
@@ -16491,6 +17891,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle antiepileptische Zusatztherapie, soweit medizinisch indiziert und falls jeweils noch keine Pharmakoresistenz (im Sinne eines nicht ausreichenden Ansprechens), Unverträglichkeit und Kontraindikationen bekannt sind, mit einem der folgenden Wirkstoffe: Eslicarbazepin¹, Gabapentin², Lacosamid, Lamotrigin, Levetiracetam, Oxcarbazepin², Perampanel³, Topiramat, Valproinsäure⁴, Zonisamid² Die Therapie soll nach Wahl des Arztes in Abhängigkeit der Basis- und Vortherapie(en) und unter Berücksichtigung des Grundes für den Therapiewechsel und etwaig einhergehender Nebenwirkungen erfolgen. Die jeweilige Zulassung der Arzneimittel ist zu berücksichtigen. ¹Zulassung für Kinder über 6 Jahre ²Zulassung für Kinder ab 6 Jahren ³Zulassung für Jugendliche ab 12 Jahren ⁴Valproinsäure kommt für die Zusatzbehandlung fokaler Anfälle mit oder ohne sekundäre Generalisierung bei Kindern und Jugendlichen im Alter von 4 bis <16 Jahren aufgrund von potentiell auftretenden Leberschäden und der Teratogenität nicht regelhaft in Frage. Im Rahmen einer patientenindividuellen Therapie kann die Zusatzbehandlung mit Valproinsäure jedoch eine mögliche Option darstellen.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 402
@@ -16501,6 +17907,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine individuelle antiepileptische Zusatztherapie, soweit medizinisch indiziert und falls noch keine Pharmakoresistenz / Unverträglichkeit und Kontraindikationen bekannt sind, mit einem der folgenden Wirkstoffe: Eslicarbazepin oder Gabapentin oder Lacosamid oder Lamotrigin oder Levetiracetam oder Oxcarbazepin oder Pregabalin oder Topiramat oder Valproinsäure oder Zonisamid. Die Therapie soll nach Wahl des Arztes in Abhängigkeit von der Basis- und (den)Vortherapie(en) und unter Berücksichtigung des Grundes für den Therapiewechsel und etwaig einhergehender Nebenwirkungen erfolgen. Die jeweilige Zulassung der Präparate ist zu beachten.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -16514,7 +17926,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle antiepileptische Zusatztherapie, soweit medizinisch indiziert und falls jeweils noch keine Pharmakoresistenz (im Sinne eines nicht ausreichenden Ansprechens), Unverträglichkeit oder Kontraindikation bekannt ist, unter Berücksichtigung der Basis- und (der) Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel sowie der etwaig einhergehenden Nebenwirkungen
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -16540,10 +17955,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ranibizumab oder Aflibercept
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -16557,10 +17972,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Aflibercept oder Ranibizumab oder Faricimab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt Abbruch wegen UEs. Im Detail Nachteil im Endpunkt intraokulare Entzündungen.)
 
 ---
 
@@ -16584,10 +17999,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dexamethason Augentropfen
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 
 #### Cabotegravir
@@ -16607,6 +18022,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** eine patientenindividuelle antiretrovirale Therapie unter Auswahl der zugelassenen Wirkstoffe; unter Berücksichtigung der Vortherapie(n) und ggf. von Nebenwirkungen
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Calcifediol
@@ -16628,7 +18049,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Paricalcitol
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Canagliflozin
@@ -16652,10 +18076,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16667,6 +18091,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) (Hinweis: Wenn Metformin gemäß Fachinformation nicht geeignet ist, ist Humaninsulin als Therapieoption einzusetzen.)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -16680,9 +18110,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) (Hinweis: Wenn Metformin gemäß Fachinformation nicht geeignet ist, ist Humaninsulin als Therapieoption einzusetzen.)
 
 **Hauptergebnisse:**
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16696,10 +18127,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Humaninsulin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht ausreichend wirksam oder unverträglich.)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16713,10 +18144,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Humaninsulin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht ausreichend wirksam oder unverträglich.)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16740,6 +18171,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid) + Metformin
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 234
@@ -16752,10 +18189,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16769,10 +18206,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16797,6 +18234,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder - Carboplatin in Kombination mit nab-Paclitaxel oder - Monotherapie mit Gemcitabin oder Vinorelbin (nur für Patientinnen und Patienten mit ECOG-Performance-Status 2 als Alternative zur Platin-basierten Kombinations-behandlung)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1707
@@ -16808,6 +18251,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Docetaxel (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren) oder - Pemetrexed (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und außer bei überwiegend plattenepithelialer Histologie) oder - Nivolumab oder - Pembrolizumab (nur für Patientinnen und Patienten mit PD-L1 exprimierenden Tumoren, Tumor Proportion Score (TPS) ≥ 1 %) oder - Atezolizumab oder - Docetaxel in Kombination mit Nintedanib (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und Adenokarzinom-Histologie)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1708
@@ -16818,6 +18267,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung der Vortherapie und Histologie unter Auswahl von - Afatinib, - Pemetrexed, - Erlotinib, - Docetaxel, - Docetaxel in Kombination mit Ramucirumab, - Docetaxel in Kombination mit Nintedanib und - Vinorelbin.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -16840,6 +18295,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle antiepileptische Zusatztherapie, soweit medizinisch indiziert und falls jeweils noch keine Pharmakoresistenz (im Sinne eines nicht ausreichenden Ansprechens), Unverträglichkeit oder Kontraindikation bekannt ist, unter Auswahl von: Brivaracetam, Eslicarbazepin, Gabapentin, Lacosamid, Lamotrigin, Levetiracetam, Oxcarbazepin, Perampanel, Pregabalin, Topiramat, Valproinsäure und Zonisamid unter Berücksichtigung der Basis- und (den) Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel sowie etwaig einhergehender Nebenwirkungen.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Cladribin
 
@@ -16861,6 +18322,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Interferon beta-1a oder Interferon beta-1b oder Glatirameracetat unter Berücksichtigung der Zulassung
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1447
@@ -16871,6 +18338,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Alemtuzumab oder Fingolimod oder Natalizumab oder, sofern angezeigt, Wechsel innerhalb der Basistherapeutika (Interferon beta-1a oder Interferon beta-1b oder Glatirameracetat unter Berücksichtigung der Zulassung)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Date vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -16896,10 +18369,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ritonavir
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -16913,10 +18386,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ritonavir in Kombination mit Atazanavir oder Darunavir
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbare Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbare Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbare Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbare Daten vor.)
 
 ---
 
@@ -16941,9 +18414,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eculizumab oder Ravulizumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -16957,9 +18431,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eculizumab oder Ravulizumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &uarr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &uarr; (Vorteil im Endpunkt Fatigue)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &darr;&darr; (Nachteile im Endpunkt schwere UE (CTCAE Grad ≥ 3))
 
 ---
 
@@ -16985,10 +18460,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Afatinib oder Gefitinib oder Erlotinib oder Osimertinib
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &darr;
-- Lebensqualität: &darr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben.)
+- Morbidität: &darr; (Nachteile in den Symptomskalen Schmerzen, Appetitlosigkeit, Diarrhö, wunder Mund, Dysphagie, periphere Neuropathie, Alopezie sowie beim allgemeinen Gesundheitszustand)
+- Lebensqualität: &darr; (Nachteile in den Funktionsskalen Rollenfunktion, kognitive Funktion und soziale Funktion sowie in der Skala zum globalen Gesundheitszustand.)
+- Nebenwirkungen: &darr;&darr; (Nachteil im Endpunkt schwere UE (CTCAE-Grad 3 oder 4). Im Detail überwiegend Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -17002,10 +18477,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine patientenindividuelle Therapie in Abhängigkeit von der aktivierenden EGFR-Mutation unter Auswahl von: − Afatinib, Gefitinib, Erlotinib, Osimertinib − Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) − Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) (vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie) − Carboplatin in Kombination mit nab-Paclitaxel und − Monotherapie mit Gemcitabin oder Vinorelbin (nur für Patienten mit ECOG-Performance-Status 2 als Alternative zur Platin-basierten Kombinationsbehandlung).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17028,6 +18503,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Rekombinante oder aus humanem Plasma gewonnene Blutgerinnungsfaktor-VIII-Präparate
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Daridorexant
 
@@ -17046,6 +18527,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Best Supportive Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Darunavir/Cobicistat/Emtricitabin/Tenofoviralafenamid
@@ -17068,10 +18555,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Rilpivirin in Kombination mit Tenofovirdisoproxil/-alafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin oder Dolutegravir in Kombination mit Tenofovirdisoproxil/-alafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17085,10 +18572,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Rilpivirin in Kombination mit Tenofoviralafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin oder Dolutegravir in Kombination mit Tenofoviralafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17102,7 +18589,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17116,10 +18606,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17140,6 +18630,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** – Azacitidin oder – Decitabin oder – Glasdegib in Kombination mit niedrig dosiertem Cytarabin oder – Venetoclax in Kombination mit Azacitidin oder – Venetoclax in Kombination mit Decitabin
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Delgocitinib
@@ -17163,10 +18659,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individualisierte Therapie aus topischer und systemischer Therapie
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &uarr; (Vorteil im Endpunkt Abbruch wegen UEs. Im Detail Vorteile in den Endpunkten Erkrankungen des Gastrointestinaltrakts und Kopfschmerzen.)
 
 ---
 
@@ -17180,10 +18676,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individualisierte Therapie aus topischer und systemischer Therapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17208,6 +18704,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Adalimumab oder Bimekizumab oder Guselkumab oder Ixekizumab oder Secukinumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1846
@@ -17218,6 +18720,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Adalimumab oder Bimekizumab oder Brodalumab oder Guselkumab oder Infliximab oder Ixekizumab oder Risankizumab oder Secukinumab oder Ustekinumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17240,6 +18748,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Best-Supportive-Care
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Dimethylfumarat
 
@@ -17261,6 +18775,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Interferon beta-1a oder Interferon beta-1b oder Glatirameracetat
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 638
@@ -17273,10 +18793,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Fumarsäureester oder Ciclosporin oder Methotrexat oder Secukinumab Die jeweilige Zulassung der Arzneimittel ist zu berücksichtigen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17290,10 +18810,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adalimumab oder Infliximab oder Secukinumab oder Ustekinumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17305,6 +18825,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Interferon-beta 1b oder Glatirameracetat oder Teriflunomid, unter Berücksichtigung des Zulassungsstatus
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17329,10 +18855,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Rilpivirin in Kombination mit Tenofovirdisoproxil/-alafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin oder Dolutegravir in Kombination mit Tenofovirdisoproxil/-alafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Morbidität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
 
 ---
 
@@ -17346,7 +18872,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle antiretrovirale Therapie unter Auswahl der zugelassenen Wirkstoffe; unter Berücksichtigung der Vortherapie(n) und des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung relevanten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung relevanten Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine für die Nutzenbewertung relevanten Daten vor.)
 
 ---
 
@@ -17360,10 +18889,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Rilpivirin in Kombination mit Tenofoviralafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin oder Dolutegravir in Kombination mit Tenofoviralafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17377,10 +18906,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle antiretrovirale Therapie unter Auswahl der zugelassenen Wirkstoffe; unter Berücksichtigung der Vortherapie(n) und des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -17403,7 +18932,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine individuelle antiretrovirale Therapie (ART) in Abhängigkeit der Vortherapie(n) und ggf. unter Berücksichtigung von Nebenwirkungen
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Doravirin
@@ -17427,10 +18959,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Rilpivirin in Kombination mit Tenofovirdisoproxil/-alafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin oder Dolutegravir in Kombination mit Tenofovirdisoproxil/-alafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -17444,10 +18976,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17461,7 +18993,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Zweckmäßige Vergleichstherapie für Doravirin in Kombination mit anderen antiretroviralen Arzneimitteln: Tenofoviralafenamid plus Emtricitabin oder Abacavir plus Lamivudin oder Abacavir plus Emtricitabin jeweils in Kombination mit - Dolutegravir oder - Atazanavir/Ritonavir oder - Darunavir/Ritonavir oder - Elvitegravir/Cobicistat
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (.Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17475,7 +19010,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** eine patientenindividuelle antiretrovirale Therapie unter Auswahl der zugelassenen Wirkstoffe; unter Berücksichtigung der Vortherapie(n) und des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17500,10 +19038,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Rilpivirin in Kombination mit Tenofovirdisoproxil/-alafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin oder Dolutegravir in Kombination mit Tenofovirdisoproxil/-alafenamid plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -17517,10 +19055,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17534,7 +19072,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - eine patientenindividuelle antiretrovirale Therapie unter Auswahl der zugelassenen Wirkstoffe; unter Berücksichtigung der Vortherapie(n) und des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17559,6 +19100,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Ibrutinib oder - Venetoclax + Rituximab oder - eine Chemoimmuntherapie mit FCR oder BR oder ClbR (jeweils nur bei langem rezidivfreiem Intervall und fehlenden genetischen Risikofaktoren)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1565
@@ -17569,6 +19116,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Venetoclax + Rituximab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17581,6 +19134,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ibrutinib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1567
@@ -17592,6 +19151,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Patientenindividuelle Therapie unter Auswahl von • Idelalisib in Kombination mit Rituximab, • Bendamustin in Kombination mit Rituximab, • Chlorambucil in Kombination mit Rituximab und • Best-Supportive-Care; unter Berücksichtigung der Komorbiditäten, des Allgemeinzustandes, von genetischen Risikofaktoren sowie Erfolg und Verträglichkeit der Vortherapie
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1421
@@ -17602,6 +19167,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung der Vortherapie, des Krankheitsverlaufs und des Allgemeinzustandes
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17624,6 +19195,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** rekombinante oder aus humanem Plasma gewonnene Blutgerinnungsfaktor VIII-Präparate
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Elbasvir/Grazoprevir
 
@@ -17645,10 +19222,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Für Patienten ohne Zirrhose die Kombination Ledipasvir/Sofosbuvir oder Ombitasvir/Paritaprevir/Ritonavir plus Dasabuvir (ggf. plus Ribavirin). Für Patienten mit kompensierter Zirrhose die Kombination Ledipasvir/Sofosbuvir. Die Angaben der Fachinformationen der Kombinationspartner der zweckmäßigen Vergleichstherapie sind zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -17662,10 +19239,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Für Patienten ohne Zirrhose die Kombination Ledipasvir/Sofosbuvir oder Ombitasvir/Paritaprevir/Ritonavir plus Ribavirin. Für Patienten mit kompensierter Zirrhose die Kombination Ledipasvir/Sofosbuvir. Die Angaben der Fachinformationen der Kombinationspartner der zweckmäßigen Vergleichstherapie sind zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -17679,7 +19256,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir oder Glecaprevir/Pibrentasvir oder Sofosbuvir/Velpatasvir
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor. Ergebnisse zu SVR in derselben Größenordnung wie bei entsprechender zweckmäßiger Vergleichstherapie)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17703,6 +19283,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Auswahl von - Carfilzomib in Kombination mit Lenalidomid und Dexamethason - Elotuzumab in Kombination mit Lenalidomid und Dexamethason - Elotuzumab in Kombination mit Pomalidomid und Dexamethason - Daratumumab in Kombination mit Bortezomib und Dexamethason - Daratumumab in Kombination mit Lenalidomid und Dexamethason - Daratumumab in Kombination mit Carfilzomib und Dexamethason - Daratumumab in Kombination mit Pomalidomid und Dexamethason (nur für Personen, die gegenüber Lenalidomid refraktär sind) - Isatuximab in Kombination mit Carfilzomib und Dexamethason - Isatuximab in Kombination mit Pomalidomid und Dexamethason - Pomalidomid in Kombination mit Bortezomib und Dexamethason (nur für Personen, die auf einen Anti-CD38-Antikörper und Lenalidomid refraktär sind) - Ixazomib in Kombination mit Lenalidomid und Dexamethason (nur für Personen, die auf Bortezomib, Carfilzomib und einen Anti-CD38-Antikörper refraktär sind) - Carfilzomib in Kombination mit Dexamethason unter Berücksichtigung der in den vorherigen Therapien eingesetzten Wirkstoffe und Wirkstoffkombinationen sowie der Art und Dauer des Ansprechens auf die jeweiligen vorherigen Therapien
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1992
@@ -17713,6 +19299,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Auswahl von - Carfilzomib in Kombination mit Lenalidomid und Dexamethason - Elotuzumab in Kombination mit Lenalidomid und Dexamethason - Elotuzumab in Kombination mit Pomalidomid und Dexamethason - Daratumumab in Kombination mit Bortezomib und Dexamethason - Daratumumab in Kombination mit Lenalidomid und Dexamethason - Daratumumab in Kombination mit Carfilzomib und Dexamethason - Daratumumab in Kombination mit Pomalidomid und Dexamethason - Isatuximab in Kombination mit Carfilzomib und Dexamethason - Isatuximab in Kombination mit Pomalidomid und Dexamethason - Pomalidomid in Kombination mit Bortezomib und Dexamethason (nur für Personen, die auf einen Anti-CD38-Antikörper und Lenalidomid refraktär sind) - Ixazomib in Kombination mit Lenalidomid und Dexamethason (nur für Personen, die auf Bortezomib, Carfilzomib und einen Anti-CD38-Antikörper refraktär sind) - Panobinostat in Kombination mit Bortezomib und Dexamethason - Carfilzomib in Kombination mit Dexamethason - Pomalidomid in Kombination mit Dexamethason (nur für mind. doppelt-refraktäre Personen, die für eine Triplett-Therapie nicht geeignet sind) - Lenalidomid in Kombination mit Dexamethason (nur für mind. doppelt-refraktäre Personen, die für eine Triplett-Therapie nicht geeignet sind) - Bortezomib in Kombination mit pegyliertem liposomalen Doxorubicin (nur für mind. doppelt-refraktäre Personen, die für eine Triplett-Therapie nicht geeignet sind) - Bortezomib in Kombination mit Dexamethason (nur für mind. doppelt-refraktäre Personen, die für eine Triplett-Therapie nicht geeignet sind) - Daratumumab Monotherapie (nur für mind. dreifach refraktäre Personen, die für eine Triplett- oder Dublett-Therapie nicht geeignet sind) - Cyclophosphamid als Monotherapie oder in Kombination mit Dexamethason (nur für mind. dreifach refraktäre Personen, die für eine Triplett- oder Dublett-Therapie nicht geeignet sind) - Melphalan als Monotherapie oder in Kombination mit Prednisolon oder Prednison (nur für mind. dreifach refraktäre Personen, die für eine Triplett- oder Dublett-Therapie nicht geeignet sind) unter Berücksichtigung des Allgemeinzustandes, der in den vorherigen Therapien eingesetzten Wirkstoffe und Wirkstoffkombinationen sowie der Art und Dauer des Ansprechens auf die jeweiligen vorherigen Therapien
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17737,10 +19329,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Atazanavir plus Ritonavir in Kombination mit Abacavir plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin oder Dolutegravir in Kombination mit Abacavir plus Emtricitabin oder in Kombination mit Abacavir plus Lamivudin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17754,10 +19346,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen; aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17771,10 +19363,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Efavirenz oder Rilpivirin oder Dolutegravir jeweils in Kombination mit zwei Nukleosid-/Nukleotidanaloga (Tenofovirdisoproxil plus Emtricitabin oder Abacavir plus Lamivudin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Insgesamt kein eindeutiger Vor- oder Nachteil; im Detail Vorteil für CD4-Zellzahl, Nachteil für AIDS-definierende Ereignisse; kein Unterschied für die Viruslast.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt kein eindeutiger Vor- oder Nachteil; im Detail Vorteil bei Abbruch wegen UE und bei spezifischen UE, Nachteil bei SUE und bei spezifischen SUE.)
 
 ---
 
@@ -17788,7 +19380,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Efavirenz in Kombination mit Abacavir und Lamivudin
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17802,10 +19397,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -17819,10 +19414,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17836,7 +19431,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Abacavir + Lamivudin oder Abacavir+ Emtricitabin jeweils in Kombination mit - Dolutegravir oder - Lopinavir/Ritonavir oder - Raltegravir oder - Nevirapin oder - Atazanavir/Ritonavir oder - Darunavir/Ritonavir
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17850,7 +19448,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle antiretrovirale Therapie unter Auswahl der zugelassenen Wirkstoffe; unter Berücksichtigung der Vortherapie(n) und des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17875,10 +19476,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Efavirenz in Kombination mit zwei Nukleosid-/Nukleotidanaloga (Tenofovirdisoproxil plus Emtricitabin oder Abacavir plus Lamivudin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Insgesamt kein eindeutiger Vor- oder Nachteil; im Detail Vorteil für CD4-Zellzahl, Nachteil für AIDS-definierende Ereignisse; kein Unterschied für die Viruslast.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt kein eindeutiger Vor- oder Nachteil.)
 
 ---
 
@@ -17892,10 +19493,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen; aufgrund eines virologischen Versagens und etwaiger einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17909,10 +19510,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen; aufgrund eines virologischen Versagens undetwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17934,6 +19535,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Humaninsulin + Metformin oder - Humaninsulin + Empagliflozin oder - Humaninsulin + Liraglutid oder - Humaninsulin, wenn die bestimmten Kombinationspartner gemäß Fachinformation unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam sind Hinweis: Empagliflozin ​und Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Empagliflozin/Metformin
 
@@ -17954,6 +19561,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid) + Metformin
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 414
@@ -17966,7 +19579,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid) + Metformin
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -17980,10 +19596,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -17997,7 +19613,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist)
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18011,10 +19630,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -18028,7 +19647,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist)
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18053,10 +19675,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Efavirenz oder Rilpivirin oder Dolutegravir jeweils in Kombination mit zwei Nukleosid-/Nukleotidanaloga (Tenofovirdisoproxil plus Emtricitabin oder Abacavir plus Lamivudin)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -18070,10 +19692,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Efavirenz oder Rilpivirin oder Dolutegravir jeweils in Kombination mit Abacavir plus Lamivudin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -18087,10 +19709,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -18104,10 +19726,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -18131,6 +19753,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** NRTI-Backbone: Tenofovirdisoproxil plus Emtricitabin oder Abacavir plus Lamivudin In Kombination mit dem NRTI-Backbone sollen wirkstoffgleiche dritte Kombinationspartner (Efavirenz oder Rilpivirin oder Dolutegravir) über die Studienarme gleich verteilt eingesetzt werden.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 447
@@ -18143,7 +19771,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Efavirenz in Kombination mit Abacavir plus Lamivudin
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18157,10 +19788,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -18174,10 +19805,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Individuelle antiretrovirale Therapie in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -18202,6 +19833,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Crizotinib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+
 ---
 
 ###### Patientengruppe 965
@@ -18213,6 +19850,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von - Best-Supportive-Care und - chirurgische Resektion, die wahrscheinlich zu schwerer Morbidität führt, für die patientenindividuell ein klinischer Nutzen zu erwarten ist.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+
 ---
 
 ###### Patientengruppe 2036
@@ -18223,6 +19866,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Individualisierte Therapie unter Auswahl von Larotrectinib, Best-Supportive-Care, chirurgischer Resektion, die wahrscheinlich zu schwerer Morbidität führt, für die aber gleichwohl im Einzelfall ein patientenindividueller klinischer Nutzen zu erwarten ist
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18246,6 +19895,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** individualisierte Therapie unter Auswahl von - Bendamustin + Obinutuzumab gefolgt von einer Obinutuzumab-Erhaltungstherapie entsprechend der Zulassung, - Lenalidomid + Rituximab, - Rituximab Monotherapie, - Mosunetuzumab, - Tisagenlecleucel
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2134
@@ -18257,6 +19912,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Individualisierte Therapie unter Auswahl von − Tisagenlecleucel, − Axicabtagen-Ciloleucel, − Lisocabtagen maraleucel, − einer Induktionstherapie mit • R-GDP (Rituximab, Gemcitabin, Dexamethason, Cisplatin bzw. Carboplatin) oder • R-DHAP (Rituximab, Dexamethason, Cisplatin, Cytarabin) oder • R-ICE (Rituximab, Ifosfamid, Carboplatin, Etoposid) gefolgt von einer Hochdosistherapie mit autologer Stammzelltransplantation bei Ansprechen auf die Induktionstherapie und − einer Induktionstherapie mit • R-GDP (Rituximab, Gemcitabin, Dexamethason, Cisplatin bzw. Carboplatin) oder • R-DHAP (Rituximab, Dexamethason, Cisplatin, Cytarabin) oder • R-ICE (Rituximab, Ifosfamid, Carboplatin, Etoposid) gefolgt von einer Hochdosistherapie mit allogener Stammzelltransplantation bei Ansprechen auf die Induktionstherapie
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2136
@@ -18267,6 +19928,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Individualisierte Therapie unter Auswahl von − Polatuzumab Vedotin + Bendamustin + Rituximab, − Tafasitamab + Lenalidomid und − Bestrahlung
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18291,6 +19958,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Metoprolol oder Propranolol oder Flunarizin oder Topiramat oder Amitriptylin oder Clostridium botulinum Toxin Typ A oder Erenumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine Daten vor.)
+
 ---
 
 ###### Patientengruppe 1712
@@ -18303,10 +19976,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Erenumab oder Fremanezumab oder Galcanezumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
+- Morbidität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
+- Lebensqualität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
 
 ---
 
@@ -18331,6 +20004,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Cisplatin in Kombination mit Gemcitabin
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2161
@@ -18342,6 +20021,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Vinflunin oder Docetaxel oder Paclitaxel
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2162
@@ -18352,6 +20037,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Enfortumab Vedotin
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18377,7 +20068,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung des patientenindividuellen Therapieziels in Abhängigkeit von Komorbiditäten, Diabetesdauer, möglichen Risiken für Hypoglykämien, unter Auswahl von: - Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid), - Metformin + Sitagliptin, - Metformin + Empagliflozin, - Metformin + Liraglutid
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18391,7 +20085,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Metformin + Empagliflozin, oder - Metformin + Liraglutid, oder - Metformin + Dapagliflozin
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18405,10 +20102,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Metformin + Empagliflozin + Sitagliptin, oder - Metformin + Empagliflozin + Liraglutid
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -18422,7 +20119,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Metformin + Empagliflozin + Liraglutid, oder - Metformin + Dapagliflozin + Liraglutid
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18436,10 +20136,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Humaninsulin + Metformin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -18453,7 +20153,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Humaninsulin + Metformin + Empagliflozin, oder - Humaninsulin + Metformin + Dapagliflozin, oder - Humaninsulin + Metformin + Liraglutid
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18467,10 +20170,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eskalation der Insulintherapie (konventionelle Therapie (CT) ggf. + Metformin oder Dulaglutid bzw. intensivierte Insulintherapie (ICT))
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor)
+- Morbidität: &Oslash; (Es liegen keine Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor)
 
 ---
 
@@ -18484,7 +20187,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eskalation der Insulintherapie (konventionelle Therapie (CT) ggf. + Metformin oder Empagliflozin oder Liraglutid oder Dapagliflozin bzw. intensivierte Insulintherapie (ICT))
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18506,6 +20212,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** − Humaninsulin + Metformin oder − Humaninsulin + Empagliflozin* oder − Humaninsulin + Liraglutid* oder − Humaninsulin, wenn die bestimmten Kombinationspartner gemäß Fachinformation unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam sind * Empagliflozin und Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Etelcalcetid
 
@@ -18526,9 +20238,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Cinacalcet Cinacalcet kann als Teil eines therapeutischen Regimes angewendet werden, das je nach Bedarf Phosphatbinder und/oder Vitamin D (auch Analoga) umfassen kann.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 
 #### Etrasimod
@@ -18550,6 +20263,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Adalimumab oder Golimumab oder Infliximab oder Mirikizumab oder Ozanimod oder Ustekinumab oder Vedolizumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2026
@@ -18560,6 +20279,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Adalimumab oder Filgotinib oder Golimumab oder Infliximab oder Mirikizumab oder Ozanimod oder Tofacitinib oder Upadacitinib oder Ustekinumab oder Vedolizumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18585,7 +20310,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Evolocumab ggf. mit begleitender medikamentöser lipidsenkender Therapie, oder - LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie, oder - Evolocumab und LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18599,7 +20327,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Evolocumab (ab 10 Jahren) ggf. mit begleitender medikamentöser lipidsenkender Therapie, oder - LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie, oder - Evolocumab (ab 10 Jahren) und LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18625,7 +20356,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** andere (als Statine) Lipidsenker (Fibrate oder Anionenaustauscher oder Cholesterinresorptionshemmer) als Monotherapie und diätetische Therapie zur Lipidsenkung
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18639,10 +20373,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -18656,7 +20390,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** maximal tolerierte medikamentöse und diätetische Therapie zur Lipidsenkung
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18670,10 +20407,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -18687,10 +20424,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** maximal tolerierte medikamentöse und diätetische Therapie zur Lipidsenkung
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -18702,6 +20439,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Alirocumab oder LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18715,10 +20458,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** maximal tolerierte medikamentöse und diätetische Therapie zur Lipidsenkung
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -18732,10 +20475,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** maximal tolerierte medikamentöse Therapie nach ärztlicher Maßgabe unter Berücksichtigung von Statinen, Cholesterinresorptionshemmern, und Anionenaustauschern
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18749,7 +20492,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine Daten vor.)
 
 ---
 
@@ -18763,7 +20509,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** maximal tolerierte medikamentöse Therapie nach ärztlicher Maßgabe unter Berücksichtigung von Statinen, Cholesterinresorptionshemmern, und Anionenaustauschern
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18777,10 +20526,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -18802,6 +20551,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** gilt als nicht belegt
 
 **Vergleichstherapie:** Die zweckmäßige Vergleichstherapie zur Verbesserung der Gehfähigkeit von erwachsenen Patienten mit Multipler Sklerose (MS) ist Krankengymnastik entsprechend der Heilmittelrichtlinie unter der Voraussetzung einer optimierten MS-Standardtherapie (einschließlich einer symptomatischen Therapie mit gegebenenfalls Spasmolytika).
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Faricimab
@@ -18825,10 +20580,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ranibizumab oder Aflibercept
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
+- Morbidität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
+- Lebensqualität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
 
 ---
 
@@ -18841,6 +20596,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ranibizumab oder Aflibercept
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2039
@@ -18852,6 +20613,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Aflibercept oder Ranibizumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2086
@@ -18862,6 +20629,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Aflibercept oder Ranibizumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18885,10 +20658,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eltrombopag oder Romiplostim
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
 
 
 #### Fostemsavir
@@ -18909,6 +20682,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle antiretrovirale Therapie unter Auswahl der zugelassenen Wirkstoffe; unter Berücksichtigung der Vortherapie(n) und des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Futibatinib
 
@@ -18927,6 +20706,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Pemigatinib
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Gadopiclenol
@@ -18948,9 +20733,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Zweckmäßige Vergleichstherapie für Gadopiclenol: - Gadobutrol oder Gadoteridol oder Gadotersäure
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Glecaprevir/Pibrentasvir
@@ -18973,7 +20759,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -18987,7 +20776,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sofosbuvir plus Ribavirin oder Sofosbuvir/Velpatasvir.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -19001,10 +20793,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sofosbuvir plus Ribavirin oder Sofosbuvir/Velpatasvir.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19018,10 +20810,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sofosbuvir plus Ribavirin oder Sofosbuvir/Velpatasvir.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19035,10 +20827,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19052,10 +20844,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19069,10 +20861,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie nach Maßgabe des Arztes, unter Beachtung der Vortherapie(n), Genotyp und der jeweiligen Zulassung. Mögliche Kreuzresistenzen bei der Auswahl der antiviralen Therapie v.a. bei Proteaseinhibitoren sind zu berücksichtigen.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19086,7 +20878,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -19100,7 +20895,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sofosbuvir plus Ribavirin.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -19113,6 +20911,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1318
@@ -19123,6 +20927,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Sofosbuvir plus Ribavirin
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -19145,6 +20955,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Hydrocortison
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Icosapent-Ethyl
 
@@ -19165,10 +20981,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Berücksichtigung von Statinen und Cholesterinresorptionshemmern
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Vorteil beim kombinierten Endpunkt MACE, im Detail bei den Einzelkomponenten „kardiovaskulärer Tod“, „nicht tödlicher Myokardinfarkt“ und „nicht tödlicher Schlaganfall“, die jedoch aufgrund der Unsicherheiten nicht beurteilt werden können.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede. Im Detail Nachteil beim spezifischen UE „Blutungen“.)
 
 
 #### Inclisiran
@@ -19192,10 +21008,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** maximal tolerierte medikamentöse Therapie nach ärztlicher Maßgabe unter Berücksichtigung von Statinen, Cholesterinresorptionshemmern, und Anionenaustauschern
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
 
 ---
 
@@ -19209,10 +21025,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Evolocumab* oder Alirocumab* oder LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie. * Die Vorgaben hinsichtlich der Verordnungseinschränkung der Arzneimittel-Richtlinie (AM-RL) Anlage III sind zu beachten.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten für die Nutzenbewertung vor.)
 
 ---
 
@@ -19235,10 +21051,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** hochdosiertes ICS und LABA und LAMA
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 
 #### Inebilizumab
@@ -19258,6 +21074,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe* * Im Rahmen einer klinischen Studie sollten zur immunsuppressiven Langzeittherapie die Wirkstoffe Azathioprin, Eculizumab, Mycophenolat-Mofetil, Rituximab und Satralizumab zur Verfügung stehen. Die Wirkstoffe Azathioprin, Mycophenolat-Mofetil und Rituximab sind jedoch für die vorliegende Indikation nicht zugelassen.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Insulin degludec
@@ -19280,6 +21102,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Humaninsulin
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 313
@@ -19292,10 +21120,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -19309,10 +21137,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19326,10 +21154,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin plus Metformin (Hinweis: Wenn Metformin gemäß Fachinformation nicht geeignet ist, ist Humaninsulin als Therapieoption einzusetzen)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19343,10 +21171,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin oder • Humaninsulin + Empagliflozin oder • Humaninsulin + Liraglutid oder • Humaninsulin, wenn die bestimmten Kombinationspartner gemäß Fachinformation unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam sind Hinweis: Empagliflozin ​und Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -19360,10 +21188,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die Optimierung des Humaninsulinregimes (ggf. + Metformin oder Empagliflozin oder Liraglutid) Hinweis: Empagliflozin ​und Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -19387,6 +21215,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Metformin plus Humaninsulin (Hinweis: Wenn Metformin gemäß Fachinformation nicht geeignet oder Metformin in Kombination mit Insulin nicht ausreichend wirksam ist, ist Humaninsulin als Therapieoption einzusetzen)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 325
@@ -19397,6 +21231,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Humaninsulin plus ggf. Metformin
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -19410,10 +21250,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin plus ggf. Metformin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19427,10 +21267,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin plus Humaninsulin (Hinweis: Wenn Metformin gemäß Fachinformation nicht geeignet ist, ist Humaninsulin als Therapieoption einzusetzen)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19455,10 +21295,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** − Humaninsulin + Metformin oder − Humaninsulin + Empagliflozin oder − Humaninsulin + Liraglutid oder − Humaninsulin, wenn die bestimmten Kombinationspartner gemäß Fachinformation unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam sind. Hinweis: Empagliflozin ​und Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -19470,6 +21310,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Die Optimierung des Humaninsulinregimes (ggf. + Metformin oder Empagliflozin oder Liraglutid) Hinweis: Empagliflozin ​und Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -19483,10 +21329,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Humaninsulin + Metformin oder • Humaninsulin + Empagliflozin oder • Humaninsulin + Liraglutid oder • Humaninsulin, wenn die bestimmten Kombinationspartner gemäß Fachinformation unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam sind Empagliflozin bzw. Liraglutid nur für Patienten mit manifester kardiovaskulärer Erkrankung, die weitere Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker erhalten
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
 
 ---
 
@@ -19500,10 +21346,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Die Optimierung des Humaninsulinregimes (ggf. + Metformin oder Empagliflozin oder Liraglutid) Empagliflozin bzw. Liraglutid nur für Patienten mit manifester kardiovaskulärer Erkrankung, die weitere Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker erhalten
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine für die Nutzenbewertung relevanten Daten vorgelegt.)
 
 ---
 
@@ -19529,7 +21375,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -19543,10 +21392,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin + Empagliflozin, oder Humaninsulin + Metformin + Dapagliflozin, oder Humaninsulin + Metformin + Liraglutid
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19560,7 +21409,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eskalation der Insulintherapie (konventionelle Therapie (CT) ggf. + Metformin oder Dulaglutid bzw. intensivierte Insulintherapie (ICT))
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -19574,10 +21426,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eskalation der Insulintherapie: konventionelle Therapie (CT) bzw. intensivierte Insulintherapie (ICT), jeweils in Kombination mit Metformin und Empagliflozin oder Dapagliflozin oder Liraglutid
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19591,10 +21443,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin oder Insulinanaloga (Insulin detemir, Insulin glargin, Insulin degludec, Insulin aspart, Insulin glulisin, Insulin lispro)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &darr; (Nachteil im Detail beim spezifischen UE schwerwiegende Hypoglykämien.)
 
 ---
 
@@ -19618,7 +21470,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Therapie nach ärztlicher Maßgabe unter Berücksichtigung von Propofol, Midazolam und Dexmedetomidin
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 
 #### Larotrectinib
@@ -19640,10 +21495,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von − Best-Supportive-Care und − chirurgische Resektion, die wahrscheinlich zu schwerer Morbidität führt, für die patientenindividuell ein klinischer Nutzen zu erwarten ist.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor)
+- Morbidität: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor)
+- Nebenwirkungen: &Oslash; (Es liegen keine für die Nutzenbewertung geeigneten Daten vor)
 
 
 #### Lasmiditan
@@ -19664,6 +21519,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Berücksichtigung der Vorbehandlung, der Schwere des Anfalls sowie bestehender Begleiterkrankungen unter Auswahl selektiver Serotonin-5HT1-Rezeptoragonisten (Almotriptan, Eletriptan, Frovatriptan, Naratriptan, Rizatriptan, Sumatriptan, Zolmitriptan) und nicht-steroidaler Antirheumatika (Acetylsalicylsäure, Diclofenac, Ibuprofen)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Latanoprost/Netarsudil
 
@@ -19683,10 +21544,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Kombinationstherapie aus Betablocker + Prostaglandinanalogon bzw. Prostamid als freie oder fixe Kombination
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
+- Morbidität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
+- Lebensqualität: &harr; (keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: &darr; (negativer Effekt in den Endpunkten Abbruch wegen UEs und im Detail okulare UEs)
 
 
 #### Lebrikizumab
@@ -19705,6 +21566,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Dupilumab (ggf. in Kombination mit TCS und/oder TCI)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
 
 
 #### Levofloxacin/Dexamethason
@@ -19725,10 +21592,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Kombination aus einer lokalen antibiotischen Therapie (Cefuroxim, Polymyxin-B/Neomycin/Gramicidin, Tobramycin, Gentamicin, Neomycin) in Verbindung mit einer antiphlogistischen Mono- oder Kombinationstherapie: Kortikosteroid z.B. Rimexolon, Dexamethason, Fluorometholon, Prednisolon, Loteprednoletabonat und/oder NSAID z.B. Diclofenac, Nepafenac, Indometacin, Ketorolac
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine für die Nutzenbewertung verwertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 
 #### Linaclotid
@@ -19748,6 +21615,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ernährungsumstellung entsprechend ärztlicher Beratung sowie symptomorientierte Behandlung (Obstipation, Blähungen, Krämpfe, Schmerzen)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Linagliptin
@@ -19771,10 +21644,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid, Glimepirid)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19788,8 +21661,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid, Glimepirid) + Metformin
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Lebensqualität: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -19803,10 +21678,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Humaninsulin (Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation unverträglich oder nicht ausreichend wirksam ist)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19820,10 +21695,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** die Zweifachkombination von Metformin + Humaninsulin. (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation unverträglich oder nicht ausreichend wirksam ist.)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19848,6 +21723,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Individualisierte Therapie unter Auswahl von: - einer symptomorientierten Behandlung: o Relugolix/Estradiol/Norethisteronacetat o Gestagene unter Beachtung des jeweiligen Zulassungsstatus (Für Patientinnen, für die eine symptomatische Behandlung der verlängerten und/oder starken Regelblutung (Menorrhagie, Hypermenorrhö) ausreichend ist.) - invasiven Behandlungsoptionen
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2152
@@ -19858,6 +21739,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Individualisierte Therapie unter Auswahl von Dienogest, GnRH-Analoga (Goserelin oder Buserelin oder Leuprorelin oder Triptorelin oder Nafarelin), Relugolix/Estradiol/Norethisteronacetat und operativen Maßnahmen
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -19882,6 +21769,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Atomoxetin
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 914
@@ -19893,6 +21786,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Auswahl von Atomoxetin und Methylphenidat, bei der auch die mögliche Fortführung oder Wiederaufnahme mit einem bereits eingesetzten Arzneimittel zu prüfen und darzustellen ist, im Rahmen einer therapeutischen Gesamtstrategie.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 915
@@ -19903,6 +21802,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Atomoxetin oder Methylphenidat, im Rahmen einer therapeutischen Gesamtstrategie.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -19927,6 +21832,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid) + Metformin
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 82
@@ -19939,10 +21850,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) (Hinweis: Wenn Metformin gemäß Fachinformation nicht geeignet ist, ist Humaninsulin als Therapieoption einzusetzen)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19956,10 +21867,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Humaninsulin (Hinweis: ggf. Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -19971,6 +21882,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Metformin + Humaninsulin (Hinweis: ggf. Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation unverträglich oder nicht ausreichend wirksam ist)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -19996,10 +21913,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -20011,6 +21928,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** LDL-Apherese (als „ultima ratio“ bei therapierefraktären Verläufen) ggf. mit begleitender medikamentöser lipidsenkender Therapie.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20024,10 +21947,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** maximal tolerierte medikamentöse und diätetische Therapie zur Lipidsenkung
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -20052,6 +21975,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Berücksichtigung von - Tisagenlecleucel, - Axicabtagen-Ciloleucel, - einer Induktionstherapie mit • R-GDP (Rituximab, Gemcitabin, Dexamethason, Cisplatin bzw. Carboplatin) oder • R-DHAP (Rituximab, Dexamethason, Cisplatin, Cytarabin) oder • R-ICE (Rituximab, Ifosfamid, Carboplatin, Etoposid) gefolgt von einer Hochdosistherapie mit autologer Stammzelltransplantation bei Ansprechen auf die Induktionstherapie, - einer Induktionstherapie mit • R-GDP (Rituximab, Gemcitabin, Dexamethason, Cisplatin bzw. Carboplatin) oder • R-DHAP (Rituximab, Dexamethason, Cisplatin, Cytarabin) oder • R-ICE (Rituximab, Ifosfamid, Carboplatin, Etoposid) gefolgt von einer Hochdosistherapie mit allogener Stammzelltransplantation bei Ansprechen auf die Induktionstherapie
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1873
@@ -20062,6 +21991,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Berücksichtigung von - Polatuzumab Vedotin + Bendamustin + Rituximab, - Tafasitamab + Lenalidomid, - Monotherapie Pixantron - Bestrahlung
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20084,6 +22019,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** rekombinante oder aus humanem Plasma gewonnene Blutgerinnungsfaktor VIII-Präparate
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Lorlatinib
 
@@ -20105,6 +22046,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Berücksichtigung der ALK-Inhibitoren Alectinib und Ceritinib sowie von Kombinations- oder Mono-Chemotherapien
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 904
@@ -20115,6 +22062,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20128,7 +22081,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Alectinib oder Brigatinib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20153,6 +22109,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Amisulprid oder Aripiprazol oder Olanzapin oder Paliperidon oder Quetiapin oder Risperidon oder Ziprasidon.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 271
@@ -20165,10 +22127,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Amisulprid oder Aripiprazol oder Olanzapin oder Paliperidon oder Quetiapin oder Risperidon oder Ziprasidon.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -20192,10 +22154,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 
 #### Macitentan
@@ -20216,6 +22178,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuell optimierte medikamentöse Therapie nach Maßgabe des Arztes unter Berücksichtigung des jeweiligen Zulassungsstatus.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Melphalanflufenamid
 
@@ -20234,6 +22202,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Auswahl von: - Bortezomib Monotherapie - Bortezomib + pegyliertes liposomales Doxorubicin - Bortezomib + Dexamethason - Carfilzomib + Lenalidomid und Dexamethason - Carfilzomib + Dexamethason - Daratumumab + Lenalidomid + Dexamethason - Daratumumab + Bortezomib + Dexamethason - Daratumumab Monotherapie (nur für Personen mit Krankheitsprogression unter der letzten Therapie) - Daratumumab + Pomalidomid + Dexamethason - Elotuzumab + Lenalidomid + Dexamethason - Elotuzumab + Pomalidomid + Dexamethason (nur für Personen mit Krankheitsprogression unter der letzten Therapie) - Isatuximab + Pomalidomid + Dexamethason (nur für Personen mit Krankheitsprogression unter der letzten Therapie) - Ixazomib + Lenalidomid + Dexamethason - Lenalidomid + Dexamethason - Panobinostat + Bortezomib und Dexamethason - Pomalidomid + Bortezomib und Dexamethason - Pomalidomid + Dexamethason (nur für Personen mit Krankheitsprogression unter der letzten Therapie) - Cyclophosphamid (in Kombination mit weiteren antineoplastisch wirksamen Arzneimitteln) - Melphalan - Doxorubicin - Carmustin (in Kombination mit anderen Zytostatika und einem Nebennierenrindenhormon, besonders Prednison) - Vincristin - Dexamethason - Prednisolon - Prednison - Best-Supportive-Care unter Berücksichtigung der Vortherapien sowie Ausprägung und Dauer des Ansprechens.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 
 #### Mirabegron
@@ -20255,10 +22229,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Darifenacin oder Fesoterodin oder Propiverin oder Solifenacin oder Tolterodin oder Trospiumchlorid.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede; im Detail Vorteil in UE Mundtrockenheit.)
 
 
 #### Mirikizumab
@@ -20281,6 +22255,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ein TNF-α-Antagonist (Adalimumab oder Infliximab oder Golimumab) oder Vedolizumab oder Ustekinumab oder Ozanimod
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1892
@@ -20291,6 +22271,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Vedolizumab oder Tofacitinib oder Ustekinumab oder Filgotinib oder Ozanimod oder einen TNF-α-Antagonisten (Adalimumab oder Infliximab oder Golimumab)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20312,6 +22298,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Dinoproston
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 
 #### Naldemedin
@@ -20335,10 +22327,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** ein weiteres nicht verschreibungspflichtiges Abführmittel (gemäß AM-RL Anlage I Nr. 1) oder ein verordnungsfähiges Medizinprodukt zur Behandlung der Obstipation (gemäß AM-RL Abschnitt J und Anlage V) oder Kombinationen dieser
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -20350,6 +22342,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Methylnaltrexon oder Naloxegol
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
 
 ---
 
@@ -20373,7 +22371,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Für Nalmefen zur Reduktion des Alkoholkonsums bei alkoholabhängigen Patienten, deren Alkoholkonsum sich auf einem hohen Risikoniveau befindet (DRL: drinking risk level), bei denen keine körperlichen Entzugserscheinungen vorliegen und für die keine sofortige Entgiftung erforderlich ist, und dessen Verordnung nach den Maßgaben der Verordnungseinschränkung in Anlage III Nummer 2 der Arzneimittel-Richtlinie erfolgt, ist die zweckmäßige Vergleichstherapie: - Naltrexon zur Unterstützung der Reduktion des Alkoholkonsums nach den Maßgaben der Verordnungseinschränkung in Anlage III Nummer 2 der Arzneimittel-Richtlinie mit psychosozialer Unterstützung entsprechend der Zulassung. Hinweis: Es wird davon ausgegangen, dass bei den Patienten, die für eine Behandlung mit Nalmefen nach den Maßgaben der Verordnungseinschränkung infrage kommen, eine Arzneimittel-therapie zur Unterstützung der Reduktion des Alkoholkonsums zwingend angezeigt ist, weil alle in Betracht kommenden niedrigschwelligeren Hilfsangebote (z.B. psychosoziale Beratungsstellen, Selbsthilfegruppen) ausgeschöpft sind
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Natrium-Zirkonium-Cyclosilikat
@@ -20395,7 +22396,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Berücksichtigung der Ätiologie, des Schweregrads und der Symptomatik. Optimierung der Behandlung der Grund- und Begleiterkrankungen, insbesondere Anpassung der medikamentösen Therapie, sowie ggf. Ernährungsumstellung sind Maßnahmen im Rahmen der patientenindividuellen Therapie, die in der Behandlung der Hyperkaliämie die Standardtherapie darstellen.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine verwertbaren Daten für die Nutzenbewertung vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine für die Nutzenbewertung bewertbaren Daten vor.)
 
 
 #### Nepafenac
@@ -20417,10 +22421,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Diclofenac Augentropfen
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 
 #### Netupitant/Palonosetron
@@ -20442,6 +22446,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Zweifachkombination aus Serotonin-Antagonist (Ondansetron oder Granisetron oder Tropisetron oder Palonosetron) + Dexamethason Die Anwendung der Zweifachkombination erfolgt an Tag 1 vor der Chemotherapie. Nach Tag 1 wird die Prävention entweder mit dem Serotonin-Antagonisten (außer Palonosetron), ggf. in Kombination mit Dexamethason, oder mit Dexamethason mono fortgeführt. Die Angaben der jeweiligen Fachinformation, insbesondere zur Dauer der Anwendung, sind zu beachten.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 350
@@ -20454,9 +22464,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Dreifachkombination aus Serotonin-Antagonist (Ondansetron oder Granisetron oder Tropisetron oder Palonosetron) + Neurokinin-1-Rezeptorantagonist (Aprepitant oder Fosaprepitant) + Dexamethason Die Anwendung der Dreifachkombination erfolgt an Tag 1 vor der Chemotherapie. An den Tagen 2 – 4 wird die Prävention mit Dexamethason, an den Tagen 2 – 3 zusätzlich mit Aprepitant (falls Aprepitant an Tag 1; entfällt für Fosaprepitant an Tag 1), fortgeführt.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -20482,10 +22493,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Palivizumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -20499,7 +22510,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20511,7 +22525,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20523,10 +22540,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -20551,6 +22568,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** rekombinante oder aus humanem Plasma gewonnene Blutgerinnungsfaktor-IX-Präparate
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1863
@@ -20561,6 +22584,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** rekombinante oder aus humanem Plasma gewonnene Blutgerinnungsfaktor-IX-Präparate
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20582,6 +22611,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** intranasales Glukokortikoid (INCS) in Kombination mit intranasalem Antihistaminikum (INAH)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Opicapon
 
@@ -20602,10 +22637,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die zweckmäßige Vergleichstherapie bei erwachsenen Patienten mit idiopathischem Parkinson-Syndrom (Morbus Parkinson) mit motorischen „End-of-dose“-Fluktuationen, bei denen unter Levodopa/DOPA-Decarboxylasehemmern keine Stabilisierung erreicht werden kann, ist die Zusatztherapie mit: einem Non-Ergot-Dopaminagonisten (Piribedil, Pramipexol, Ropinirol oder Rotigotin) oder einem Catechol-O-Methyltransferase-(COMT)-Hemmer (Entacapon) oder einem Monoamin-Oxidase-(MAO)-B-Hemmer (Rasagilin, Safinamid oder Selegilin).
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 
 #### Ospemifen
@@ -20625,6 +22660,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Für jede Patientin ist eine patientenindividuelle Nutzen-/Schadenabwägung unter Berücksichtigung weiterer Symptome vorzunehmen. Die zweckmäßige Vergleichstherapie für Ospemifen zur Behandlung der mittelschweren bis schweren symptomatischen vulvovaginalen Atrophie (VVA) bei post-menopausalen Frauen, bei denen eine lokale vaginale Östrogentherapie nicht in Frage kommt, ist: Best-Supportive-Care oder eine systemische Hormontherapie (bei Frauen mit intaktem Uterus (Estrogen/Gestagen Kombination) bzw. bei Frauen ohne Uterus (nur Estrogen))
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Palbociclib
@@ -20648,10 +22689,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Tamoxifen in Kombination mit einer Ausschaltung der Ovarialfunktion
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -20665,10 +22706,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine weitere endokrine Therapie in Abhängigkeit der Vortherapie mit: - Tamoxifen oder - Anastrozol oder - Fulvestrant; nur für Patientinnen mit Rezidiv oder Progress nach einer Antiöstrogen-Behandlung, oder - Letrozol; nur für Patientinnen mit Rezidiv oder Progress nach einer Antiöstrogen-Behandlung, oder - Exemestan; nur für Patientinnen mit Progress nach einer Antiöstrogen-Behandlung, oder - Everolimus in Kombination mit Exemestan; nur für Patientinnen ohne symptomatische viszerale Metastasierung, nachdem es zu einer Progression nach einem nicht-steroidalen Aromataseinhibitor gekommen ist
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &darr;&darr; (Nachteil im Endpunkt schwere UE (CTCAE-Grad 3 oder 4); im Detail überwiegend Nachteile in einzelnen spezifischen UE.)
 
 ---
 
@@ -20682,10 +22723,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine endokrine Therapie nach Maßgabe des Arztes, unter Beachtung der jeweiligen Zulassung. Im vorliegenden Anwendungsgebiet sind Tamoxifen, Letrozol, Exemestan, Megestrolacetat und Medroxyprogesteronacetat zugelassen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &darr;&darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Nebenwirkungen: &darr;&darr; (Nachteil im Endpunkt schwere UE (CTCAE-Grad 3 oder 4); im Detail ein Nachteil im Bereich der spezifischen UE)
 
 ---
 
@@ -20697,6 +22738,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** – Anastrozol oder – Letrozol oder – Fulvestrant oder – ggf. Tamoxifen, wenn Aromatasehemmer nicht geeignet sind oder – Ribociclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol) oder – Abemaciclib in Kombination mit einem nicht-steroidalen Aromatasehemmer (Anastrozol, Letrozol) oder – Ribociclib in Kombination mit Fulvestrant oder – Abemaciclib in Kombination mit Fulvestrant oder – Palbociclib in Kombination mit Fulvestrant
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20722,7 +22769,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Berücksichtigung der Ätiologie, des Schweregrads und der Symptomatik. Optimierung der Behandlung der Grund- und Begleiterkrankungen, insbesondere Anpassung der medikamentösen Therapie, sowie ggf. Ernährungsumstellung sind Maßnahmen im Rahmen der patientenindividuellen Therapie, die in der Behandlung der Hyperkaliämie die Standardtherapie darstellen. Die jeweilige Zulassung der Arzneimittel ist zu berücksichtigen.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20736,7 +22786,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Polystyrolsulfonate (CaPSS, NaPSS)
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20760,10 +22813,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Agalsidase alfa oder Agalsidase beta oder Migalastat (nur für Patientinnen und Patienten mit einer auf die Behandlung ansprechenden Mutation)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Im Detail Vorteile bei Brustkorbschmerz und bei Erkrankungen der Atemwege, des Brustraums und Mediastinums.)
 
 
 #### Perampanel
@@ -20786,6 +22839,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Die zweckmäßige Vergleichstherapie für die Zusatztherapie bei primär generalisierten tonisch-klonischen Anfällen bei Erwachsenen und Jugendlichen ab 12 Jahren mit idiopathischer generalisierter Epilepsie ist: Eine patientenindividuelle antiepileptische Zusatztherapie, soweit medizinisch indiziert und falls jeweils noch keine Pharmakoresistenz (im Sinne eines nicht ausreichenden Ansprechens), Unverträglichkeit oder Kontraindikation bekannt ist, mit einem der folgenden Wirkstoffe: Lamotrigin, Levetiracetam, Valproinsäure, Topiramat, Clobazam Die Therapie soll nach Wahl des Arztes in Abhängigkeit der Basis- und Vortherapie(en) und unter Berücksichtigung des Grundes für den Therapiewechsel und etwaig einhergehender Nebenwirkungen erfolgen. Die jeweilige Zulassung der Arzneimittel ist zu berücksichtigen.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 191
@@ -20796,6 +22855,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Die zweckmäßige Vergleichstherapie für die Zusatztherapie fokaler Anfälle mit oder ohne sekundäre Generalisierung bei Epilepsiepatienten ab 12 Jahren ist eine individuelle antiepileptische Zusatztherapie, soweit medizinisch indiziert und falls noch keine Pharmakoresistenz/Unverträglichkeit und Kontraindikationen bekannt sind, mit einem der folgenden Wirkstoffe: Eslicarbazepin¹ oder Gabapentin oder Lacosamid² oder Lamotrigin oder Levetiracetam oder Oxcarbazepin oder Pregabalin¹ oder Topiramat oder Valproinsäure oder Zonisamid. Die Therapie soll nach Wahl des Arztes in Abhängigkeit der Basis – und Vortherapie(en) und unter Berücksichtigung des Grundes für den Therapiewechsel und etwaig einhergehender Nebenwirkungen erfolgen. Die jeweilige Zulassung der Präparate ist zu beachten. ¹Für Erwachsene. ²Für Patienten ab 16 Jahren.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20808,6 +22873,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle antiepileptische Zusatztherapie, soweit medizinisch indiziert und falls jeweils noch keine Pharmakoresistenz (im Sinne eines nicht ausreichenden Ansprechens), Unverträglichkeit oder Kontraindikation bekannt ist, unter Auswahl von Eslicarbazepin, Gabapentin, Lacosamid, Lamotrigin, Levetiracetam, Oxcarbazepin, Topiramat, Valproinsäure, Zonisamid, Brivaracetam unter Berücksichtigung der Basis- und (den) Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel sowie der etwaig einhergehenden Nebenwirkungen.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1026
@@ -20818,6 +22889,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuelle antiepileptische Zusatztherapie, soweit medizinisch indiziert und falls jeweils noch keine Pharmakoresistenz (im Sinne eines nicht ausreichenden Ansprechens), Unverträglichkeit oder Kontraindikation bekannt ist, unter Auswahl von Clobazam, Lamotrigin, Topiramat, Valproinsäure unter Berücksichtigung der Basis- und (den) Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel sowie der etwaig einhergehenden Nebenwirkungen.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20841,7 +22918,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine optimierte Standardtherapie der zugrundeliegenden obstruktiven Schlafapnoe.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Pixantron
@@ -20861,6 +22941,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Patientenindividuelle Therapie nach Maßgabe des behandelnden Arztes, insbesondere eine Bleomycin-, Cyclophosphamid-, Etoposid-, Ifosfamid-, Methotrexat-, Mitoxantron-, Rituximab-, Trofosfamid-, Vinblastin-, Vincristin-, oder Vindesin-haltige Therapie, sofern unter Berücksichtigung der Vortherapie die Wirkstoffe erneut für eine Behandlung in Frage kommen sowie unter Berücksichtigung des jeweiligen deutschen Zulassungsstatus und der zugelassenen Dosierungen.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Pralsetinib
@@ -20883,6 +22969,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Pembrolizumab als Monotherapie
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1526
@@ -20893,6 +22985,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder - Carboplatin in Kombination mit nab-Paclitaxel oder - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patienten ohne EGFR- oder ALK-positive Tumormutationen und bei nicht-plattenepithelialer Histologie) oder - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur bei plattenepithelialer Histologie) oder - Monotherapie mit Gemcitabin oder Vinorelbin (nur für Patientinnen und Patienten mit ECOG-Performance-Status 2 als Alternative zur Platin-basierten Kombinations-behandlung)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20905,6 +23003,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder - Carboplatin in Kombination mit nab-Paclitaxel oder - Monotherapie mit Gemcitabin oder Vinorelbin (nur für Patientinnen und Patienten mit ECOG-Performance-Status 2 als Alternative zur Platin-basierten Kombinations-behandlung)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1528
@@ -20916,6 +23020,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Docetaxel (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren) oder - Pemetrexed (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und außer bei überwiegend plattenepithelialer Histologie) oder - Nivolumab oder - Pembrolizumab (nur für Patientinnen und Patienten mit PD-L1 exprimierenden Tumoren, PD-L1-Expression ≥ 1 % der Tumorzellen) oder - Atezolizumab oder Docetaxel in Kombination mit Nintedanib (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und Adenokarzinom-Histologie)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1529
@@ -20926,6 +23036,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung der Vortherapie und Histologie unter Auswahl von Afatinib, Pemetrexed, Erlotinib, Docetaxel, Docetaxel in Kombination mit Ramucirumab, Docetaxel in Kombination mit Nintedanib und Vinorelbin.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -20948,6 +23064,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** • eine Induktionschemotherapie: Cytarabin in Kombination mit Daunorubicin und Midostaurin • gefolgt von einer Konsolidierungstherapie: Eine patientenindividuelle Therapie unter Auswahl von Chemotherapie (Cytarabin in Kombination mit Midostaurin) und einer allogenen Stammzelltransplantation, insbesondere in Abhängigkeit der Subform der AML, des Allgemeinzustandes und der Komorbidität der Patientinnen und Patienten. • gefolgt von einer Erhaltungstherapie: Eine patientenindividuelle Therapie unter Auswahl von - Azacitidin (nur für Personen, die für eine allogene Stammzelltransplantation nicht geeignet sind) - Midostaurin (nur für Personen, die für eine allogene Stammzelltransplantation nicht geeignet sind) - Sorafenib (nur für Personen nach einer allogenen Stammzelltransplantation) unter Berücksichtigung der Induktions- und Konsolidierungstherapie
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Radium-223-dichlorid
 
@@ -20969,6 +23091,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung der Vortherapien und unter Auswahl von Abirateron, Enzalutamid, Cabazitaxel und Docetaxel
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 795
@@ -20979,6 +23107,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Best-Supportive-Care (insbesondere adäquate Schmerztherapie, Behandlung mit Bisphosphonaten, Denosumab und/oder Radionukliden)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21004,10 +23138,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eculizumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Morbidität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Lebensqualität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Nebenwirkungen: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
 
 ---
 
@@ -21021,10 +23155,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eculizumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Morbidität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Lebensqualität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Nebenwirkungen: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
 
 ---
 
@@ -21038,7 +23172,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eculizumab
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21052,7 +23189,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eculizumab
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21066,7 +23206,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eculizumab
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21079,6 +23222,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Zweckmäßige Vergleichstherapie für Ravulizumab als Zusatztherapie zu einer Standardbehandlung: Eculizumab (für refraktäre Patientinnen und Patienten) oder Efgartigimod alfa
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1820
@@ -21089,6 +23238,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eculizumab (ab dem 2. Schub) oder Satralizumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21112,10 +23267,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Adenosin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 
 #### Regorafenib
@@ -21139,10 +23294,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -21156,10 +23311,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &uarr;
-- Morbidität: &darr;
-- Lebensqualität: &darr;
-- Nebenwirkungen: &darr;
+- Mortalität: &uarr; (Vorteil im Gesamtüberleben)
+- Morbidität: &darr; (Nachteil im Endpunkt Diarrhö.)
+- Lebensqualität: &darr; (Nachteile in den Endpunkten Rollenfunktion und soziale Funktion.)
+- Nebenwirkungen: &darr; (Nachteil im Endpunkt schwere unerwünschte Ereignisse mit CTCAE-Grad ≥ 3.)
 
 ---
 
@@ -21185,10 +23340,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Radikale Prostatektomie, gegebenenfalls in Kombination mit einer Lymphadenektomie oder - Perkutane Strahlentherapie in Kombination mit einer konventionellen Androgendeprivation oder Bicalutamid oder - Perkutane Strahlentherapie in Kombination mit einer HDR-Brachytherapie (nur für Patienten der klinischen Kategorie cT3)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -21202,10 +23357,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - die konventionelle Androgendeprivation oder - Bicalutamid
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -21219,10 +23374,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von - Salvageprostatektomie, - perkutaner Salvagestrahlentherapie und - perkutaner Salvagestrahlentherapie in Kombination mit einer konventionellen Androgendeprivation oder Bicalutamid; unter Berücksichtigung der Vortherapie und des Progressionsrisikos.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -21236,10 +23391,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - die konventionelle Androgendeprivation in Kombination mit Apalutamid oder - die konventionelle Androgendeprivation in Kombination mit Abirateronacetat und Prednison oder Prednisolon (nur für Patienten mit neu diagnostiziertem Hochrisiko-Prostatakarzinom) oder - die konventionelle Androgendeprivation in Kombination mit Docetaxel mit oder ohne Prednison oder Prednisolon oder - die konventionelle Androgendeprivation in Kombination mit Enzalutamid
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -21253,10 +23408,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** die konventionelle Androgendeprivation
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -21281,6 +23436,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Best-Supportive-Care
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Morbidität: Nicht bewertbar (keine für die Nutzenbewertung geeigneten Daten)
+- Lebensqualität: Nicht bewertbar (keine für die Nutzenbewertung geeigneten Daten)
+- Nebenwirkungen: Nicht bewertbar (keine für die Nutzenbewertung geeigneten Daten)
+
 ---
 
 ###### Patientengruppe 837
@@ -21292,6 +23453,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Patientenindividuell optimierte medikamentöse Therapie unter Berücksichtigung der Vortherapien und des Gesundheitszustandes, unter Berücksichtigung folgender Therapien: - Endothelin-Rezeptor-Antagonisten (Ambrisentan, Bosentan, Macitentan) - Phosphodiesterase-Typ-5-Inhibitoren (Sildenafil, Tadalafil) - Prostazyklin-Analoga (Iloprost) - Selektive Prostazyklin-Rezeptor-Agonisten (Selexipag)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Keine für die Nutzenbewertung geeigneten Daten.)
+- Morbidität: Nicht bewertbar (keine für die Nutzenbewertung geeigneten Daten)
+- Lebensqualität: Nicht bewertbar (keine für die Nutzenbewertung geeigneten Daten)
+- Nebenwirkungen: Nicht bewertbar (keine für die Nutzenbewertung geeigneten Daten)
+
 ---
 
 ###### Patientengruppe 1821
@@ -21302,6 +23469,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung insbesondere der Vortherapien, des Schweregrades und der Grunderkrankungen unter Auswahl von - Endothelinrezeptor-Antagonisten: Bosentan, Ambrisentan - Phosphodiesterase-Hemmer Typ 5: Sildenafil, Tadalafil
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21327,10 +23500,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Hydroxyurea
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -21344,10 +23517,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ruxolitinib
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -21371,10 +23544,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ein Erythropoese-stimulierender Wirkstoff (ESA) (Darbepoetin alfa oder Epoetin (alfa, zeta) oder Epoetin beta oder Epoetin theta oder Methoxy-PEG-Epoetin beta)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 
 #### Rucaparib
@@ -21398,10 +23571,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von - Olaparib, - Niraparib und - beobachtendem Abwarten (nur für Patientinnen, die bereits einen PARP-Inhibitor erhalten haben); unter Berücksichtigung der Vortherapie mit einem PARP-Inhibitor
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -21413,6 +23586,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Auswahl von: - Bevacizumab - Olaparib - Niraparib - Olaparib in Kombination mit Bevacizumab unter Berücksichtigung: - der Vortherapie - des Vorliegens einer BRCA 1/2-Mutation - des Vorliegens einer genomischen Instabilität
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21435,6 +23614,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Rekombinante oder aus humanem Plasma gewonnene Blutgerinnungsfaktor-VIII-Präparate
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Safinamid
 
@@ -21455,8 +23640,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Zusatztherapie mit − einem Non-Ergot Dopaminagonisten oder − einem Catechol-O-Methyltransferase (COMT)-Hemmer oder − einem Monoamin-Oxidase (MAO)-B-Hemmer. Es wird vorausgesetzt, dass Levodopa in Kombination mit einem Decarboxylase-Hemmer gegeben wird. Sollte unter Ausschöpfung aller medikamentösen Therapieoptionen die Symptomkontrolle insuffizient sein, ist eine tiefe Hirnstimulation in Erwägung zu ziehen.
 
 **Hauptergebnisse:**
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Saxagliptin
@@ -21480,10 +23667,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &darr; (Nachteil beim Endpunkt „Hospitalisierung aufgrund von Herzinsuffizienz“ in der Studie SAVOR-TIMI 53.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Nachteil im Detail beim Endpunkt „symptomatische Hypoglykämien“ in der Studie SAVOR-TIMI 53. Vorteil im Detail beim Endpunkt „bestätigte symptomatische Hypoglykämien“ in den Studien D1680C00001 und D1680L00002.)
 
 ---
 
@@ -21497,10 +23684,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Sulfonylharnstoff (Glibenclamid oder Glimepirid) (Hinweis: ggf. Therapie nur mit Humaninsulin)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &darr; (Nachteil beim Endpunkt „Hospitalisierung aufgrund von Herzinsuffizienz“ in der Studie SAVOR-TIMI 53.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Nachteil im Detail beim Endpunkt „symptomatische Hypoglykämien“ in der Studie SAVOR-TIMI 53.)
 
 ---
 
@@ -21514,10 +23701,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Humaninsulin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht ausreichend wirksam oder unverträglich ist.)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &darr; (Nachteil beim Endpunkt „Hospitalisierung aufgrund von Herzinsuffizienz“ in der Studie SAVOR-TIMI 53.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Nachteil im Detail beim Endpunkt „symptomatische Hypoglykämien“ in der Studie SAVOR-TIMI 53.)
 
 ---
 
@@ -21531,10 +23718,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Humaninsulin (Hinweis: Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht ausreichend wirksam oder unverträglich ist.)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &darr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &darr; (Nachteil beim Endpunkt „Hospitalisierung aufgrund von Herzinsuffizienz“ in der Studie SAVOR-TIMI 53.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Nachteil im Detail beim Endpunkt „symptomatische Hypoglykämien“ in der Studie SAVOR-TIMI 53.)
 
 ---
 
@@ -21559,7 +23746,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: ggf. Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist).
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21573,10 +23763,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Vorteil im Detail beim Endpunkt „bestätigte symptomatische Hypoglykämien“ in den Studien D1680C00001 und D1680L00002.)
 
 ---
 
@@ -21590,7 +23780,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: ggf. Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist)
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21604,10 +23797,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** • Humaninsulin + Metformin oder • Humaninsulin + Empagliflozin oder • Humaninsulin + Liraglutid oder • Humaninsulin, wenn Metformin und Empagliflozin und Liraglutid gemäß Fachinformation unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam sind Hinweis: Empagliflozin ​und Liraglutid in Kombination mit weiterer Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker und nur für Patienten mit manifester kardiovaskulärer Erkrankung.​
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -21629,6 +23822,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuell optimierte medikamentöse Therapie nach Maßgabe des Arztes unter Berücksichtigung des jeweiligen Zulassungsstatus.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Selinexor
@@ -21652,8 +23851,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Bortezomib in Kombination mit pegyliertem liposomalen Doxorubicin oder - Bortezomib in Kombination mit Dexamethason oder - Lenalidomid in Kombination mit Dexamethason oder - Elotuzumab in Kombination mit Lenalidomid und Dexamethason oder - Carfilzomib in Kombination mit Lenalidomid und Dexamethason oder - Carfilzomib in Kombination mit Dexamethason oder - Daratumumab in Kombination mit Lenalidomid und Dexamethason oder - Daratumumab in Kombination mit Bortezomib und Dexamethason
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &darr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: &darr; (Nachteile in den Endpunkten schwere UE und SUE. Im Detail Nachteile bei spezifischen UE)
 
 ---
 
@@ -21665,6 +23866,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Auswahl von: - Bortezomib Monotherapie - Bortezomib + pegyliertes liposomales Doxorubicin - Bortezomib + Dexamethason - Carfilzomib + Lenalidomid und Dexamethason - Carfilzomib + Dexamethason - Daratumumab + Lenalidomid + Dexamethason - Daratumumab + Bortezomib + Dexamethason - Daratumumab + Pomalidomid + Dexamethason - Daratumumab Monotherapie - Elotuzumab + Lenalidomid + Dexamethason - Elotuzumab + Pomalidomid + Dexamethason - Isatuximab + Pomalidomid + Dexamethason - Ixazomib + Lenalidomid + Dexamethason - Lenalidomid + Dexamethason - Panobinostat + Bortezomib und Dexamethason - Pomalidomid + Bortezomib und Dexamethason - Pomalidomid + Dexamethason - Cyclophosphamid (in Kombination mit weiteren antineoplastisch wirksamen Arzneimitteln) - Melphalan - Doxorubicin - Carmustin (in Kombination mit anderen Zytostatika und einem Nebennierenrindenhormon, besonders Prednison) - Vincristin - Dexamethason - Prednisolon - Prednison - Best-Supportive-Care unter Berücksichtigung der Vortherapien sowie Ausprägung und Dauer des Ansprechens.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 ---
 
@@ -21689,6 +23896,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder - Carboplatin in Kombination mit nab-Paclitaxel oder - Monotherapie mit Gemcitabin oder Vinorelbin (nur für Patienten mit ECOG-Performance-Status 2 als Alternative zur Platin-basierten Kombinationsbehandlung)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1236
@@ -21699,6 +23912,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Docetaxel (nur für Patienten mit PD-L1 negativen Tumoren) oder - Pemetrexed (nur für Patienten mit PD-L1 negativen Tumoren und außer bei überwiegend plattenepithelialer Histologie) oder - Nivolumab oder - Pembrolizumab (nur für Patienten mit PD-L1 exprimierenden Tumoren (TPS ≥ 1 %)) oder - Atezolizumab oder - Docetaxel in Kombination mit Nintedanib (nur für Patienten mit PD-L1 negativen Tumoren und Adenokarzinom-Histologie)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21711,6 +23930,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung der Vortherapie und Histologie; unter Auswahl von Afatinib, Pemetrexed, Erlotinib, Docetaxel, Docetaxel in Kombination mit Ramucirumab, Docetaxel in Kombination mit Nintedanib und Vinorelbin.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1099
@@ -21721,6 +23946,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von - Cabozantinib, - Vandetanib und - Best-Supportive-Care unter Berücksichtigung der Vortherapie und des Allgemeinzustandes
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21733,6 +23964,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von - Sorafenib, - Lenvatinib und - Best-Supportive-Care unter Berücksichtigung der Histologie, der Vortherapie und des Allgemeinzustandes
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1583
@@ -21743,6 +23980,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Pembrolizumab als Monotherapie
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21755,6 +23998,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder - Carboplatin in Kombination mit nab-Paclitaxel oder - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patienten ohne EGFR- oder ALK-positive Tumormutationen und bei nicht-plattenepithelialer Histologie) oder - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur bei plattenepithelialer Histologie) oder - Monotherapie mit Gemcitabin oder Vinorelbin (nur für Patientinnen und Patienten mit ECOG-Performance-Status 2 als Alternative zur Platin-basierten Kombinationsbehandlung)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1662
@@ -21766,6 +24015,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Vandetanib oder - Cabozantinib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+
 ---
 
 ###### Patientengruppe 2005
@@ -21776,6 +24031,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Sorafenib oder - Lenvatinib (nur für Erwachsene)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21789,10 +24050,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Auswahl von - Sorafenib, - Lenvatinib und - Best-Supportive-Care unter Berücksichtigung der Vortherapie und des Allgemeinzustandes
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -21804,6 +24065,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21825,6 +24092,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** rekombinante oder aus humanem Plasma gewonnene Blutgerinnungsfaktor VIII-Präparate
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Siponimod
@@ -21848,10 +24121,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Interferon-beta 1a oder Interferon-beta 1b oder Ocrelizumab
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Keine Daten vorgelegt.)
+- Morbidität: &Oslash; (Keine Daten vorgelegt.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Keine Daten vorgelegt.)
 
 ---
 
@@ -21865,10 +24138,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: &Oslash; (Keine Daten vorgelegt.)
+- Nebenwirkungen: &Oslash; (Die vorgelegten Daten sind nicht bewertbar.)
 
 ---
 
@@ -21892,6 +24165,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 476
@@ -21903,6 +24182,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: ggf. Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist.)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 477
@@ -21913,6 +24198,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: ggf. Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist.)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -21936,6 +24227,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1196
@@ -21948,10 +24245,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sofosbuvir plus Ribavirin oder Sofosbuvir/Velpatasvir
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -21965,10 +24262,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sofosbuvir plus Ribavirin oder Sofosbuvir/Velpatasvir
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -21981,6 +24278,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1199
@@ -21991,6 +24294,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22004,10 +24313,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie nach Maßgabe des Arztes, unter Beachtung der Vortherapie(n), Genotyp und der jeweiligen Zulassung. Mögliche Kreuzresistenzen bei der Auswahl der antiviralen Therapie v.a. bei Proteaseinhibitoren sind zu berücksichtigen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -22019,6 +24328,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ledipasvir/Sofosbuvir (nur für die Genotypen 1, 4, 5 und 6) oder Glecaprevir/Pibrentasvir oder Sofosbuvir/Velpatasvir
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor. Ergebnisse zu SVR in derselben Größenordnung wie bei entsprechender zVT)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22043,6 +24358,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Modafinil oder Pitolisant
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+
 ---
 
 ###### Patientengruppe 963
@@ -22054,6 +24375,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Natriumoxybat oder Pitolisant
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine für die Nutzenbewertung geeigneten Daten vor.)
+
 ---
 
 ###### Patientengruppe 1306
@@ -22064,6 +24391,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine optimierte Standardtherapie der zugrundeliegenden obstruktiven Schlafapnoe.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22086,6 +24419,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Vismodegib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+
 
 #### Spesolimab
 
@@ -22104,6 +24443,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe unter Berücksichtigung von systemischen Glukokortikoiden und Best-Supportive-Care
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 
 #### Sucroferric Oxyhydroxide
@@ -22126,6 +24471,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - kalziumhaltige Phosphatbinder (einzeln oder in Kombination) oder Sevelamer oder Lanthankarbonat Unter kalziumhaltige Phosphatbinder fallen auch Phosphatbinder, die neben kalziumhaltigen zusätzlich magnesiumhaltige phosphatbindende Wirkstoffe enthalten.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 264
@@ -22136,6 +24487,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - bei Patienten, bei denen kalziumhaltige Phosphatbinder laut Fachinformation kontraindiziert sind (z.B. Hyperkalzämie): Sevelamer oder Lanthankarbonat.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22149,8 +24506,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine Therapie nach Maßgabe des Arztes. Neben Sevelamercarbonat stellen auch Kalzium-haltige Phosphatbinder (alleine oder in Kombination) geeignete Komparatoren für die vorliegende Nutzenbewertung im Rahmen einer Therapie nach Maßgabe des Arztes dar. Im vorliegenden Anwendungsgebiet sind jedoch Sevelamercarbonat für Kinder unter 6 Jahren oder mit einer Körperoberfläche ≤ 0,75 m² sowie Kalzium-haltige Phosphatbinder nicht zugelassen.
 
 **Hauptergebnisse:**
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22171,6 +24530,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Kombinationstherapie aus Beta-Blocker + Prostaglandinanalogon oder Beta-Blocker + Prostamid als freie oder fixe Kombination.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor)
 
 
 #### Talimogen laherparepvec
@@ -22193,6 +24558,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Vemurafenib oder Vemurafenib in Kombination mit Cobimetinib oder Dabrafenib in Kombination mit Trametinib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 458
@@ -22204,6 +24575,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Pembrolizumab oder Nivolumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 459
@@ -22214,6 +24591,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie nach Maßgabe des behandelnden Arztes unter Berücksichtigung des Zulassungsstatus und der jeweiligen Vortherapie
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22236,6 +24619,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Eine patientenindividuelle Therapie unter Auswahl von: - Bortezomib Monotherapie - Bortezomib + pegyliertes liposomales Doxorubicin - Bortezomib + Dexamethason - Carfilzomib + Lenalidomid und Dexamethason - Carfilzomib + Dexamethason - Daratumumab + Lenalidomid + Dexamethason - Daratumumab + Bortezomib + Dexamethason - Daratumumab Monotherapie - Daratumumab + Pomalidomid + Dexamethason - Elotuzumab + Lenalidomid + Dexamethason - Elotuzumab + Pomalidomid + Dexamethason - Isatuximab + Pomalidomid + Dexamethason - Ixazomib + Lenalidomid + Dexamethason - Lenalidomid + Dexamethason - Panobinostat + Bortezomib und Dexamethason - Pomalidomid + Bortezomib und Dexamethason - Pomalidomid + Dexamethason - Cyclophosphamid in Kombination mit weiteren antineoplastisch wirksamen Arzneimitteln - Melphalan als Monotherapie oder in Kombination mit Prednisolon oder Prednison - Doxorubicin als Monotherapie oder in Kombination mit weiteren antineoplastisch wirksamen Arzneimitteln - Vincristin in Kombination mit weiteren antineoplastisch wirksamen Arzneimitteln - Dexamethason in Kombination mit weiteren antineoplastisch wirksamen Arzneimitteln - Prednisolon in Kombination mit weiteren antineoplastisch wirksamen Arzneimitteln - Prednison in Kombination mit weiteren antineoplastisch wirksamen Arzneimitteln - Best-Supportive-Care unter Berücksichtigung der Vortherapien sowie Ausprägung und Dauer des Ansprechens.
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Tegafur/Gimeracil/Oteracil
 
@@ -22255,10 +24644,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Zweifachkombination von Cisplatin mit 5-Fluorouracil oder Capecitabin
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 
 #### Tenofoviralafenamid
@@ -22282,10 +24671,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** (Peg-)Interferon alfa oder Tenofovirdisoproxil oder Entecavir
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -22299,7 +24688,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Eine patientenindividuelle Therapie, unter Auswahl von (Peg-)Interferon alfa, Tenofovirdisoproxil, Entecavir, Adefovirdipivoxil, Lamivudin und Telbivudin, in Abhängigkeit der Vortherapie(n) und unter Berücksichtigung des Grundes für den Therapiewechsel, insbesondere Therapieversagen aufgrund eines virologischen Versagens und etwaig einhergehender Resistenzbildung oder aufgrund von Nebenwirkungen.
 
 **Hauptergebnisse:**
-- Lebensqualität: &Oslash;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22313,10 +24705,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Tenofovirdisoproxil oder Entecavir
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -22330,10 +24722,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Tenofovirdisoproxil
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -22358,6 +24750,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Cisplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed (außer bei überwiegend plattenepithelialer Histologie)) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie oder - Carboplatin in Kombination mit nab-Paclitaxel oder - Monotherapie mit Gemcitabin oder Vinorelbin (nur für Patientinnen und Patienten mit ECOG-Performance-Status 2 als Alternative zur Platin-basierten Kombinationsbehandlung)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1589
@@ -22369,6 +24767,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Docetaxel (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren) oder - Pemetrexed (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und außer bei überwiegend plattenepithelialer Histologie) oder - Nivolumab oder - Pembrolizumab (nur für Patientinnen und Patienten mit PD-L1 exprimierenden Tumoren, Tumor Proportion Score (TPS) ≥ 1 %) oder - Atezolizumab oder - Docetaxel in Kombination mit Nintedanib (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und Adenokarzinom-Histologie)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1590
@@ -22379,6 +24783,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung der Vortherapie und Histologie unter Auswahl von Afatinib, Pemetrexed, Erlotinib, Docetaxel, Docetaxel in Kombination mit Ramucirumab und Docetaxel in Kombination mit Nintedanib und Vinorelbin.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22404,10 +24814,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die zweckmäßige Vergleichstherapie für die Behandlung von erwachsenen Patienten mit schubförmig-remittierender Multipler Sklerose (MS) ist Beta-Interferon (IFN-ß) 1a oder IFN-ß 1b oder Glatirameracetat unter Beachtung des jeweils zugelassenen Anwendungsgebietes.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Es traten keine Todesfälle auf.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Insgesamt keine für die Nutzenbewertung relevanten Unterschiede. Im Detail Vorteil für Reaktionen an der Injektionsstelle und grippeähnliche Symptome; Nachteile für Übelkeit/Erbrechen, Diarrhö und Alopezie.)
 
 ---
 
@@ -22421,10 +24831,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Interferon beta-1a oder Interferon beta-1b oder Glatirameracetat, unter Berücksichtigung des Zulassungsstatus
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -22449,6 +24859,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** eine patientenindividuelle Therapieeskalation unter Berücksichtigung der Vortherapie unter Auswahl von: - hochdosiertes ICS und LABA und LAMA oder - hochdosiertes ICS und LABA und ggf. LAMA und Omalizumab, sofern die für die Anwendung von Omalizumab notwendigen Kriterien erfüllt sind oder - hochdosiertes ICS und LABA und ggf. LAMA und Mepolizumab oder Dupilumab, sofern die notwendigen Kriterien für die Anwendung von Omalizumab nicht erfüllt sind
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1758
@@ -22459,6 +24875,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** eine patientenindividuelle Therapieeskalation unter Berücksichtigung der Vortherapie und der Pathogenese des Asthmas unter Auswahl von: - hochdosiertes ICS und LABA und LAMA oder - hochdosiertes ICS und LABA und ggf. LAMA und Omalizumab, sofern die für die Anwendung von Omalizumab notwendigen Kriterien erfüllt sind oder - hochdosiertes ICS und LABA und ggf. LAMA und Mepolizumab oder Reslizumab oder Benralizumab oder Dupilumab, sofern die für die Anwendung der jeweiligen Antikörper notwendigen Kriterien erfüllt sind
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22483,6 +24905,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Adalimumab oder Guselkumab oder Ixekizumab oder Secukinumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1395
@@ -22493,6 +24921,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Adalimumab oder Guselkumab oder Infliximab oder Ixekizumab oder Secukinumab oder Ustekinumab
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22515,6 +24949,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Diclofenac-Hyaluronsäure-Gel (3 %) oder 5 Fluorouracil (5 FU) oder (chirurgische) Kryotherapie bei der Behandlung von Einzelläsionen
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### Tislelizumab
 
@@ -22536,6 +24976,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Nivolumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2140
@@ -22548,10 +24994,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Nivolumab in Kombination mit fluoropyrimidin- und platinbasierter Kombinations-chemotherapie (nur für Patientinnen und Patienten mit einer Tumorzell-PD-L1-Expression ≥ 1%) oder Nivolumab in Kombination mit Ipilimumab (nur für Patientinnen und Patienten mit einer Tumorzell-PD-L1-Expression ≥ 1%) oder Pembrolizumab in Kombination mit einer platin- und fluoropyrimidinbasierten Chemotherapie (nur für Patientinnen und Patienten mit einem Combined Positive Score (CPS) ≥ 10)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -22564,6 +25010,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Cisplatin in Kombination mit 5-Fluorouracil
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2164
@@ -22574,6 +25026,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Pembrolizumab als Monotherapie oder - Atezolizumab als Monotherapie oder - Cemiplimab als Monotherapie oder - Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Atezolizumab in Kombination mit Bevacizumab, Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Atezolizumab in Kombination mit nab-Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Cemiplimab in Kombination mit platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Durvalumab in Kombination Tremelimumab und platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22586,6 +25044,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Pembrolizumab als Monotherapie oder - Atezolizumab als Monotherapie oder - Cemiplimab als Monotherapie oder - Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Cemiplimab in Kombination mit platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Durvalumab in Kombination Tremelimumab und platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 2182
@@ -22596,6 +25060,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Atezolizumab als Monotherapie (nur für Patientinnen und Patienten mit einer PD-L1-Expression ≥ 10 % bei tumorinfiltrierenden Immunzellen) oder - Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Cemiplimab in Kombination mit platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Durvalumab in Kombination Tremelimumab und platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie (nur für Patientinnen und Patienten mit ECOG PS 2) oder - Carboplatin in Kombination mit nab-Paclitaxel (nur für Patientinnen und Patienten mit ECOG PS 2)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22609,10 +25079,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren) oder - Pemetrexed (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und außer bei überwiegend plattenepithelialer Histologie) oder - Nivolumab oder - Pembrolizumab (nur für Patientinnen und Patienten mit PD-L1 exprimierenden Tumoren (TPS ≥ 1 %)) oder - Atezolizumab oder - Docetaxel in Kombination mit Nintedanib (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und Adenokarzinom-Histologie)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -22626,9 +25096,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Docetaxel (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren) oder - Pemetrexed (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und außer bei überwiegend plattenepithelialer Histologie) oder - Nivolumab oder - Pembrolizumab (nur für Patientinnen und Patienten mit PD-L1 exprimierenden Tumoren (TPS ≥ 1 %)) oder - Atezolizumab oder - Docetaxel in Kombination mit Nintedanib (nur für Patientinnen und Patienten mit PD-L1 negativen Tumoren und Adenokarzinom-Histologie)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Nebenwirkungen: &uarr;
+- Mortalität: &harr; (Es liegt kein für die Nutzenbewertung relevanter Unterschied vor.)
+- Morbidität: &harr; (Vorteil beim Endpunkt Alopezie erhoben mittels EORTC QLQ-LC13. Insgesamt kein für die Nutzenbewertung relevanter Unterschied.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &uarr; (Vorteil in der Gesamtrate der schweren UE. Im Detail überwiegend Vorteile bei den spezifischen UE)
 
 ---
 
@@ -22640,6 +25111,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Nivolumab in Kombination mit fluoropyrimidin- und platin-basierter Kombinationschemotherapie (nur bei Tumoren mit PD-L1-Expression (CPS) ≥ 5) oder - Pembrolizumab in Kombination mit fluoropyrimidin- und platin-basierter Kombinationschemotherapie (nur bei Tumoren mit PD-L1-Expression (CPS) ≥ 1)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22664,6 +25141,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Bevacizumab in Kombination mit Interferon alfa-2a oder eine Monotherapie mit Pazopanib oder Sunitinib
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 1223
@@ -22676,10 +25159,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Temsirolimus
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -22693,10 +25176,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Axitinib oder Sorafenib
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -22721,6 +25204,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Dupilumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+
 ---
 
 ###### Patientengruppe 1687
@@ -22731,6 +25220,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Dupilumab (ggf. in Kombination mit topischen Glukokortikoiden (TCS) und/oder topischen Calcineurininhibitoren (TCI))
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22756,8 +25251,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Atezolizumab in Kombination mit Bevacizumab
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
 
 ---
 
@@ -22771,10 +25268,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Best-Supportive-Care
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -22788,8 +25285,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - Pembrolizumab als Monotherapie oder - Atezolizumab als Monotherapie oder - Cemiplimab als Monotherapie oder - Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem plattenepithelialen NSCLC) oder - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Atezolizumab in Kombination mit Bevacizumab, Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Atezolizumab in Kombination mit nab-Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC)
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Kein für die Nutzenbewertung relevanter Unterschied.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -22801,6 +25300,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** - Pembrolizumab in Kombination mit Pemetrexed und platinhaltiger Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Pembrolizumab in Kombination mit Carboplatin und entweder Paclitaxel oder nab-Paclitaxel (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem plattenepithelialen NSCLC) oder - Atezolizumab als Monotherapie (nur für Patientinnen und Patienten mit einer PD-L1-Expression ≥ 10 % bei tumorinfiltrierenden Immunzellen) oder - Atezolizumab in Kombination mit Bevacizumab, Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Atezolizumab in Kombination mit nab-Paclitaxel und Carboplatin (nur für Patientinnen und Patienten mit ECOG PS 0-1 und einem nicht-plattenepithelialen NSCLC) oder - Nivolumab in Kombination mit Ipilimumab und 2 Zyklen platinbasierter Chemotherapie (nur für Patientinnen und Patienten mit ECOG PS 0-1) oder - Carboplatin in Kombination mit einem Drittgenerationszytostatikum (Vinorelbin oder Gemcitabin oder Docetaxel oder Paclitaxel oder Pemetrexed) vgl. Anlage VI zum Abschnitt K der Arzneimittel-Richtlinie (nur für Patientinnen und Patienten mit ECOG PS 2) oder - Carboplatin in Kombination mit nab-Paclitaxel (nur für Patientinnen und Patienten mit ECOG PS 2)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22823,6 +25328,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - eine topische Kombinationstherapie aus Adapalen + Benzoylperoxid oder - eine topische Kombinationstherapie aus Clindamycin + Benzoylperoxid
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine geeigneten Daten vor.)
+
 
 #### Turoctocog alfa
 
@@ -22843,10 +25354,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** rekombinante oder aus humanem Plasma gewonnene Blutgerinnungsfaktor VIII-Präparate
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 
 #### Turoctocog alfa pegol
@@ -22866,6 +25377,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Rekombinante oder aus humanem Plasma gewonnene Blutgerinnungsfaktor-VIII-Präparate
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
+- Morbidität: Nicht bewertbar (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
+- Lebensqualität: Nicht bewertbar (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
+- Nebenwirkungen: Nicht bewertbar (Es wurden keine für die Nutzenbewertung geeigneten Daten vorgelegt.)
 
 
 #### Umeclidinium
@@ -22889,10 +25406,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Langwirksame Beta-2-Sympathomimetika oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen.
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -22906,10 +25423,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Langwirksame Beta-2-Sympathomimetika oder langwirksame Anticholinergika (Tiotropium) oder die Kombination beider Wirkstoffklassen und zusätzlich inhalative Corticosteroide (ICS).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -22933,9 +25450,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Darbepoetin alfa oder Epoetin alfa oder Epoetin beta oder Epoetin theta oder Epoetin zeta oder Methoxy-Polyethylenglycol-Epoetin beta
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede. Vorteil bei dem Endpunkt SUE und im Detail bei spezifischen UE; Nachteil bei dem Endpunkt Abbruch wegen UE.)
 
 
 #### Vedolizumab
@@ -22958,6 +25476,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Ein TNF-alpha-Antagonist (Adalimumab oder Infliximab)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 220
@@ -22968,6 +25492,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ein TNF-alpha-Antagonist (Adalimumab oder Infliximab unter Berücksichtigung der Vortherapien) (Hinweis: Bei Versagen der Therapie mit einem TNF-alpha-Antagonisten (Adalimumab oder Infliximab) ist eine Dosisanpassung oder ein Wechsel auf jeweils den anderen TNF-alpha-Antagonisten möglich.)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -22981,10 +25511,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Ein TNF-alpha-Antagonist (Adalimumab oder Infliximab)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -22996,6 +25526,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Ein TNF-alpha-Antagonist (Adalimumab oder Infliximab unter Berücksichtigung der Vortherapien) (Hinweis: Bei Versagen der Therapie mit einem TNF-alpha-Antagonisten (Adalimumab oder Infliximab) ist eine Dosisanpassung oder ein Wechsel auf jeweils den anderen TNF-alpha-Antagonisten möglich.)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -23009,10 +25545,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Therapie nach ärztlicher Maßgabe
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -23037,10 +25573,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** - langwirksame Beta-2-Sympathomimetika (Formoterol oder Salmeterol) oder - langwirksame Anticholinergika (Tiotropium) oder - die Kombination beider Wirkstoffklassen
 
 **Hauptergebnisse:**
-- Mortalität: &harr;
-- Morbidität: &harr;
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Morbidität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -23054,10 +25590,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** zusätzlich inhalative Corticosteroide (zu langwirksamen Beta-2-Sympathomimetika [Formoterol oder Salmeterol] oder langwirksamen Anticholinergika [Tiotropium] oder der Kombination beider Wirkstoffklassen)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -23081,6 +25617,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** eine patientenindividuelle Therapieoptimierung - unter Berücksichtigung der Vortherapie - mit einem langwirksamen Beta-2-Sympathomimetika (LABA) und einem langwirksamen Anticholinergika (LAMA) und ggf. einem inhalativen Corticosteroid (ICS)
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 731
@@ -23091,6 +25633,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** langwirksamen Beta2-Agonisten (LABA) und langwirksame Muscarinrezeptor-Antagonisten (LAMA) und inhalative Corticoide (ICS)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -23116,10 +25664,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: ggf. Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -23132,6 +25680,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: ggf. Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation unverträglich oder nicht ausreichend wirksam ist).
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 90
@@ -23142,6 +25696,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -23155,7 +25715,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Sulfonylharnstoff (Glibenclamid oder Glimepirid) + Metformin
 
 **Hauptergebnisse:**
-- Lebensqualität: &harr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -23169,9 +25732,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin in Kombination mit einem Sulfonylharnstoff (Glibenclamid oder Glimepirid) (Hinweis: ggf. nur Therapie mit Humaninsulin)
 
 **Hauptergebnisse:**
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &harr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -23196,8 +25760,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Metformin + Sulfonylharnstoff (Glibenclamid oder Glimepirid)
 
 **Hauptergebnisse:**
-- Lebensqualität: &harr;
-- Nebenwirkungen: &harr;
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
+- Nebenwirkungen: &harr; (Keine für die Nutzenbewertung relevanten Unterschiede.)
 
 ---
 
@@ -23211,10 +25777,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: ggf. Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist.)
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -23226,6 +25792,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Humaninsulin + Metformin (Hinweis: ggf. Therapie nur mit Humaninsulin, wenn Metformin nicht ausreichend wirksam ist.)
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -23249,10 +25821,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Patientenindividuelle Therapie unter Berücksichtigung ggf. der Vortherapie und der Krankheitsaktivität unter Auswahl der folgenden Wirkstoffe:
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 
 #### Vortioxetin
@@ -23276,10 +25848,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Beobachtendes Abwarten (zur Behandlung leichter depressiver Episoden ist in der Regel keine Arzneimitteltherapie erforderlich).
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 ---
 
@@ -23292,6 +25864,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** Die Arzneimitteltherapie erfolgt, sofern indiziert, mit einem Antidepressivum aus der Wirkstoffgruppe der selektiven Serotonin-Wiederaufnahmehemmer (SSRI).
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 ---
 
 ###### Patientengruppe 323
@@ -23302,6 +25880,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Zusatznutzen:** ist nicht belegt
 
 **Vergleichstherapie:** Die Arzneimitteltherapie erfolgt, sofern indiziert, mit einem Antidepressivum aus der Wirkstoffgruppe der selektiven Serotonin-Wiederaufnahmehemmer (SSRI). Eine psychotherapeutische Behandlung soll angeboten werden.
+
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
 
 ---
 
@@ -23324,6 +25908,12 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 
 **Vergleichstherapie:** - Eculizumab (für refraktäre Patientinnen und Patienten) oder Efgartigimod alfa oder Ravulizumab
 
+**Hauptergebnisse:**
+- Mortalität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Morbidität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Lebensqualität: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+- Nebenwirkungen: Nicht bewertbar (Es liegen keine bewertbaren Daten vor.)
+
 
 #### lebende Larven von Lucilia sericata
 
@@ -23344,10 +25934,10 @@ Die Anzahl der Nutzenbewertungen und deren Ergebnisse haben sich über die Jahre
 **Vergleichstherapie:** Die zweckmäßige Vergleichstherapie für das Debridement belegter chronischer oder schwer heilender Wunden ist eine patientenindividuell geeignete Debridement-Technik nach Wahl des Arztes. Kriterien für die Auswahl der Debridement-Technik sind unter anderem der Wundtyp, sowie die Lokalisation und Größe der Wunde.
 
 **Hauptergebnisse:**
-- Mortalität: &Oslash;
-- Morbidität: &Oslash;
-- Lebensqualität: &Oslash;
-- Nebenwirkungen: &Oslash;
+- Mortalität: &Oslash; (Es liegen keine Daten vor.)
+- Morbidität: &Oslash; (Es liegen keine Daten vor.)
+- Lebensqualität: &Oslash; (Es liegen keine Daten vor.)
+- Nebenwirkungen: &Oslash; (Es liegen keine Daten vor.)
 
 
 ## Arzneimittel für seltene Leiden (Orphan Drugs)
