@@ -1,6 +1,6 @@
 # G-BA Nutzenbewertungen - Übersichtsbericht
 
-**Generiert am:** 01.08.2025 12:50
+**Generiert am:** 01.08.2025 13:29
 **Datenstand:** XML-Export vom 2025-07-30
 
 ## Zusammenfassung
@@ -16,7 +16,8 @@
 ### Verteilung der Nutzenbewertungen
 
 | Kategorie | Anzahl | Details |
-|-----------|--------|---------|n| **Erheblicher Zusatznutzen** | 17 | erheblich: 17 |
+|-----------|--------|---------|
+| **Erheblicher Zusatznutzen** | 17 | erheblich: 17 |
 | **Beträchtlicher Zusatznutzen** | 172 | beträchtlich: 172 |
 | **Geringer Zusatznutzen** | 162 | gering: 162 |
 | **Zusatznutzen gilt als belegt** | 34 | gilt als belegt: 34 |
@@ -27,7 +28,8 @@
 ### Aussagesicherheit der Bewertungen
 
 | Aussagesicherheit | Anzahl | Anteil |
-|-------------------|--------|--------|n| Anhaltspunkt | 343 | 68.6% |
+|-------------------|--------|--------|
+| Anhaltspunkt | 343 | 68.6% |
 | Hinweis | 147 | 29.4% |
 | Beleg | 10 | 2.0% |
 
