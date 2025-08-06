@@ -32,6 +32,11 @@ lora-application
 training-loop
 model-validation
 evaluation-metrics
+perplexity
+rouge-scores
+domain-specific-accuracy
+human-expert-review
+combined-rationale
 validation-strategy
 deployment
 model-usage

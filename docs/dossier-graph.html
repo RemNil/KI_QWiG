@@ -302,10 +302,10 @@ div.csl-indent {
 </div>
 <div id="core-capabilities" class="section level3 hasAnchor" number="5.1.2">
 <h3><span class="header-section-number">5.1.2</span> Core Capabilities<a href="dossier-graph.html#core-capabilities" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>The fine-tuned model will be able to:</p>
+<p>The fine-tuned model will be helpful in assisting to:</p>
 <ul>
 <li>Generate HTA summaries following IQWiG methodology standards</li>
-<li>Evaluate evidence quality using GRADE terminology</li>
+<li>Evaluate evidence quality using IQWiG terminology</li>
 <li>Draft benefit assessments with appropriate regulatory language</li>
 <li>Analyze cost-effectiveness in accessible terms</li>
 <li>Provide methodological guidance based on IQWiG precedents</li>
@@ -471,12 +471,39 @@ div.csl-indent {
 <h2><span class="header-section-number">5.5</span> Model Validation<a href="dossier-graph.html#model-validation" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <div id="evaluation-metrics" class="section level3 hasAnchor" number="5.5.1">
 <h3><span class="header-section-number">5.5.1</span> Evaluation Metrics<a href="dossier-graph.html#evaluation-metrics" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<ol style="list-style-type: decimal">
-<li><strong>Perplexity</strong>: Measures prediction quality on held-out HTA reports</li>
-<li><strong>ROUGE Scores</strong>: Evaluates summary quality against expert annotations</li>
-<li><strong>Domain-Specific Accuracy</strong>: Tests correct use of IQWiG terminology</li>
-<li><strong>Human Expert Review</strong>: Manual assessment by HTA professionals</li>
-</ol>
+<div id="perplexity" class="section level4 hasAnchor" number="5.5.1.1">
+<h4><span class="header-section-number">5.5.1.1</span> 1. <strong>Perplexity</strong><a href="dossier-graph.html#perplexity" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p><strong>What it measures</strong>: How “surprised” the model is by unseen HTA text - lower scores mean better prediction.</p>
+<p><strong>Rationale</strong>: Perplexity quantifies whether the model has genuinely learned HTA language patterns. If a model achieves low perplexity on held-out IQWiG reports, it demonstrates it can predict the next word in HTA contexts accurately. For example, after “The evidence quality is rated as”, a well-trained model should predict “moderate” or “high” (low perplexity), not random medical terms (high perplexity).</p>
+<p><strong>Why essential</strong>: It’s an objective, automated metric that catches overfitting - if perplexity is low on training data but high on validation data, the model memorized rather than learned.</p>
+</div>
+<div id="rouge-scores" class="section level4 hasAnchor" number="5.5.1.2">
+<h4><span class="header-section-number">5.5.1.2</span> 2. <strong>ROUGE Scores</strong><a href="dossier-graph.html#rouge-scores" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p><strong>What it measures</strong>: Overlap between generated summaries and expert-written reference summaries (word/phrase matching).</p>
+<p><strong>Rationale</strong>: HTA reports require precise summarization of complex evidence. ROUGE scores (Recall-Oriented Understudy for Gisting Evaluation) compare the model’s summaries against gold-standard IQWiG summaries, measuring whether key phrases like “considerable additional benefit” or “hint of lesser benefit” appear correctly. ROUGE-L specifically captures longest common sequences, ensuring the model maintains IQWiG’s logical flow.</p>
+<p><strong>Why essential</strong>: Validates that the model can distill lengthy clinical evidence into concise, accurate assessments matching IQWiG’s standardized summary style.</p>
+</div>
+<div id="domain-specific-accuracy" class="section level4 hasAnchor" number="5.5.1.3">
+<h4><span class="header-section-number">5.5.1.3</span> 3. <strong>Domain-Specific Accuracy</strong><a href="dossier-graph.html#domain-specific-accuracy" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p><strong>What it measures</strong>: Correct usage of IQWiG-specific terminology and methodological concepts.</p>
+<p><strong>Rationale</strong>: IQWiG uses precise regulatory language with specific meanings. The model must distinguish between “proof” vs “indication” vs “hint” of benefit (Beleg/Hinweis/Anhaltspunkt in German), use GRADE terminology correctly, and apply the right benefit categories. This metric tests terminology on a curated test set - for instance, given specific evidence, does the model correctly classify it as “major” vs “considerable” additional benefit?</p>
+<p><strong>Why essential</strong>: Generic medical language isn’t sufficient for regulatory submissions. Misusing terms like “significant benefit” instead of IQWiG’s exact categories could invalidate an assessment.</p>
+</div>
+<div id="human-expert-review" class="section level4 hasAnchor" number="5.5.1.4">
+<h4><span class="header-section-number">5.5.1.4</span> 4. <strong>Human Expert Review</strong><a href="dossier-graph.html#human-expert-review" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p><strong>What it measures</strong>: Qualitative assessment of readability, logical coherence, and regulatory appropriateness.</p>
+<p><strong>Rationale</strong>: Automated metrics miss critical nuances that HTA professionals immediately recognize. Experts evaluate whether the model’s outputs would be acceptable in actual IQWiG proceedings - checking for logical argumentation, appropriate hedging language, correct interpretation of statistical significance vs clinical relevance, and adherence to IQWiG’s methodological standards that aren’t captured by word matching.</p>
+<p><strong>Why essential</strong>: The ultimate test is whether HTA professionals would trust and use the output. Expert review catches dangerous errors (like misinterpreting non-inferiority trials) that automated metrics might miss.</p>
+</div>
+<div id="combined-rationale" class="section level4 hasAnchor" number="5.5.1.5">
+<h4><span class="header-section-number">5.5.1.5</span> Combined Rationale<a href="dossier-graph.html#combined-rationale" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>These four metrics create a comprehensive evaluation framework:
+- <strong>Perplexity</strong> ensures fundamental language modeling capability
+- <strong>ROUGE</strong> validates content accuracy and completeness<br />
+- <strong>Domain Accuracy</strong> confirms regulatory compliance
+- <strong>Expert Review</strong> provides the final quality gate</p>
+<p>Together, they prevent deploying a model that seems statistically competent but fails in real HTA contexts - a critical safety requirement for regulatory healthcare applications.</p>
+</div>
 </div>
 <div id="validation-strategy" class="section level3 hasAnchor" number="5.5.2">
 <h3><span class="header-section-number">5.5.2</span> Validation Strategy<a href="dossier-graph.html#validation-strategy" class="anchor-section" aria-label="Anchor link to header"></a></h3>
