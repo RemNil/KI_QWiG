@@ -166,10 +166,43 @@ trainer.train()
 
 ### Evaluation Metrics {#evaluation-metrics}
 
-1. **Perplexity**: Measures prediction quality on held-out HTA reports
-2. **ROUGE Scores**: Evaluates summary quality against expert annotations
-3. **Domain-Specific Accuracy**: Tests correct use of IQWiG terminology
-4. **Human Expert Review**: Manual assessment by HTA professionals
+#### 1. **Perplexity**
+**What it measures**: How "surprised" the model is by unseen HTA text - lower scores mean better prediction.
+
+**Rationale**: Perplexity quantifies whether the model has genuinely learned HTA language patterns. If a model achieves low perplexity on held-out IQWiG reports, it demonstrates it can predict the next word in HTA contexts accurately. For example, after "The evidence quality is rated as", a well-trained model should predict "moderate" or "high" (low perplexity), not random medical terms (high perplexity).
+
+**Why essential**: It's an objective, automated metric that catches overfitting - if perplexity is low on training data but high on validation data, the model memorized rather than learned.
+
+#### 2. **ROUGE Scores**
+**What it measures**: Overlap between generated summaries and expert-written reference summaries (word/phrase matching).
+
+**Rationale**: HTA reports require precise summarization of complex evidence. ROUGE scores (Recall-Oriented Understudy for Gisting Evaluation) compare the model's summaries against gold-standard IQWiG summaries, measuring whether key phrases like "considerable additional benefit" or "hint of lesser benefit" appear correctly. ROUGE-L specifically captures longest common sequences, ensuring the model maintains IQWiG's logical flow.
+
+**Why essential**: Validates that the model can distill lengthy clinical evidence into concise, accurate assessments matching IQWiG's standardized summary style.
+
+#### 3. **Domain-Specific Accuracy**
+**What it measures**: Correct usage of IQWiG-specific terminology and methodological concepts.
+
+**Rationale**: IQWiG uses precise regulatory language with specific meanings. The model must distinguish between "proof" vs "indication" vs "hint" of benefit (Beleg/Hinweis/Anhaltspunkt in German), use GRADE terminology correctly, and apply the right benefit categories. This metric tests terminology on a curated test set - for instance, given specific evidence, does the model correctly classify it as "major" vs "considerable" additional benefit?
+
+**Why essential**: Generic medical language isn't sufficient for regulatory submissions. Misusing terms like "significant benefit" instead of IQWiG's exact categories could invalidate an assessment.
+
+#### 4. **Human Expert Review**
+**What it measures**: Qualitative assessment of readability, logical coherence, and regulatory appropriateness.
+
+**Rationale**: Automated metrics miss critical nuances that HTA professionals immediately recognize. Experts evaluate whether the model's outputs would be acceptable in actual IQWiG proceedings - checking for logical argumentation, appropriate hedging language, correct interpretation of statistical significance vs clinical relevance, and adherence to IQWiG's methodological standards that aren't captured by word matching.
+
+**Why essential**: The ultimate test is whether HTA professionals would trust and use the output. Expert review catches dangerous errors (like misinterpreting non-inferiority trials) that automated metrics might miss.
+
+#### Combined Rationale
+
+These four metrics create a comprehensive evaluation framework:
+- **Perplexity** ensures fundamental language modeling capability
+- **ROUGE** validates content accuracy and completeness  
+- **Domain Accuracy** confirms regulatory compliance
+- **Expert Review** provides the final quality gate
+
+Together, they prevent deploying a model that seems statistically competent but fails in real HTA contexts - a critical safety requirement for regulatory healthcare applications.
 
 ### Validation Strategy {#validation-strategy}
 
