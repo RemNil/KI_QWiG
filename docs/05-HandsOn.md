@@ -1,146 +1,334 @@
-# Comprehensive Documention: Dossier-Graph
+# Dossier-Graph: Model Fine-Tuning for IQWiG Domain Knowledge {#dossier-graph}
 
+## Overview {#overview}
 
-## Implementation steps
+This guide provides comprehensive instructions for implementing the Dossier-Graph system, which creates a specialized AI assistant for Health Technology Assessment (HTA) tasks. The system fine-tunes large language models to understand and generate content following IQWiG (Institute for Quality and Efficiency in Health Care) standards.
 
-Here is a step by step description of how to implement the Dossier-Graph on your system (assuming UBUNTU 24 LTS).
+### System Requirements {#system-requirements}
 
-## Model Fine-Tuning to IQWiG Domain Knowledge
+- **Operating System**: Ubuntu 24 LTS (recommended)
+- **Memory**: Minimum 16GB RAM
+- **GPU**: NVIDIA GPU with 8-12GB VRAM
+- **Storage**: 50GB available space
+- **Python**: Version 3.8 or higher
 
-We're essentially showing the AI thousands of examples of "this is how IQWiG experts write" and letting it learn the statistical patterns, then applying those patterns to new situations.
+### Core Capabilities {#core-capabilities}
 
-#### STEP 1:  Data Preparation
-Convert HTA Reports to Training Examples
-FOR each IQWiG report:
-    extract_text_from_pdf(report.pdf)
+The fine-tuned model will be able to:
+
+- Generate HTA summaries following IQWiG methodology standards
+- Evaluate evidence quality using GRADE terminology
+- Draft benefit assessments with appropriate regulatory language
+- Analyze cost-effectiveness in accessible terms
+- Provide methodological guidance based on IQWiG precedents
+- Process both German and English HTA content
+
+## Implementation Architecture {#implementation-architecture}
+
+### Technical Stack {#technical-stack}
+
+- **Base Model**: Mistral-7B-v0.1 (7 billion parameters)
+- **Fine-tuning Method**: LoRA (Low-Rank Adaptation)
+- **Quantization**: 4-bit precision for memory efficiency
+- **Framework**: Hugging Face Transformers with PEFT
+
+### LoRA Configuration {#lora-configuration}
+
+```python
+target_modules = [
+    "q_proj", "k_proj", "v_proj", "o_proj",  # Attention layers
+    "gate_proj", "up_proj", "down_proj",     # MLP layers  
+    "lm_head"                                 # Output projection
+]
+
+lora_config = {
+    "r": 64,                # Rank for medical terminology complexity
+    "alpha": 128,           # 2x rank ratio for training stability
+    "dropout": 0.05,        # Lower dropout for specialized domain
+    "bias": "none"          # Standard for causal language models
+}
+```
+
+## Data Preparation Pipeline {#data-preparation}
+
+### Step 1: Document Processing {#document-processing}
+
+Convert IQWiG reports into structured training data:
+
+```python
+def process_hta_report(report_path):
+    """Extract and structure content from IQWiG reports."""
     
-    // Essential: Create question-answer pairs
+    # Extract text from PDF
+    text_content = extract_text_from_pdf(report_path)
+    
+    # Create instruction-based training examples
     training_example = {
-        question: "Summarize the benefit assessment for [drug name]"
-        context: "IQWiG report A23-42: Methods section... Results section..."  
-        answer: "The assessment concluded considerable additional benefit..."
+        "instruction": "Summarize the benefit assessment findings",
+        "input": f"IQWiG Report {report_id}: {text_content}",
+        "output": "The assessment concluded..."
     }
     
-    // Essential: Use IQWiG's exact format
-    format_as_conversation(training_example)
-    // "[INST] Question + Context [/INST] Answer"
+    return format_as_jsonl(training_example)
+```
 
-WHY ESSENTIAL: The AI learns by seeing thousands of examples of "good HTA writing"
+### Step 2: Training Data Structure {#training-data-structure}
 
-#### STEP 2: Model Setup
-Load Base AI Model
-base_model = load_mistral_7b()  // 7 billion parameters
-compress_model_to_4bit()        // Reduces memory from 28GB to 7GB
+Each training example follows this JSONL format:
 
+```json
+{
+  "instruction": "Evaluate the evidence quality for pembrolizumab in melanoma",
+  "input": "Single RCT, n=834 patients, 22-month follow-up, primary endpoint: PFS",
+  "output": "The evidence quality is rated as moderate (GRADE). While the single RCT provides robust data with adequate sample size and follow-up duration, the limitation to a single study reduces confidence in the generalizability of findings."
+}
+```
 
-#### STEP 3: Apply LoRA Modification
-// Essential: Only modify specific parts, not entire model
-target_layers = ["attention_weights", "output_projections"] 
-FOR each target_layer:
-    add_small_adjustment_matrix(layer, size=64)  // 64 parameters vs 4 million
+### Data Requirements {#data-requirements}
 
-WHY ESSENTIAL: We're not retraining the entire AI (impossible), just teaching it 
-HTA-specific patterns by adding tiny "adjustment dials"
+| Task Type | Minimum Examples | Recommended |
+|-----------|-----------------|-------------|
+| Evidence Assessment | 200 | 500+ |
+| Benefit Rating | 200 | 400+ |
+| Cost-Effectiveness Analysis | 150 | 300+ |
+| Methodology Evaluation | 100 | 250+ |
 
+## Model Training Process {#model-training}
 
-#### STEP 4: Training Loop
-FOR 3 complete_passes_through_data:
-    FOR each training_example:
-        
-        // Feed the AI the question + context
-        prediction = model.generate_answer(question + context)
-        
-        // Compare to correct HTA answer
-        error = calculate_difference(prediction, correct_answer)
-        
-        // Essential: Adjust only the LoRA parameters
-        adjust_small_matrices(error_signal)
-        // Original model stays frozen!
-        
-#### STEP 5: Validation  
-EVERY 100 examples:
-    test_on_holdout_reports()
-    IF error_increasing:
-        stop_training()  // Prevent overfitting
+### Step 1: Environment Setup {#environment-setup}
 
-WHY ESSENTIAL: Like teaching someone to write in IQWiG style - show examples, 
-give feedback, adjust gradually
+```bash
+# Install required packages
+pip install torch transformers peft trl datasets accelerate bitsandbytes
 
-#### STEP 6: Using the Trained Model
-user_question = "Assess the evidence quality for pembrolizumab in melanoma"
-user_context = "Single RCT, n=834 patients, 22-month follow-up..."
+# Load and compress base model
+from transformers import AutoModelForCausalLM, BitsAndBytesConfig
 
-// Essential: Format exactly like training
-formatted_input = "[INST] " + user_question + "\n\nContext: " + user_context + " [/INST]"
+quantization_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_compute_dtype=torch.float16,
+    bnb_4bit_quant_type="nf4"
+)
 
-// Model processing (simplified)
-tokens = convert_text_to_numbers(formatted_input)
-FOR each position in sequence:
-    // Base model generates medical knowledge
-    base_probabilities = mistral_base_model(tokens)
+model = AutoModelForCausalLM.from_pretrained(
+    "mistralai/Mistral-7B-v0.1",
+    quantization_config=quantization_config,
+    device_map="auto"
+)
+```
+
+### Step 2: LoRA Application {#lora-application}
+
+The LoRA method adds small, trainable matrices to specific model layers:
+
+```python
+from peft import get_peft_model, LoraConfig
+
+peft_config = LoraConfig(
+    task_type="CAUSAL_LM",
+    target_modules=target_modules,
+    r=64,
+    lora_alpha=128,
+    lora_dropout=0.05
+)
+
+model = get_peft_model(model, peft_config)
+# Trainable parameters: ~0.3% of original model
+```
+
+### Step 3: Training Loop {#training-loop}
+
+```python
+training_args = TrainingArguments(
+    num_train_epochs=3,
+    per_device_train_batch_size=4,
+    gradient_accumulation_steps=4,
+    learning_rate=2e-4,
+    warmup_steps=100,
+    logging_steps=25,
+    save_strategy="epoch",
+    evaluation_strategy="steps",
+    eval_steps=100
+)
+
+trainer = SFTTrainer(
+    model=model,
+    train_dataset=train_dataset,
+    eval_dataset=eval_dataset,
+    args=training_args,
+    max_seq_length=2048
+)
+
+trainer.train()
+```
+
+## Model Validation {#model-validation}
+
+### Evaluation Metrics {#evaluation-metrics}
+
+1. **Perplexity**: Measures prediction quality on held-out HTA reports
+2. **ROUGE Scores**: Evaluates summary quality against expert annotations
+3. **Domain-Specific Accuracy**: Tests correct use of IQWiG terminology
+4. **Human Expert Review**: Manual assessment by HTA professionals
+
+### Validation Strategy {#validation-strategy}
+
+```python
+# Split data: 80% training, 20% validation
+train_reports = reports[:int(0.8 * len(reports))]
+val_reports = reports[int(0.8 * len(reports)):]
+
+# Test on unseen reports
+validation_results = model.evaluate(val_reports)
+
+if validation_results['perplexity'] > threshold:
+    # Consider increasing training data or adjusting hyperparameters
+    optimize_training_parameters()
+```
+
+## Deployment and Inference {#deployment}
+
+### Model Usage {#model-usage}
+
+```python
+def generate_hta_response(question, context):
+    """Generate HTA-compliant responses."""
     
-    // LoRA adjustments add HTA-specific patterns  
-    hta_adjustments = lora_matrices(tokens)
-    final_probabilities = base_probabilities + hta_adjustments
+    # Format input following training schema
+    prompt = f"[INST] {question}\n\nContext: {context} [/INST]"
     
-    next_word = sample_from_probabilities(final_probabilities)
-    tokens.append(next_word)
-
-response = convert_numbers_to_text(tokens)
-
-WHY ESSENTIAL: The base model provides general medical knowledge, 
-LoRA adds IQWiG-specific writing patterns
-
-## Essential Concepts
-
-#### 1: Pattern Matching at Scale
-
-// The AI learns patterns like:
-IF user_asks_about("evidence quality") AND context_mentions("single RCT"):
-    response_should_include("limitations of single-study evidence")
-    response_should_mention("need for replication") 
-    response_should_use_GRADE_terminology()
-
-
-#### 2: Mathematical Optimization
-
-// Training is essentially:
-REPEAT millions_of_times:
-    wrong_answer = "The study was good"  // Too vague
-    correct_answer = "The study provides moderate-quality evidence (GRADE: moderate)"
+    # Tokenize and generate
+    inputs = tokenizer(prompt, return_tensors="pt")
+    outputs = model.generate(
+        inputs.input_ids,
+        max_new_tokens=512,
+        temperature=0.7,
+        do_sample=True,
+        top_p=0.95
+    )
     
-    error = correct_answer - wrong_answer
-    adjustment = error * learning_rate * 0.0002
-    model_parameters += adjustment
-    
-#### 3: Why LoRA Works
+    return tokenizer.decode(outputs[0], skip_special_tokens=True)
+```
 
-// Instead of changing 7 billion parameters:
-original_layer = Matrix[4096 x 4096]  // 16 million numbers
-lora_layer = MatrixA[4096 x 64] * MatrixB[64 x 4096]  // Only 524k numbers
+### Example Applications {#example-applications}
 
-// During inference:
-output = original_layer(input) + lora_layer(input)
-// 99.7% original knowledge + 0.3% HTA-specific adjustments
+```python
+# Evidence quality assessment
+response = generate_hta_response(
+    question="Assess the evidence quality for this intervention",
+    context="Two RCTs (n=1,245 total), 12-month follow-up, consistent findings"
+)
 
+# Benefit summary generation
+response = generate_hta_response(
+    question="Summarize the additional benefit assessment",
+    context="IQWiG Report A23-42: Primary endpoint met, QoL improved..."
+)
+```
 
-## Critical Factors
+## Critical Success Factors {#success-factors}
 
-#### Data Quality: Bad examples → Bad AI ("Garbage In -- Garbage Out")
+### Data Quality {#data-quality}
 
-IF training_data_contains("inconsistent terminology"):
-    model_will_learn("inconsistent patterns")
-    
-#### Sufficient Examples: Need 500+ examples per task type
+- **Consistency**: Ensure uniform terminology across training examples
+- **Completeness**: Include all relevant IQWiG assessment types
+- **Accuracy**: Verify expert annotations before training
 
-evidence_assessment_examples = 50   // Too few
-benefit_rating_examples = 200       // Sufficient  
-cost_effectiveness_examples = 100   // Borderlin
+### Technical Considerations {#technical-considerations}
 
+1. **Memory Management**: 4-bit quantization reduces VRAM from 28GB to 7GB
+2. **Training Stability**: Gradient accumulation enables larger effective batch sizes
+3. **Overfitting Prevention**: Regular validation on held-out reports
 
-#### Proper Validation: Must test on unseen IQWiG reports
+### Performance Optimization {#performance-optimization}
 
-training_reports = reports[0:80%]    // Learn from these
-test_reports = reports[80:100%]      // Evaluate on these
-IF test_performance < acceptable_threshold:
-    need_more_data_or_different_approach()
+| Parameter | Impact | Recommended Value |
+|-----------|--------|------------------|
+| Learning Rate | Training stability | 2e-4 to 5e-4 |
+| LoRA Rank (r) | Model capacity | 32-64 for medical domain |
+| Batch Size | Memory usage | 4-8 with gradient accumulation |
+| Training Epochs | Model performance | 3-5 (monitor validation loss) |
+
+## Mathematical Foundation {#mathematical-foundation}
+
+### LoRA Mechanism {#lora-mechanism}
+
+Instead of updating all model parameters, LoRA introduces low-rank decomposition:
+
+$$W_{new} = W_{original} + BA$$
+
+Where:
+- $W_{original}$ ∈ ℝ^{d×k} (frozen pre-trained weights)
+- $B$ ∈ ℝ^{d×r} and $A$ ∈ ℝ^{r×k} (trainable matrices)
+- $r << min(d, k)$ (rank constraint)
+
+This reduces trainable parameters from O(dk) to O(r(d+k)), typically a 99.7% reduction.
+
+### Training Objective {#training-objective}
+
+The model optimizes cross-entropy loss over HTA-specific tokens:
+
+$$L = -\sum_{i=1}^{N} \log P(y_i | x_{<i}, \theta_{base} + \Delta\theta_{LoRA})$$
+
+Where $\Delta\theta_{LoRA}$ represents the small parameter updates learned from IQWiG data.
+
+## Installation Guide {#installation}
+
+### Quick Start {#quick-start}
+
+```bash
+# Clone repository
+git clone https://github.com/your-org/dossier-graph.git
+cd dossier-graph
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run training pipeline
+python train_mistral_lora_hta.py \
+    --data_path ./data/iqwig_reports \
+    --output_dir ./models/hta_mistral \
+    --num_epochs 3
+```
+
+### Production Deployment {#production-deployment}
+
+For production environments, consider:
+
+1. **API Service**: Deploy model behind REST API for scalability
+2. **Batch Processing**: Implement queue system for high-volume requests
+3. **Monitoring**: Track inference latency and model performance metrics
+4. **Version Control**: Maintain model versioning for reproducibility
+
+## Troubleshooting {#troubleshooting}
+
+### Common Issues {#common-issues}
+
+| Issue | Cause | Solution |
+|-------|-------|----------|
+| Out of Memory | Large batch size | Reduce batch size or increase gradient accumulation |
+| Poor Performance | Insufficient data | Increase training examples or use data augmentation |
+| Overfitting | Too many epochs | Implement early stopping based on validation loss |
+| Slow Training | Inefficient settings | Enable mixed precision training (fp16) |
+
+## Conclusion {#conclusion}
+
+The Dossier-Graph system enables organizations to create specialized AI assistants that understand and generate HTA content following IQWiG standards. By leveraging LoRA fine-tuning on carefully curated datasets, the system achieves domain expertise while maintaining computational efficiency.
+
+### Next Steps {#next-steps}
+
+1. Collect and prepare IQWiG reports for training
+2. Set up development environment following this guide
+3. Train initial model and evaluate performance
+4. Iterate based on domain expert feedback
+5. Deploy for production use
+
+## References {#references}
+
+- Hu, E. J., et al. (2021). LoRA: Low-Rank Adaptation of Large Language Models. arXiv:2106.09685
+- IQWiG Methods Papers and Guidelines: www.iqwig.de
+- Hugging Face PEFT Documentation: https://huggingface.co/docs/peft
