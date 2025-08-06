@@ -14,10 +14,10 @@ This guide provides comprehensive instructions for implementing the Dossier-Grap
 
 ### Core Capabilities {#core-capabilities}
 
-The fine-tuned model will be able to:
+The fine-tuned model will be helpful in assisting to:
 
 - Generate HTA summaries following IQWiG methodology standards
-- Evaluate evidence quality using GRADE terminology
+- Evaluate evidence quality using IQWiG terminology
 - Draft benefit assessments with appropriate regulatory language
 - Analyze cost-effectiveness in accessible terms
 - Provide methodological guidance based on IQWiG precedents
