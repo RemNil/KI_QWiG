@@ -87,7 +87,7 @@ Each training example follows this JSONL format:
 ### Data Requirements {#data-requirements}
 
 | Task Type | Minimum Examples | Recommended |
-|-----------|-----------------|-------------|
+|:----------|:----------------|:------------|
 | Evidence Assessment | 200 | 500+ |
 | Benefit Rating | 200 | 400+ |
 | Cost-Effectiveness Analysis | 150 | 300+ |
@@ -243,7 +243,7 @@ response = generate_hta_response(
 ### Performance Optimization {#performance-optimization}
 
 | Parameter | Impact | Recommended Value |
-|-----------|--------|------------------|
+|:----------|:-------|:-----------------|
 | Learning Rate | Training stability | 2e-4 to 5e-4 |
 | LoRA Rank (r) | Model capacity | 32-64 for medical domain |
 | Batch Size | Memory usage | 4-8 with gradient accumulation |
@@ -275,6 +275,8 @@ Where $\Delta\theta_{LoRA}$ represents the small parameter updates learned from 
 ## Installation Guide {#installation}
 
 ### Quick Start {#quick-start}
+
+Do not run: work in progress!
 
 ```bash
 # Clone repository
@@ -309,7 +311,7 @@ For production environments, consider:
 ### Common Issues {#common-issues}
 
 | Issue | Cause | Solution |
-|-------|-------|----------|
+|:------|:------|:---------|
 | Out of Memory | Large batch size | Reduce batch size or increase gradient accumulation |
 | Poor Performance | Insufficient data | Increase training examples or use data augmentation |
 | Overfitting | Too many epochs | Implement early stopping based on validation loss |
