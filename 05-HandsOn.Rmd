@@ -7,6 +7,8 @@ Here is a step by step description of how to implement the Dossier-Graph on your
 
 ## Model Fine-Tuning to IQWiG Domain Knowledge
 
+We're essentially showing the AI thousands of examples of "this is how IQWiG experts write" and letting it learn the statistical patterns, then applying those patterns to new situations.
+
 #### STEP 1:  Data Preparation
 Convert HTA Reports to Training Examples
 FOR each IQWiG report:
@@ -88,3 +90,57 @@ response = convert_numbers_to_text(tokens)
 
 WHY ESSENTIAL: The base model provides general medical knowledge, 
 LoRA adds IQWiG-specific writing patterns
+
+## Essential Concepts
+
+#### 1: Pattern Matching at Scale
+
+// The AI learns patterns like:
+IF user_asks_about("evidence quality") AND context_mentions("single RCT"):
+    response_should_include("limitations of single-study evidence")
+    response_should_mention("need for replication") 
+    response_should_use_GRADE_terminology()
+
+
+#### 2: Mathematical Optimization
+
+// Training is essentially:
+REPEAT millions_of_times:
+    wrong_answer = "The study was good"  // Too vague
+    correct_answer = "The study provides moderate-quality evidence (GRADE: moderate)"
+    
+    error = correct_answer - wrong_answer
+    adjustment = error * learning_rate * 0.0002
+    model_parameters += adjustment
+    
+#### 3: Why LoRA Works
+
+// Instead of changing 7 billion parameters:
+original_layer = Matrix[4096 x 4096]  // 16 million numbers
+lora_layer = MatrixA[4096 x 64] * MatrixB[64 x 4096]  // Only 524k numbers
+
+// During inference:
+output = original_layer(input) + lora_layer(input)
+// 99.7% original knowledge + 0.3% HTA-specific adjustments
+
+
+## Critical Factors
+
+#### Data Quality: Bad examples → Bad AI ("Garbage In -- Garbage Out")
+
+IF training_data_contains("inconsistent terminology"):
+    model_will_learn("inconsistent patterns")
+    
+#### Sufficient Examples: Need 500+ examples per task type
+
+evidence_assessment_examples = 50   // Too few
+benefit_rating_examples = 200       // Sufficient  
+cost_effectiveness_examples = 100   // Borderlin
+
+
+#### Proper Validation: Must test on unseen IQWiG reports
+
+training_reports = reports[0:80%]    // Learn from these
+test_reports = reports[80:100%]      // Evaluate on these
+IF test_performance < acceptable_threshold:
+    need_more_data_or_different_approach()
