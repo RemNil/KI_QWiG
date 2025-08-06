@@ -106,7 +106,7 @@ iqwig_pdf_pipeline/
 │
 ├── requirements.txt               # Python dependencies
 ├── README.md
-└── config.yaml                   # Pipeline configs (paths, thresholds, etc.)
+└── config.yaml                    # Pipeline configs (paths, thresholds, etc.)
 ```
 
 ## Graph development
